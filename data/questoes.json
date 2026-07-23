@@ -25,25 +25,25 @@
   {
     "id": "q002",
     "materia": "Língua Portuguesa",
-    "assunto": "Domínio da ortografia oficial (acentuação)",
-    "enunciado": "Assinale a alternativa em que todas as palavras estão corretamente grafadas segundo as regras vigentes de acentuação gráfica.",
+    "assunto": "Concordância verbal e nominal",
+    "enunciado": "Quando o pronome 'se' funciona como índice de indeterminação do sujeito (associado a verbo transitivo indireto, intransitivo ou de ligação), o verbo permanece obrigatoriamente na terceira pessoa do singular. Assinale a alternativa em que há erro de concordância verbal decorrente do uso indevido desse pronome.",
     "alternativas": {
-      "A": "Idéia, heróico, jibóia",
-      "B": "Ideia, heroico, jiboia",
-      "C": "Ideía, heroíco, jibóia",
-      "D": "Idéia, heroico, jibóia"
+      "A": "Confia-se nos resultados divulgados pela comissão.",
+      "B": "Precisa-se de novos candidatos aprovados no teste físico.",
+      "C": "Obedeceram-se às normas de segurança durante todo o treinamento.",
+      "D": "Assiste-se, com atenção, ao treinamento dos recrutas."
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Desde o Acordo Ortográfico vigente, ditongos abertos 'ei' e 'oi' em palavras paroxítonas deixaram de ser acentuados. Por isso, a grafia correta é 'ideia', 'heroico' e 'jiboia', sem acento.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "'Obedecer' é verbo transitivo indireto ('obedecer a algo'). Com o pronome 'se' como índice de indeterminação do sujeito, o verbo deve ficar no singular: 'Obedeceu-se às normas'. A forma plural 'Obedeceram-se' está gramaticalmente incorreta.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: mantém acentos que foram eliminados pelo Acordo Ortográfico em ditongos abertos de paroxítonas.",
-      "C": "Incorreta: além de manter acento indevido em 'jibóia', insere acentuação incorreta em 'ideía' (forma inexistente) e 'heroíco'.",
-      "D": "Incorreta: mantém acento indevido em 'idéia' e 'jibóia', embora acerte 'heroico'."
+      "A": "Correta: 'confiar' é transitivo indireto ('confiar em algo'); com índice de indeterminação do sujeito, o verbo no singular ('Confia-se') está certo — por isso não é a alternativa com erro.",
+      "B": "Correta: 'precisar' é transitivo indireto ('precisar de algo'); o verbo no singular ('Precisa-se') está certo — por isso não é a alternativa com erro.",
+      "D": "Correta: 'assistir', no sentido de presenciar, é transitivo indireto ('assistir a algo'); o verbo no singular ('Assiste-se') está certo — por isso não é a alternativa com erro."
     },
-    "referenciaEdital": "Ortografia oficial: emprego das letras e acentuação gráfica",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, item 8.2.3",
-    "pagina": "51",
-    "dificuldade": "média"
+    "referenciaEdital": "Concordância verbal e nominal",
+    "fonte": "Questão adaptada de prova real do CBMMG (Edital CBMMG 2021, CFSd BM/2022, Prova C, Questão 8, aplicada pela banca Fundep) — enunciado e alternativas reescritos; conteúdo baseado no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
+    "pagina": "51 (edital) / Prova C, Fundep, p.5",
+    "dificuldade": "difícil"
   },
   {
     "id": "q003",
@@ -163,25 +163,25 @@
   {
     "id": "q008",
     "materia": "Língua Portuguesa",
-    "assunto": "Reescritura de frases sem alteração de sentido",
-    "enunciado": "\"Somente serão aceitas as inscrições pagas até a data-limite estabelecida no edital.\"\n\nAssinale a alternativa que reescreve a frase acima MANTENDO o sentido original.",
+    "assunto": "Colocação dos pronomes átonos",
+    "enunciado": "Assinale a alternativa em que a colocação do pronome átono está de acordo com a norma-padrão.",
     "alternativas": {
-      "A": "As inscrições pagas até a data-limite não serão aceitas.",
-      "B": "As inscrições, ainda que pagas após a data-limite, poderão ser aceitas.",
-      "C": "Nenhuma inscrição será aceita, mesmo que paga até a data-limite.",
-      "D": "Apenas as inscrições cujo pagamento ocorrer até a data-limite serão aceitas."
+      "A": "Todos se emocionaram durante a solenidade de formatura dos novos soldados.",
+      "B": "Jamais afastar-me-ei dos valores da corporação.",
+      "C": "Ninguém avisou-me sobre a alteração do horário do treinamento.",
+      "D": "Onde perderam-se os equipamentos de resgate?"
     },
-    "respostaCorreta": "D",
-    "explicacaoCorreta": "A reescrita em D preserva o sentido restritivo original ('somente... até a data-limite'), apenas trocando 'somente' por 'apenas' e reorganizando a oração sem alterar a condição temporal.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "'Todos' é pronome indefinido e funciona como palavra atrativa, exigindo próclise. 'Todos se emocionaram' está, portanto, de acordo com a norma-padrão.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: inverte completamente o sentido, negando a aceitação das inscrições pagas dentro do prazo.",
-      "B": "Incorreta: contraria o texto original ao admitir pagamento após a data-limite.",
-      "C": "Incorreta: nega a aceitação de qualquer inscrição, mesmo as pagas no prazo, o que contraria o texto original."
+      "B": "Incorreta: 'jamais' é advérbio de negação e palavra atrativa, exigindo próclise ('Jamais me afastarei'), e não mesóclise.",
+      "C": "Incorreta: 'ninguém' é pronome indefinido e palavra atrativa, exigindo próclise ('Ninguém me avisou'), e não ênclise.",
+      "D": "Incorreta: 'onde', em pergunta direta, é advérbio interrogativo e palavra atrativa, exigindo próclise ('Onde se perderam'), e não ênclise."
     },
-    "referenciaEdital": "Reescritura de frases e parágrafos do texto",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Colocação dos pronomes átonos",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
-    "dificuldade": "média"
+    "dificuldade": "difícil"
   },
   {
     "id": "q009",
@@ -278,25 +278,25 @@
   {
     "id": "q013",
     "materia": "Raciocínio Lógico e Matemático",
-    "assunto": "Raciocínio sequencial",
-    "enunciado": "Observe a sequência numérica: 3, 7, 15, 31, 63, ...\n\nQual é o próximo número da sequência?",
+    "assunto": "Problemas geométricos aplicados",
+    "enunciado": "Uma equipe de bombeiros precisa esvaziar totalmente uma cisterna em formato de cone invertido, com 8 metros de altura e 8 metros de raio da base, usando um balde com formato de hemisfério (meia esfera) de 1 metro de raio, sempre cheio a cada viagem.\n\n(Considere: V(cone) = π·r²·h/3 ; V(esfera) = 4·π·r³/3)\n\nQuantas baldadas, no mínimo, são necessárias para esvaziar totalmente a cisterna?",
     "alternativas": {
-      "A": "95",
-      "B": "111",
-      "C": "125",
-      "D": "127"
+      "A": "128",
+      "B": "256",
+      "C": "512",
+      "D": "64"
     },
-    "respostaCorreta": "D",
-    "explicacaoCorreta": "Cada termo é obtido multiplicando o anterior por 2 e somando 1: 3×2+1=7; 7×2+1=15; 15×2+1=31; 31×2+1=63; 63×2+1=127.",
+    "respostaCorreta": "B",
+    "explicacaoCorreta": "V(cone) = π·8²·8/3 = π·512/3. V(balde, hemisfério de r=1) = metade de V(esfera) = (1/2)·(4π·1³/3) = 2π/3. Número de baldadas = (512π/3) ÷ (2π/3) = 512/2 = 256.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: não segue o padrão 'dobro mais um' identificado na sequência.",
-      "B": "Incorreta: valor obtido por soma incorreta de diferenças, sem seguir o padrão multiplicativo real da sequência.",
-      "C": "Incorreta: aproxima-se do valor correto, mas não resulta da aplicação exata da regra 'dobro mais um'."
+      "A": "Incorreta: corresponde ao uso do volume da esfera completa (4π/3), em vez do hemisfério (metade dela), no cálculo do balde.",
+      "C": "Incorreta: não corresponde à proporção correta entre os volumes do cone e do hemisfério calculados.",
+      "D": "Incorreta: não corresponde a nenhuma operação consistente com as fórmulas de volume fornecidas."
     },
-    "referenciaEdital": "Raciocínio sequencial",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
-    "pagina": "51",
-    "dificuldade": "média"
+    "referenciaEdital": "Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais",
+    "fonte": "Questão adaptada de prova real do CBMMG (Edital CBMMG 2021, CFSd BM/2022, Prova C, Questão 11, aplicada pela banca Fundep) — contexto e valores numéricos reescritos; fórmulas de volume mantidas como conteúdo factual do Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
+    "pagina": "51 (edital) / Prova C, Fundep, p.6",
+    "dificuldade": "difícil"
   },
   {
     "id": "q014",
@@ -370,25 +370,25 @@
   {
     "id": "q017",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "PIDCP e PIDESC",
-    "enunciado": "Os Pactos Internacionais de 1966 — Pacto Internacional dos Direitos Civis e Políticos (PIDCP) e Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC) — dividem os direitos humanos, para fins de tratado internacional, em dois grandes grupos. O direito a condições justas e favoráveis de trabalho está previsto, especificamente, em qual desses instrumentos?",
+    "assunto": "Declaração Universal dos Direitos Humanos",
+    "enunciado": "A Declaração Universal dos Direitos Humanos (DUDH), em seu artigo 1º, estabelece um princípio fundamental sobre a condição de todos os seres humanos. Assinale a alternativa que reproduz corretamente esse princípio.",
     "alternativas": {
-      "A": "Exclusivamente no PIDCP",
-      "B": "Exclusivamente no PIDESC",
-      "C": "Em nenhum dos dois pactos, apenas na Declaração Universal",
-      "D": "Apenas na Convenção Americana sobre Direitos Humanos"
+      "A": "Todos os seres humanos nascem livres e iguais em dignidade e direitos.",
+      "B": "Todos os seres humanos nascem sujeitos à autoridade soberana do Estado a que pertencem.",
+      "C": "Todo ser humano tem direito a uma nacionalidade, que não poderá ser alterada.",
+      "D": "Todos os seres humanos têm direito ao trabalho, à livre escolha de emprego e a condições justas de trabalho."
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "O PIDESC trata dos direitos econômicos, sociais e culturais, entre os quais o direito a condições justas e favoráveis de trabalho, diferentemente do PIDCP, voltado a liberdades civis e direitos de participação política.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "O art. 1º da DUDH estabelece expressamente que 'todos os seres humanos nascem livres e iguais em dignidade e direitos', fundamento sobre o qual se apoia toda a Declaração.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: o PIDCP trata de direitos civis e políticos, como liberdade de expressão e direito ao voto, não de condições de trabalho.",
-      "C": "Incorreta: embora a Declaração Universal também mencione esse direito de forma geral, o instrumento específico que o detalha como obrigação de tratado é o PIDESC.",
-      "D": "Incorreta: a Convenção Americana é instrumento regional focado majoritariamente em direitos civis e políticos, e não é o instrumento específico para esse direito."
+      "B": "Incorreta: essa afirmação não corresponde a nenhum artigo da DUDH e contraria o espírito de liberdade e igualdade proclamado no art. 1º.",
+      "C": "Incorreta: o art. 15 da DUDH trata do direito à nacionalidade, garantindo proteção contra privação arbitrária — mas não proíbe que a pessoa altere sua nacionalidade.",
+      "D": "Incorreta: essa é a descrição do art. 23 da DUDH (direito ao trabalho), não do art. 1º, ao qual a questão se refere."
     },
-    "referenciaEdital": "Pacto Internacional dos Direitos Civis e Políticos (PIDCP) e Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC)",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Declaração Universal dos Direitos Humanos",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
-    "dificuldade": "difícil"
+    "dificuldade": "média"
   },
   {
     "id": "q018",
@@ -462,25 +462,25 @@
   {
     "id": "q021",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "LINDB — vigência das normas",
-    "enunciado": "Segundo o art. 1º da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942), salvo disposição contrária constante da própria lei, esta começa a vigorar em todo o país, em regra, após quanto tempo de sua publicação oficial?",
+    "assunto": "Convenção Americana sobre Direitos Humanos",
+    "enunciado": "A Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica) instituiu dois órgãos responsáveis por supervisionar o cumprimento dos compromissos assumidos pelos Estados-parte. Assinale a alternativa que os identifica corretamente.",
     "alternativas": {
-      "A": "Imediatamente na data de publicação",
-      "B": "15 dias",
-      "C": "45 dias",
-      "D": "90 dias"
+      "A": "Comissão Interamericana de Direitos Humanos e Corte Interamericana de Direitos Humanos",
+      "B": "Conselho de Direitos Humanos da ONU e Alto Comissariado das Nações Unidas para os Direitos Humanos",
+      "C": "Tribunal Penal Internacional e Corte Internacional de Justiça",
+      "D": "Comissão de Direitos Humanos do Mercosul e Parlamento do Mercosul"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "O art. 1º da LINDB estabelece que, salvo disposição em contrário, a lei brasileira começa a vigorar 45 dias depois de oficialmente publicada (o chamado prazo de vacatio legis).",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "A Convenção Americana sobre Direitos Humanos instituiu, como órgãos de proteção do sistema interamericano, a Comissão Interamericana de Direitos Humanos e a Corte Interamericana de Direitos Humanos.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: vigência imediata só ocorre quando a própria lei assim dispuser expressamente, não sendo a regra geral.",
-      "B": "Incorreta: 15 dias não corresponde ao prazo estabelecido pela LINDB como regra geral.",
-      "D": "Incorreta: 90 dias não é o prazo da regra geral brasileira (esse prazo se aproxima do previsto para vigência nos Estados estrangeiros, que é de três meses)."
+      "B": "Incorreta: o Conselho de Direitos Humanos e o Alto Comissariado são órgãos do sistema global da ONU, não do sistema regional interamericano criado pela Convenção Americana.",
+      "C": "Incorreta: o Tribunal Penal Internacional (Estatuto de Roma) e a Corte Internacional de Justiça (órgão judicial da ONU) não têm relação com a Convenção Americana sobre Direitos Humanos.",
+      "D": "Incorreta: não existem órgãos oficiais de direitos humanos com essas denominações no Mercosul; a Convenção Americana é instrumento do sistema da OEA, distinto do Mercosul."
     },
-    "referenciaEdital": "Lei de Introdução às Normas do Direito Brasileiro (arts. 1º ao 6º)",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Convenção Americana sobre Direitos Humanos",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
-    "dificuldade": "média"
+    "dificuldade": "difícil"
   },
   {
     "id": "q022",
@@ -531,23 +531,23 @@
   {
     "id": "q024",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "Direitos humanos — gerações de direitos",
-    "enunciado": "A doutrina de direitos humanos costuma classificar os direitos em 'gerações' (ou 'dimensões'), que não se substituem, mas se acumulam ao longo do tempo. Assinale a alternativa que associa corretamente a geração de direitos ao seu valor histórico fundamental.",
+    "assunto": "Constituição Federal — Segurança Pública (art. 144)",
+    "enunciado": "Conforme o § 6º do art. 144 da Constituição Federal de 1988, os Corpos de Bombeiros Militares, considerados forças auxiliares e reserva do Exército, subordinam-se administrativamente a qual autoridade?",
     "alternativas": {
-      "A": "Direitos de primeira geração — valor de liberdade (direitos civis e políticos)",
-      "B": "Direitos de segunda geração — valor de fraternidade (direitos difusos)",
-      "C": "Direitos de terceira geração — valor de igualdade (direitos sociais)",
-      "D": "Direitos de primeira geração — valor de solidariedade (meio ambiente)"
+      "A": "Ao Governador do respectivo Estado",
+      "B": "Diretamente ao Presidente da República",
+      "C": "Ao Comandante do Exército Brasileiro",
+      "D": "Ao Ministério da Justiça e Segurança Pública"
     },
     "respostaCorreta": "A",
-    "explicacaoCorreta": "Os direitos de primeira geração, ligados à liberdade, correspondem aos direitos civis e políticos (liberdade de expressão, direito ao voto), historicamente os primeiros a serem reconhecidos como limitação ao poder do Estado.",
+    "explicacaoCorreta": "O § 6º do art. 144 da CF/88 estabelece que as polícias militares e corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-se, juntamente com as polícias civis, aos Governadores dos Estados, do Distrito Federal e dos Territórios.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: direitos de segunda geração correspondem ao valor de igualdade (direitos sociais, econômicos e culturais), não de fraternidade.",
-      "C": "Incorreta: direitos de terceira geração correspondem ao valor de fraternidade/solidariedade (direitos difusos e coletivos, como meio ambiente), não de igualdade.",
-      "D": "Incorreta: direitos ao meio ambiente equilibrado são classificados como de terceira geração, não de primeira."
+      "B": "Incorreta: apesar de serem forças auxiliares e reserva do Exército, a subordinação administrativa constitucional é ao Governador do Estado, não ao Presidente da República.",
+      "C": "Incorreta: a condição de 'reserva do Exército' não implica subordinação administrativa direta ao Comandante do Exército no dia a dia da corporação estadual.",
+      "D": "Incorreta: o Ministério da Justiça e Segurança Pública não é a autoridade à qual os Corpos de Bombeiros Militares se subordinam segundo o texto constitucional."
     },
-    "referenciaEdital": "Definição e conceito de direitos humanos. História dos direitos humanos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Constituição Federal de 1988 — Segurança pública",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -600,25 +600,25 @@
   {
     "id": "q027",
     "materia": "Ciências Naturais",
-    "assunto": "Química — ligações químicas",
-    "enunciado": "Sobre os tipos de ligação química, assinale a alternativa CORRETA.",
+    "assunto": "Química — estequiometria",
+    "enunciado": "Uma vela de sinalização de emergência utilizada pelo Corpo de Bombeiros contém trissulfeto de tetrafósforo (P4S3) em sua composição, substância que reage com o oxigênio do ar conforme a equação química a seguir, ainda não balanceada:\n\nP4S3(s) + O2(g) → P4O10(s) + SO2(g)\n\nSabendo que uma vela contém 2.750 mg de P4S3, qual é a massa, em miligramas, de dióxido de enxofre (SO2) produzida na queima completa dessa quantidade de substância? (Massas molares aproximadas: P4S3 = 220 g/mol; SO2 = 64 g/mol)",
     "alternativas": {
-      "A": "Na ligação iônica, ocorre compartilhamento igualitário de elétrons entre dois átomos de mesma eletronegatividade.",
-      "B": "Na ligação covalente, ocorre transferência definitiva de elétrons de um átomo para outro, formando íons.",
-      "C": "A ligação iônica típica ocorre entre um metal, que tende a doar elétrons, e um ametal, que tende a recebê-los.",
-      "D": "Ligações covalentes só ocorrem entre átomos idênticos do mesmo elemento."
+      "A": "800 mg",
+      "B": "1.200 mg",
+      "C": "2.400 mg",
+      "D": "3.600 mg"
     },
     "respostaCorreta": "C",
-    "explicacaoCorreta": "A ligação iônica se forma tipicamente pela transferência de elétrons de um metal (que tende a perder elétrons, formando cátion) para um ametal (que tende a ganhar elétrons, formando ânion), gerando atração eletrostática entre os íons.",
+    "explicacaoCorreta": "Balanceando a equação: P4S3 + 8 O2 → P4O10 + 3 SO2. mol de P4S3 = 2.750 mg ÷ 220 g/mol = 12,5 mmol. Pela proporção 1:3, mol de SO2 = 3 × 12,5 = 37,5 mmol. Massa de SO2 = 37,5 mmol × 64 mg/mmol = 2.400 mg.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: a descrição corresponde à ligação covalente apolar (compartilhamento de elétrons), não à ligação iônica.",
-      "B": "Incorreta: a transferência definitiva de elétrons caracteriza a ligação iônica, não a covalente, que se baseia em compartilhamento.",
-      "D": "Incorreta: ligações covalentes ocorrem tanto entre átomos idênticos (ex.: O2) quanto entre átomos de elementos diferentes (ex.: H2O)."
+      "A": "Incorreta: corresponde ao uso indevido da proporção 1:1 entre P4S3 e SO2, ignorando o coeficiente 3 da equação balanceada.",
+      "B": "Incorreta: não corresponde à proporção estequiométrica correta de 1:3 entre P4S3 e SO2.",
+      "D": "Incorreta: não corresponde a nenhuma proporção estequiométrica consistente com a equação balanceada."
     },
-    "referenciaEdital": "Ligações químicas, símbolos de Lewis e a regra do octeto",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
-    "pagina": "51",
-    "dificuldade": "média"
+    "referenciaEdital": "Estequiometria: cálculos com fórmulas e equações químicas",
+    "fonte": "Questão adaptada de prova real do CBMMG (Edital CBMMG 2021, CFSd BM/2022, Prova C, Questão 39, aplicada pela banca Fundep) — contexto e valores numéricos reescritos; equação química mantida como conteúdo factual do Anexo II do Edital CBMMG nº 10/2026. Reforço adicional na matéria, priorizada por indicar desempenho mais fraco do candidato.",
+    "pagina": "51-52 (edital) / Prova C, Fundep, p.11-12",
+    "dificuldade": "difícil"
   },
   {
     "id": "q028",
@@ -646,25 +646,25 @@
   {
     "id": "q029",
     "materia": "Ciências Naturais",
-    "assunto": "Física — hidrostática (Princípio de Arquimedes)",
-    "enunciado": "Um objeto totalmente submerso em água desloca um volume de líquido igual ao seu próprio volume, sofrendo uma força vertical para cima. Essa força é denominada:",
+    "assunto": "Física — eletricidade (circuitos em paralelo)",
+    "enunciado": "Uma instalação elétrica malfeita associa três resistores em paralelo a uma fonte de 12 V: R1 = 4 Ω, R2 = 6 Ω e R3 = 12 Ω. Sabendo que a fiação suporta, com segurança, uma corrente total de até 8 A, calcule a corrente total fornecida pela fonte e avalie se há risco de incêndio nessa instalação.",
     "alternativas": {
-      "A": "Força de atrito",
-      "B": "Força peso",
-      "C": "Empuxo",
-      "D": "Força normal"
+      "A": "6 A; não há risco, pois a corrente total está dentro do limite suportado pela fiação.",
+      "B": "6 A; há risco, pois a corrente total ultrapassa o limite suportado pela fiação.",
+      "C": "8 A; não há risco, pois a corrente total é exatamente igual ao limite suportado.",
+      "D": "24 A; há risco, pois a corrente total ultrapassa amplamente o limite suportado."
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "O empuxo é a força vertical para cima exercida por um fluido sobre um corpo nele imerso, de intensidade igual ao peso do volume de líquido deslocado, conforme o Princípio de Arquimedes.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "Em paralelo: 1/Req = 1/4 + 1/6 + 1/12 = 3/12 + 2/12 + 1/12 = 6/12 = 1/2, logo Req = 2 Ω. A corrente total é I = V/Req = 12/2 = 6 A. Como 6 A é menor que o limite de 8 A suportado pela fiação, não há risco de incêndio nessa situação.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: força de atrito se opõe ao movimento relativo entre superfícies em contato, sem relação direta com a imersão em fluido.",
-      "B": "Incorreta: força peso é a força gravitacional que atua sobre a massa do corpo, e atua para baixo, não para cima.",
-      "D": "Incorreta: força normal é a reação de uma superfície de apoio sobre um corpo, perpendicular a essa superfície, conceito distinto de empuxo em fluidos."
+      "B": "Incorreta: o valor de 6 A está correto, mas a conclusão está errada — como 6 A é menor que 8 A, não há risco pela informação fornecida.",
+      "C": "Incorreta: 8 A é o limite suportado pela fiação, não o valor calculado da corrente total, que é 6 A.",
+      "D": "Incorreta: 24 A resultaria de somar diretamente as três resistências, procedimento que não se aplica a resistores associados em paralelo."
     },
-    "referenciaEdital": "Princípios básicos: hidrostática, pressões e empuxos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
-    "pagina": "52",
-    "dificuldade": "média"
+    "referenciaEdital": "Leis básicas em eletricidade; Resistência elétrica; Lei de Ohm, potência e energia elétrica",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, com tema inspirado em questão real de mesmo assunto (risco elétrico) da Prova C do CBMMG (Edital 2021, Questão 50, aplicada pela banca Fundep), sem reprodução de enunciado, alternativas ou diagramas originais. Reforço adicional na matéria, priorizada por indicar desempenho mais fraco do candidato.",
+    "pagina": "51-52",
+    "dificuldade": "difícil"
   },
   {
     "id": "q030",
@@ -1129,24 +1129,24 @@
   {
     "id": "q050",
     "materia": "Proteção e Defesa Civil",
-    "assunto": "Núcleos Comunitários de Proteção e Defesa Civil (Nupdec)",
-    "enunciado": "Os Núcleos Comunitários de Proteção e Defesa Civil (Nupdec) desempenham papel relevante na Gestão de Riscos e Desastres em nível local. Assinale a alternativa que descreve corretamente sua composição e função, segundo a literatura oficial.",
+    "assunto": "Conceito de risco, ameaça e vulnerabilidade",
+    "enunciado": "Um bairro está situado às margens de um rio com histórico de cheias sazonais recorrentes e é ocupado, em grande parte, por moradias precárias construídas sem infraestrutura adequada de drenagem. De acordo com a fórmula Risco = Ameaça × Vulnerabilidade, adotada na Gestão de Riscos e Desastres, o histórico de cheias do rio representa, nesse cenário, o elemento:",
     "alternativas": {
-      "A": "São formados exclusivamente por servidores públicos concursados da Defesa Civil municipal",
-      "B": "São formados por cidadãos da própria comunidade, que contribuem com ações preventivas e atuam como socorristas em emergências",
-      "C": "São órgãos federais vinculados diretamente ao Ministério da Defesa",
-      "D": "Têm atuação restrita a áreas rurais, sem qualquer participação em contextos urbanos"
+      "A": "Ameaça",
+      "B": "Vulnerabilidade",
+      "C": "Resiliência",
+      "D": "Capacidade de resposta"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Conforme o Caderno GIRD+10, os Nupdecs 'são formados por cidadãos de cada comunidade que contribuem com ações preventivas nas áreas de risco e socorristas em situações de calamidade e emergência', constituindo estrutura de participação social na gestão de riscos.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "A ameaça corresponde ao fenômeno físico potencialmente danoso — nesse caso, as cheias recorrentes do rio. A vulnerabilidade, por sua vez, é representada no cenário pela fragilidade das moradias precárias e da infraestrutura de drenagem, elemento distinto da ameaça.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: os Nupdecs são formados por voluntários da comunidade, não exclusivamente por servidores públicos concursados.",
-      "C": "Incorreta: os Nupdecs são estruturas comunitárias locais, vinculadas à Proteção e Defesa Civil municipal/estadual, não órgãos federais do Ministério da Defesa.",
-      "D": "Incorreta: os exemplos de Nupdec citados na literatura oficial incluem experiências em contextos urbanos, como Santos, São Bernardo e Belo Horizonte."
+      "B": "Incorreta: a vulnerabilidade corresponde à fragilidade das moradias precárias e da infraestrutura local, não ao fenômeno natural recorrente em si.",
+      "C": "Incorreta: resiliência é a capacidade de recuperação da comunidade após o evento, não o fenômeno natural que gera o risco.",
+      "D": "Incorreta: capacidade de resposta refere-se à atuação dos órgãos de socorro durante e após o evento, não ao fenômeno natural recorrente descrito."
     },
     "referenciaEdital": "Proteção e Defesa Civil (conteúdo remetido ao Caderno GIRD+10)",
-    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 1",
-    "pagina": "30",
-    "dificuldade": "média"
+    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 1. Reforço adicional na matéria, priorizada por indicar desempenho mais fraco do candidato.",
+    "pagina": "11",
+    "dificuldade": "difícil"
   }
 ]
