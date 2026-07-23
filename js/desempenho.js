@@ -111,8 +111,97 @@ const Desempenho = (() => {
     return 'Desempenho indica necessidade de estudo aprofundado da maior parte do conteúdo programático antes da prova. Priorize o Estudo Direcionado matéria por matéria.';
   }
 
+  function registrarResultadoNoHistorico(estado, resultado) {
+    const porMateriaResumo = {};
+    Object.entries(resultado.porMateria).forEach(([materia, dados]) => {
+      porMateriaResumo[materia] = {
+        acertos: dados.acertos,
+        total: dados.total,
+        percentual: dados.total ? (dados.acertos / dados.total) * 100 : 0
+      };
+    });
+    Armazenamento.registrarNoHistorico({
+      dataInicio: estado.simulado.dataInicio,
+      dataFim: estado.simulado.dataFim,
+      totalAcertos: resultado.totalAcertos,
+      totalErros: resultado.totalErros,
+      totalQuestoes: resultado.totalQuestoes,
+      percentualGeral: resultado.percentualGeral,
+      porMateria: porMateriaResumo
+    });
+  }
+
+  function renderizarGraficoEvolucao(historico) {
+    if (historico.length < 2) {
+      return '<p>Complete pelo menos 2 simulados para visualizar a curva de evolução.</p>';
+    }
+    const largura = 600;
+    const altura = 220;
+    const margem = { topo: 20, baixo: 30, esquerda: 40, direita: 20 };
+    const areaLargura = largura - margem.esquerda - margem.direita;
+    const areaAltura = altura - margem.topo - margem.baixo;
+    const n = historico.length;
+
+    const x = i => margem.esquerda + (n === 1 ? 0 : (i / (n - 1)) * areaLargura);
+    const y = pct => margem.topo + areaAltura - (pct / 100) * areaAltura;
+
+    const pontos = historico.map((h, i) => `${x(i).toFixed(1)},${y(h.percentualGeral).toFixed(1)}`).join(' ');
+    const circulos = historico.map((h, i) => `<circle cx="${x(i).toFixed(1)}" cy="${y(h.percentualGeral).toFixed(1)}" r="4" fill="#b3121b"></circle>`).join('');
+    const linhasGuia = [0, 25, 50, 75, 100].map(pct => `
+      <line x1="${margem.esquerda}" y1="${y(pct).toFixed(1)}" x2="${largura - margem.direita}" y2="${y(pct).toFixed(1)}" stroke="#e2e5e9" stroke-width="1"></line>
+      <text x="2" y="${(y(pct) + 4).toFixed(1)}" font-size="10" fill="#4b5563">${pct}%</text>
+    `).join('');
+    const rotulosX = historico.map((h, i) => {
+      const data = new Date(h.dataFim);
+      const rotulo = data.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
+      return `<text x="${x(i).toFixed(1)}" y="${altura - 8}" font-size="10" fill="#4b5563" text-anchor="middle">${rotulo}</text>`;
+    }).join('');
+
+    return `
+      <svg viewBox="0 0 ${largura} ${altura}" class="grafico-evolucao" role="img" aria-label="Gráfico de evolução do percentual de acertos ao longo dos simulados">
+        ${linhasGuia}
+        <polyline points="${pontos}" fill="none" stroke="#b3121b" stroke-width="2"></polyline>
+        ${circulos}
+        ${rotulosX}
+      </svg>
+    `;
+  }
+
+  function renderizarHistorico(historico) {
+    if (!historico.length) return '';
+    const linhas = historico.map((h, i) => {
+      const data = new Date(h.dataFim);
+      const dataFormatada = data.toLocaleDateString('pt-BR') + ' ' + data.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+      return `
+        <tr>
+          <td>${i + 1}</td>
+          <td>${dataFormatada}</td>
+          <td>${h.totalAcertos} / ${h.totalQuestoes}</td>
+          <td>${h.percentualGeral.toFixed(1)}%</td>
+        </tr>
+      `;
+    }).join('');
+
+    return `
+      <h3>Histórico de simulados (evolução)</h3>
+      ${renderizarGraficoEvolucao(historico)}
+      <table class="tabela-desempenho">
+        <thead>
+          <tr><th>#</th><th>Data</th><th>Acertos</th><th>% Geral</th></tr>
+        </thead>
+        <tbody>${linhas}</tbody>
+      </table>
+      <div class="acoes-desempenho">
+        <button id="btn-apagar-historico" class="btn btn-secundario">Apagar histórico de simulados</button>
+      </div>
+    `;
+  }
+
   function renderizarResultadoFinal(container) {
+    const estado = Armazenamento.carregar();
     const resultado = Simulado.calcularResultado();
+    registrarResultadoNoHistorico(estado, resultado);
+    const historico = Armazenamento.carregarHistorico();
     const assuntosCriticos = assuntosComMaisErros(resultado.porMateria);
     const dias = diasAteProva();
 
@@ -160,6 +249,8 @@ const Desempenho = (() => {
       <p>${estimativaPreparacao(resultado.percentualGeral)}</p>
       <p class="aviso-estimativa"><em>Esta estimativa é baseada exclusivamente no seu desempenho neste simulado e não constitui garantia de aprovação.</em></p>
 
+      ${renderizarHistorico(historico)}
+
       <div class="acoes-desempenho">
         <button id="btn-refazer-simulado" class="btn btn-perigo">Apagar progresso e refazer simulado</button>
       </div>
@@ -169,6 +260,16 @@ const Desempenho = (() => {
       Simulado.confirmarReinicio();
       renderizar(document.getElementById('conteudo-principal'));
     });
+
+    const btnApagarHistorico = document.getElementById('btn-apagar-historico');
+    if (btnApagarHistorico) {
+      btnApagarHistorico.addEventListener('click', () => {
+        const confirmado = window.confirm('Isso apagará permanentemente o histórico de todos os simulados já concluídos, usado para calcular sua curva de evolução. Deseja continuar?');
+        if (!confirmado) return;
+        Armazenamento.limparHistorico();
+        renderizar(document.getElementById('conteudo-principal'));
+      });
+    }
   }
 
   return { renderizar };
