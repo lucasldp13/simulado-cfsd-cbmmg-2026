@@ -30,7 +30,10 @@
     {
       "titulo": "Retificação I do Edital CBMMG nº 10/2026",
       "motivo": "Site oficial bombeiros.mg.gov.br indisponível (falha de conexão/HTTP 503) durante toda a sessão de elaboração; nenhum espelho público foi localizado com o texto integral.",
-      "impacto": "Conteúdo de Noções de Direitos Humanos e Legislação pode estar desatualizado quanto a artigos legais pontualmente alterados pela retificação."
+      "impacto": "Conteúdo de Noções de Direitos Humanos e Legislação pode estar desatualizado quanto a artigos legais pontualmente alterados pela retificação.",
+      "novaTentativaEm": "2026-07-23",
+      "resultadoNovaTentativa": "Nova busca feita exclusivamente em fontes oficiais/institucionais (bombeiros.mg.gov.br, storage/files/303, portal.concursos.bombeiros.mg.gov.br, concurso.idecan.org.br). bombeiros.mg.gov.br permanece inacessível (falha de conexão). portal.concursos.bombeiros.mg.gov.br respondeu, mas não lista o CFSd BM/2027 nem retificações associadas. concurso.idecan.org.br retornou HTTP 403. Nenhum espelho com o texto integral da retificação foi localizado. Reportagens de terceiros (ex.: PCI Concursos) mencionam que uma retificação alterou o conteúdo de Direitos Humanos e Legislação do Edital Nº 09/2026 (CFO — Oficiais) e que a retificação do Edital Nº 10/2026 (CFSd — Soldados, o edital deste app) tratou de documentação de escolaridade e prorrogação de inscrições. NÃO HÁ CONFIRMAÇÃO OFICIAL de que o conteúdo de Direitos Humanos do Edital 10/2026 (CFSd) tenha sido alterado — mas também não há confirmação de que não tenha sido, pois o texto oficial continua inacessível. Este indício não deve ser tratado como fato confirmado.",
+      "documentoNecessario": "PDF oficial da Retificação I ao Edital CBMMG nº 10/2026 (CFSd BM/2027), publicado por CBMMG/ABM em conjunto com IDECAN, contendo eventuais alterações ao Anexo II (conteúdo programático) — em especial à matéria 'Noções de Direitos Humanos e Legislação'."
     },
     {
       "titulo": "Retificação II do Edital CBMMG nº 10/2026 (prorrogação de inscrições)",
