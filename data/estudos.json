@@ -1,0 +1,407 @@
+{
+  "avisoRecorrencia": "Não foi possível determinar recorrência real de assuntos por comparação entre provas anteriores do CFSd CBMMG, pois nenhuma prova oficial anterior estava disponível na pasta /fontes nem foi localizada com fonte verificável durante esta sessão (ver RELATORIO_FONTES.md, itens 1 e 9). Os campos 'nivelPrioridade' abaixo refletem o peso do assunto dentro do próprio conteúdo programático oficial (Anexo II do Edital CBMMG nº 10/2026) e o padrão geral declarado de bancas como a IDECAN em editais de perfil semelhante — não uma estatística de recorrência comprovada.",
+  "materias": [
+    {
+      "id": "portugues",
+      "nome": "Língua Portuguesa",
+      "questoes": 10,
+      "pontuacaoMaxima": 20.0,
+      "fonte": "Edital CBMMG nº 10/2026, Anexo II",
+      "pagina": "51",
+      "topicos": [
+        {
+          "titulo": "Compreensão e interpretação de textos de gêneros variados",
+          "conteudoPrevisto": "Leitura e interpretação de textos de diferentes gêneros (notícia, artigo de opinião, texto literário, texto institucional, charge, gráfico), reconhecimento de tipos textuais (narração, descrição, dissertação, injunção, exposição).",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Texto-base seguido de 1 a 3 questões sobre ideia central, intenção do autor, informações implícitas/explícitas, relação entre parágrafos.",
+          "pegadinhas": "Alternativas que repetem trechos literais do texto mas alteram o sentido (paráfrase infiel); alternativas que generalizam uma informação pontual do texto ou que trazem conclusão não sustentada pelo texto.",
+          "errosFrequentes": "Responder com base no que o candidato já sabe sobre o assunto, e não no que o texto efetivamente afirma; confundir opinião do autor com fato relatado.",
+          "pontosAtencao": "Sempre voltar ao texto para confirmar a alternativa; desconfiar de palavras absolutas como 'sempre', 'nunca', 'exclusivamente' nas alternativas.",
+          "exemplo": "Um texto sobre atuação do Corpo de Bombeiros em enchentes urbanas pode gerar uma questão pedindo a ideia principal do parágrafo final — a resposta correta normalmente sintetiza, sem extrapolar, o que já está no texto.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Ortografia oficial: emprego das letras e acentuação gráfica",
+          "conteudoPrevisto": "Regras de grafia (uso de x/ch, s/z, g/j etc.) e regras de acentuação gráfica conforme o Acordo Ortográfico vigente.",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Questões isoladas pedindo a alternativa com erro/acerto ortográfico, ou embutidas em reescrita de frases.",
+          "pegadinhas": "Palavras paroxítonas terminadas em ditongo que muitos acreditam erroneamente que não se acentuam (ex.: 'jóquei' não existe mais, mas 'européia' virou 'europeia' sem acento); hiato x ditongo.",
+          "errosFrequentes": "Confundir regras antigas (pré-1990/2009) com as vigentes após o Acordo Ortográfico, citado expressamente no edital (item 8.2.3).",
+          "pontosAtencao": "Revisar especificamente as mudanças trazidas pelo Acordo Ortográfico (trema, acento em ditongos abertos ei/oi em paroxítonas, hífen).",
+          "exemplo": "'Ideia', 'assembleia' e 'boia' não recebem mais acento no ditongo aberto quando paroxítonas — diferente do que ocorria antes de 2009.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51 e item 8.2.3"
+        },
+        {
+          "titulo": "Coesão textual: referenciação, conectores e correlação verbal",
+          "conteudoPrevisto": "Elementos de referenciação, substituição e repetição; conectores e outros elementos de sequenciação textual; emprego e correlação de tempos e modos verbais.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questão pedindo a que elemento anterior do texto um pronome ou expressão se refere, ou qual conectivo substitui outro sem alterar o sentido.",
+          "pegadinhas": "Trocar conectivo aditivo por adversativo (ex.: substituir 'mas' por 'e' mudando a lógica argumentativa); pronomes que retomam o termo errado por proximidade enganosa.",
+          "errosFrequentes": "Analisar o pronome/conectivo isolado da frase, sem checar a coerência lógica com o restante do parágrafo.",
+          "pontosAtencao": "Mapear mentalmente a que substantivo cada pronome se refere antes de responder.",
+          "exemplo": "Em 'Os bombeiros chegaram rapidamente; contudo, a via estava interditada', a substituição de 'contudo' por 'portanto' quebra a relação de oposição do período.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Estrutura morfossintática: concordância, crase, pontuação e colocação pronominal",
+          "conteudoPrevisto": "Coordenação e subordinação entre orações e termos; sinais de pontuação; concordância verbal e nominal; emprego do sinal indicativo de crase; colocação dos pronomes átonos.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Frases isoladas pedindo identificação de erro gramatical, ou justificativa do uso da crase/vírgula em determinado trecho.",
+          "pegadinhas": "Crase antes de palavras masculinas ou verbos (erro clássico a evitar); vírgula separando sujeito de predicado; concordância com sujeito composto posposto ao verbo.",
+          "errosFrequentes": "Aplicar crase 'de ouvido' sem checar regência (o verbo/nome exige a preposição 'a'?) e sem checar se o termo seguinte é feminino e admite artigo.",
+          "pontosAtencao": "Testar a substituição por termo masculino equivalente para verificar a crase ('a' + 'o' = 'ao' confirma a crase); nunca separar sujeito de verbo por vírgula sem motivo.",
+          "exemplo": "'Foram convocados os candidatos à etapa seguinte' tem crase porque 'convocados a etapa' equivaleria a 'convocados ao estágio' no masculino.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Reescritura de frases e parágrafos: substituição e retextualização",
+          "conteudoPrevisto": "Substituição de palavras ou trechos do texto sem alteração de sentido; retextualização entre gêneros e níveis de formalidade distintos.",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Pede-se a alternativa que reescreve o trecho mantendo o sentido original, ou identifica qual reescrita alterou o sentido/registro de linguagem.",
+          "pegadinhas": "Sinônimos que não se encaixam no mesmo registro (formal x informal) ou que mudam sutilmente o sentido (ex.: 'grande' por 'enorme' pode intensificar demais).",
+          "errosFrequentes": "Focar só no significado da palavra isolada, ignorando a adequação ao contexto e ao nível de formalidade do texto.",
+          "pontosAtencao": "Ler a frase reescrita inteira e perguntar se ela poderia substituir a original sem que ninguém notasse diferença de sentido.",
+          "exemplo": "Reescrever um comunicado oficial em linguagem coloquial descaracteriza o gênero, mesmo que o sentido informativo básico seja mantido.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        }
+      ]
+    },
+    {
+      "id": "raciocinio",
+      "nome": "Raciocínio Lógico e Matemático",
+      "questoes": 5,
+      "pontuacaoMaxima": 10.0,
+      "fonte": "Edital CBMMG nº 10/2026, Anexo II",
+      "pagina": "51",
+      "topicos": [
+        {
+          "titulo": "Estrutura lógica de relações arbitrárias e dedução de novas informações",
+          "conteudoPrevisto": "Estrutura lógica de relações entre pessoas, lugares, objetos ou eventos fictícios; dedução de novas informações a partir das relações fornecidas.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Enunciados do tipo 'quatro amigos, quatro cargos/cidades, algumas pistas' pedindo para deduzir a associação correta.",
+          "pegadinhas": "Pistas que parecem redundantes mas eliminam uma possibilidade específica; testar apenas parte das combinações e não checar todas as pistas antes de marcar a resposta.",
+          "errosFrequentes": "Concluir precipitadamente após satisfazer apenas 2 ou 3 das pistas dadas, sem verificar a consistência com todas elas.",
+          "pontosAtencao": "Montar uma tabela/matriz de possibilidades e eliminar sistematicamente as combinações incompatíveis com cada pista.",
+          "exemplo": "Se A não mora na cidade de B, e C mora na mesma cidade que D, a eliminação de possibilidades reduz rapidamente o número de arranjos válidos.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Raciocínio sequencial, espacial e temporal",
+          "conteudoPrevisto": "Funções intelectuais de raciocínio verbal, matemático, sequencial, orientação espacial e temporal, formação de conceitos e discriminação de elementos.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Sequências numéricas ou de figuras pedindo o próximo elemento; problemas de datas e prazos (dias úteis, horários).",
+          "pegadinhas": "Sequências com mais de um padrão simultâneo (ex.: alternância entre soma e multiplicação); contagem de dias que ignora se o intervalo é inclusive ou exclusive.",
+          "errosFrequentes": "Buscar apenas um tipo de padrão (aritmético) quando a sequência pode ser geométrica ou combinada.",
+          "pontosAtencao": "Calcular a diferença entre pares consecutivos de termos antes de supor o tipo de progressão.",
+          "exemplo": "Na sequência 2, 6, 12, 20, 30..., a diferença entre termos consecutivos cresce em progressão aritmética (4, 6, 8, 10), revelando um padrão quadrático.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Operações com conjuntos",
+          "conteudoPrevisto": "União, interseção, diferença e complementar de conjuntos; uso de diagramas de Venn.",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Situação-problema com dois ou três grupos (ex.: candidatos aprovados em provas distintas) pedindo quantos estão em determinada interseção.",
+          "pegadinhas": "Somar diretamente os totais de cada conjunto sem subtrair a interseção (dupla contagem).",
+          "errosFrequentes": "Esquecer de aplicar a fórmula |A ∪ B| = |A| + |B| − |A ∩ B| em problemas com dois grupos.",
+          "pontosAtencao": "Desenhar o diagrama de Venn sempre que houver mais de um grupo envolvido, preenchendo primeiro a interseção.",
+          "exemplo": "Se 40 candidatos passaram no teste físico, 30 no teste de saúde e 15 em ambos, o total aprovado em pelo menos um teste é 40+30−15 = 55.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Problemas aritméticos e geométricos aplicados",
+          "conteudoPrevisto": "Raciocínio lógico envolvendo problemas aritméticos (razão, proporção, porcentagem, regra de três) e geométricos (áreas, perímetros, ângulos).",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Situações-problema práticas, muitas vezes ambientadas em contextos operacionais (distância percorrida, tempo de resposta, volume de água).",
+          "pegadinhas": "Regra de três inversa disfarçada de direta (quanto mais bombeiros, menos tempo — grandezas inversamente proporcionais); porcentagem sobre base errada (do total anterior em vez do total atual).",
+          "errosFrequentes": "Aplicar regra de três simples direta em problemas de grandezas inversamente proporcionais.",
+          "pontosAtencao": "Antes de montar a proporção, perguntar: se uma grandeza aumenta, a outra aumenta ou diminui? Isso define se a regra de três é direta ou inversa.",
+          "exemplo": "Se 4 bombeiros esvaziam um reservatório em 6 horas, o tempo diminui, não aumenta, se o número de bombeiros crescer — típica regra de três inversa.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Raciocínio matricial",
+          "conteudoPrevisto": "Identificação de padrões em matrizes de figuras (linhas/colunas), com base em transformações lógicas.",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Matriz 3x3 de figuras com um espaço vazio, pedindo a figura que completa o padrão de linhas e colunas simultaneamente.",
+          "pegadinhas": "Um padrão válido apenas nas linhas, mas que se rompe nas colunas (a alternativa 'quase certa' costuma ignorar essa checagem cruzada).",
+          "errosFrequentes": "Verificar o padrão só em uma direção (linha ou coluna) e não confirmar nas duas simultaneamente antes de responder.",
+          "pontosAtencao": "Sempre validar a alternativa escolhida contra a lógica de linha E de coluna antes de marcar.",
+          "exemplo": "Se cada linha soma um elemento (rotação, cor, quantidade), a célula faltante deve obedecer à progressão tanto da sua linha quanto da sua coluna.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        }
+      ]
+    },
+    {
+      "id": "direitos-humanos",
+      "nome": "Noções de Direitos Humanos e Legislação",
+      "questoes": 10,
+      "pontuacaoMaxima": 20.0,
+      "fonte": "Edital CBMMG nº 10/2026, Anexo II",
+      "pagina": "51",
+      "avisoEspecifico": "ATENÇÃO: o Edital foi objeto de Retificação I, que segundo buscas realizadas nesta sessão alterou pontualmente artigos do conteúdo desta matéria. O texto integral da retificação não pôde ser obtido (ver RELATORIO_FONTES.md). O conteúdo abaixo segue o Anexo II do edital original (16/03/2026); recomenda-se ao candidato confirmar eventuais alterações diretamente em www.idecan.org.br antes da prova.",
+      "topicos": [
+        {
+          "titulo": "Definição, conceito e história dos direitos humanos",
+          "conteudoPrevisto": "Definição e conceito de direitos humanos; evolução histórica (gerações/dimensões de direitos).",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Questões conceituais diretas ou associando marcos históricos a suas características (ex.: direitos de primeira, segunda e terceira gerações).",
+          "pegadinhas": "Confundir direitos de 1ª geração (civis e políticos, liberdade) com os de 2ª geração (sociais, econômicos e culturais, igualdade).",
+          "errosFrequentes": "Tratar 'gerações' de direitos como fases que se substituem, quando na verdade se acumulam e coexistem.",
+          "pontosAtencao": "Associar 1ª geração à liberdade, 2ª à igualdade e 3ª à fraternidade/solidariedade (direitos difusos e coletivos) como mnemônico.",
+          "exemplo": "O direito ao meio ambiente equilibrado é classificado como direito de 3ª geração (fraternidade/solidariedade).",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Declaração Universal dos Direitos Humanos (1948)",
+          "conteudoPrevisto": "Declaração Universal dos Direitos Humanos, adotada pela Assembleia Geral da ONU em 10/12/1948.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões sobre o contexto histórico de criação (pós-Segunda Guerra), natureza jurídica (declaração, não tratado vinculante em sentido estrito) e princípios gerais (dignidade, igualdade, não discriminação).",
+          "pegadinhas": "Tratar a Declaração como tratado internacional com força de lei idêntica a um tratado ratificado, quando tecnicamente é uma resolução da Assembleia Geral da ONU.",
+          "errosFrequentes": "Confundir a data e o órgão de adoção (Assembleia Geral da ONU, 1948) com outros marcos como a Carta da ONU (1945).",
+          "pontosAtencao": "Fixar a data-símbolo 10/12/1948 (Dia Internacional dos Direitos Humanos) e o artigo 1º: 'Todos os seres humanos nascem livres e iguais em dignidade e direitos'.",
+          "exemplo": "A frase 'todo ser humano tem direito à vida, à liberdade e à segurança pessoal' está no art. 3º da Declaração Universal.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Pacto Internacional dos Direitos Civis e Políticos (PIDCP) e Pacto dos Direitos Econômicos, Sociais e Culturais (PIDESC)",
+          "conteudoPrevisto": "Conteúdo geral e finalidade dos dois Pactos de 1966, que juntamente com a Declaração Universal formam a 'Carta Internacional de Direitos Humanos'.",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Diferenciação de escopo entre os dois pactos (civis/políticos x econômicos/sociais/culturais).",
+          "pegadinhas": "Inverter o conteúdo dos pactos nas alternativas (atribuir direito ao voto ao PIDESC, por exemplo).",
+          "errosFrequentes": "Não perceber que os dois pactos, junto com a Declaração Universal, compõem o chamado 'International Bill of Human Rights'.",
+          "pontosAtencao": "PIDCP = direitos de participação política e liberdades individuais; PIDESC = direitos ao trabalho, saúde, educação, previdência.",
+          "exemplo": "O direito à liberdade de expressão está no PIDCP; o direito a condições justas de trabalho está no PIDESC.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Sistema das Nações Unidas, Conselho de Direitos Humanos e Convenção Americana",
+          "conteudoPrevisto": "Papel do Conselho de Direitos Humanos da ONU; Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica, 1969).",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Perguntas sobre o órgão responsável por monitorar direitos humanos na ONU e sobre o sistema interamericano (Comissão e Corte Interamericana).",
+          "pegadinhas": "Confundir Conselho de Direitos Humanos (órgão da ONU) com Corte Interamericana de Direitos Humanos (órgão regional americano).",
+          "errosFrequentes": "Não saber a data e o local de assinatura da Convenção Americana (San José da Costa Rica, 22/11/1969).",
+          "pontosAtencao": "Sistema global = ONU; sistema regional das Américas = OEA, com Comissão e Corte Interamericanas de Direitos Humanos.",
+          "exemplo": "O Brasil se submete à jurisdição da Corte Interamericana de Direitos Humanos, órgão vinculado à Convenção Americana.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Estatuto dos Militares do Estado de Minas Gerais (Lei Estadual nº 5.301/1969) — Capítulo II, arts. 15 e 25",
+          "conteudoPrevisto": "Disposições do Capítulo II da Lei nº 5.301/1969, especificamente os arts. 15 e 25, sobre direitos e deveres/situação dos militares estaduais.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões objetivas sobre o teor literal ou o sentido dos artigos 15 e 25 do Estatuto.",
+          "pegadinhas": "Alternativas que trocam competências ou trazem redação parecida mas com verbo/sujeito trocado em relação ao texto legal.",
+          "errosFrequentes": "Estudar apenas resumos genéricos do Estatuto sem ler o texto literal dos artigos expressamente cobrados pelo edital.",
+          "pontosAtencao": "Como o próprio edital delimita 'Capítulo II; arts. 15 e 25', o candidato deve buscar e ler esses dispositivos na íntegra na Lei nº 5.301/1969 (não incluída nos arquivos desta sessão — o candidato deve consultar a lei atualizada).",
+          "exemplo": "Questões desse tipo tendem a testar literalidade — desconfie de alternativas 'quase certas' que generalizam o texto legal.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Constituição Federal de 1988: direitos fundamentais, administração pública, militares e segurança pública",
+          "conteudoPrevisto": "Direitos e deveres individuais e coletivos (art. 5º); princípios da administração pública (art. 37); militares dos Estados e do Distrito Federal; organização judiciária; Forças Armadas; segurança pública (art. 144).",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões sobre o rol de direitos do art. 5º, os princípios do art. 37 (LIMPE) e a estrutura do art. 144 (órgãos de segurança pública, entre eles os Corpos de Bombeiros Militares).",
+          "pegadinhas": "Confundir os órgãos listados no art. 144 (Polícia Federal, Rodoviária Federal, Ferroviária Federal, Civis, Militares e Corpos de Bombeiros Militares, Polícia Penal); trocar os princípios do art. 37 (legalidade, impessoalidade, moralidade, publicidade, eficiência).",
+          "errosFrequentes": "Esquecer que os Corpos de Bombeiros Militares integram o rol constitucional de órgãos de segurança pública, com atribuições específicas de defesa civil.",
+          "pontosAtencao": "Memorizar o mnemônico LIMPE para os princípios da administração pública e decorar a lista completa do art. 144, §5º (bombeiros militares: além das atribuições de defesa civil, execução de atividades de prevenção e combate a incêndios, buscas, salvamentos e socorros públicos).",
+          "exemplo": "O § 5º do art. 144 da CF/88 atribui aos Corpos de Bombeiros Militares, além de outras atribuições definidas em lei, a execução de atividades de defesa civil.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Constituição do Estado de Minas Gerais: militares do estado e segurança pública",
+          "conteudoPrevisto": "Dispositivos sobre militares do estado, segurança pública e subordinação do Corpo de Bombeiros ao Governador do Estado (arts. 137, 142 e 13, conforme listado no edital).",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões sobre a estrutura de subordinação do CBMMG e sobre os dispositivos estaduais equivalentes aos da CF/88.",
+          "pegadinhas": "Confundir a subordinação administrativa do CBMMG (ao Governador do Estado) com eventual subordinação operacional a outros órgãos.",
+          "errosFrequentes": "Não diferenciar dispositivos da Constituição Federal dos da Constituição Estadual quando a questão pede a fonte específica.",
+          "pontosAtencao": "O candidato deve buscar o texto atualizado da Constituição do Estado de Minas Gerais (1989), arts. 13, 137 e 142, não incluído nos arquivos desta sessão.",
+          "exemplo": "A Constituição mineira reproduz, no âmbito estadual, a lógica do art. 144 da CF/88 quanto à estrutura dos órgãos de segurança pública.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        },
+        {
+          "titulo": "Lei de Introdução às Normas do Direito Brasileiro — LINDB (Decreto-Lei nº 4.657/1942, arts. 1º a 6º)",
+          "conteudoPrevisto": "Vigência, obrigatoriedade, integração e interpretação das normas jurídicas; vigência no tempo e no espaço; irretroatividade da lei; ato jurídico perfeito, direito adquirido e coisa julgada.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões sobre prazo de vacatio legis (regra geral de 45 dias no Brasil, salvo disposição em contrário), critérios de solução de antinomias e os conceitos protegidos contra a lei nova (art. 6º).",
+          "pegadinhas": "Confundir o prazo de vigência no Brasil (45 dias) com o prazo nos Estados estrangeiros (3 meses); trocar os conceitos de ato jurídico perfeito, direito adquirido e coisa julgada.",
+          "errosFrequentes": "Achar que toda lei entra em vigor na data de sua publicação — na omissão da lei, aplica-se a regra geral dos 45 dias.",
+          "pontosAtencao": "Decorar o art. 6º: a lei em vigor terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada.",
+          "exemplo": "Uma lei que não menciona sua data de vigência entra em vigor 45 dias após a publicação oficial, conforme art. 1º da LINDB.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-naturais",
+      "nome": "Ciências Naturais",
+      "questoes": 10,
+      "pontuacaoMaxima": 20.0,
+      "fonte": "Edital CBMMG nº 10/2026, Anexo II",
+      "pagina": "51-53",
+      "topicos": [
+        {
+          "titulo": "Química: ligações químicas, estequiometria e reações",
+          "conteudoPrevisto": "Estrutura atômica, tabela periódica, ligações iônicas e covalentes, estequiometria, soluções, cinética química, equilíbrio químico, eletroquímica e gases.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Cálculos estequiométricos simples, identificação de tipo de ligação/reação, interpretação de equações balanceadas.",
+          "pegadinhas": "Esquecer de balancear a equação antes de calcular proporções molares; confundir massa molar com número de mols.",
+          "errosFrequentes": "Aplicar proporção direta entre massas sem antes converter para mols usando a massa molar de cada substância.",
+          "pontosAtencao": "Sempre balancear a equação química primeiro; verificar se a pergunta pede massa, mol ou volume (nas CNTP).",
+          "exemplo": "Na combustão do metano (CH4 + 2O2 → CO2 + 2H2O), 1 mol de metano consome 2 mols de gás oxigênio.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51-52"
+        },
+        {
+          "titulo": "Física: cinemática, dinâmica, eletricidade e hidrostática aplicadas ao serviço de bombeiro",
+          "conteudoPrevisto": "Cinemática e dinâmica de translação e rotação, força, atrito, gravitação, termodinâmica, leis básicas de eletricidade (Lei de Ohm, potência), hidrostática e empuxo.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Problemas numéricos simples de física aplicados a situações operacionais (viaturas, escadas, mangueiras, circuitos elétricos em incêndios).",
+          "pegadinhas": "Confundir unidades (watts x volts x amperes) na Lei de Ohm; trocar força de atrito estático pelo cinético.",
+          "errosFrequentes": "Não converter unidades para o Sistema Internacional antes de aplicar as fórmulas.",
+          "pontosAtencao": "Memorizar P = V × I (potência elétrica) e V = R × I (Lei de Ohm); revisar o princípio de Arquimedes para empuxo em líquidos.",
+          "exemplo": "O risco de choque elétrico em combate a incêndio está diretamente ligado à condutividade da água e à necessidade de desenergizar circuitos antes do uso de água em ambientes elétricos.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.51-52"
+        },
+        {
+          "titulo": "Biologia: anatomia, fisiologia humana e homeostase",
+          "conteudoPrevisto": "Sistema esquelético, muscular, circulatório, respiratório, nervoso, renal, endócrino, imunológico; homeostase corporal e regulação do pH.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões conceituais sobre função de sistemas do corpo humano, relevantes para compreensão de primeiros socorros e fisiologia do esforço físico.",
+          "pegadinhas": "Confundir sistema nervoso central com periférico; trocar função de hormônios semelhantes (ex.: adrenalina x noradrenalina).",
+          "errosFrequentes": "Memorizar nomes de estruturas sem entender a função integrada dos sistemas (ex.: relação entre sistema respiratório e regulação do pH sanguíneo).",
+          "pontosAtencao": "Focar nos sistemas mais relevantes à atividade operacional de bombeiro: cardiorrespiratório, muscular e nervoso, dada sua relação com esforço físico e emergências.",
+          "exemplo": "A hiperventilação altera a concentração de CO2 no sangue, afetando o pH sanguíneo — tema de fisiologia com aplicação prática em emergências.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.52"
+        },
+        {
+          "titulo": "Geografia física de Minas Gerais: vegetação, relevo e hidrografia",
+          "conteudoPrevisto": "Biomas de MG (transição Cerrado–Mata Atlântica), vegetação de altitude, fragmentação florestal; relevo (planaltos, chapadas, serras — Espinhaço, Curral, Mantiqueira), geomorfologia cárstica; bacias hidrográficas mineiras (São Francisco, Doce, Paraná) e rios importantes (Rio das Velhas, Rio Grande, Jequitinhonha).",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Associação entre biomas/serras/bacias e suas localizações ou características; relação entre relevo cárstico e ocorrência de cavernas.",
+          "pegadinhas": "Confundir a Serra do Espinhaço com a Serra da Mantiqueira quanto à localização regional; trocar a bacia do Rio Doce pela do Rio São Francisco.",
+          "errosFrequentes": "Tratar Minas Gerais como área homogênea, ignorando a grande diversidade de biomas e formações geológicas entre suas regiões (Norte de Minas, Zona da Mata, Triângulo etc.).",
+          "pontosAtencao": "Relacionar cada bioma/relevo à sua região aproximada dentro do estado e à sua relevância para riscos de desastre (ex.: relevo cárstico e cavernas, encostas íngremes e deslizamentos).",
+          "exemplo": "A Serra do Espinhaço, com formações cársticas, abriga importantes cavernas e nascentes de rios que alimentam a Bacia do Rio São Francisco.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.52-53"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas",
+      "nome": "Ciências Humanas",
+      "questoes": 10,
+      "pontuacaoMaxima": 20.0,
+      "fonte": "Edital CBMMG nº 10/2026, Anexo II",
+      "pagina": "53-54",
+      "topicos": [
+        {
+          "titulo": "História de Minas Gerais: ciclo do ouro, Inconfidência Mineira e escravidão",
+          "conteudoPrevisto": "Colonização e ciclo do ouro (séc. XVIII-XIX); Inconfidência Mineira (1789); papel da escravidão na economia mineira; cidades históricas (Ouro Preto, Mariana, Tiradentes, Diamantina); transição para o café e industrialização.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões sobre causas e consequências da Inconfidência Mineira, e sobre a relação entre o ciclo do ouro e a formação urbana das cidades históricas.",
+          "pegadinhas": "Confundir a Inconfidência Mineira (1789, contra a derrama/impostos) com outros movimentos separatistas brasileiros (ex.: Conjuração Baiana, 1798).",
+          "errosFrequentes": "Atribuir a liderança da Inconfidência Mineira apenas a Tiradentes, ignorando o caráter coletivo do movimento (outros inconfidentes, como Cláudio Manuel da Costa e Tomás Antônio Gonzaga).",
+          "pontosAtencao": "Fixar a data de 1789 e a motivação principal (cobrança da derrama, dívida da Capitania com a Coroa).",
+          "exemplo": "Tiradentes foi enforcado em 1792 como punição exemplar após a delação do movimento inconfidente.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.53"
+        },
+        {
+          "titulo": "República Velha: Política do Café com Leite e Revolução de 1930",
+          "conteudoPrevisto": "Influência política de Minas Gerais (com São Paulo) na República Velha; papel de Minas Gerais na Revolução de 1930.",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Questões sobre a aliança política MG-SP na República Velha e a ruptura que levou à Revolução de 1930.",
+          "pegadinhas": "Achar que a 'Política do Café com Leite' envolvia apenas produção agrícola, quando na verdade descreve o revezamento de poder político entre as elites de SP e MG.",
+          "errosFrequentes": "Confundir a Revolução de 1930 com a Revolução Constitucionalista de 1932 (esta última liderada por São Paulo contra Vargas).",
+          "pontosAtencao": "Lembrar que Minas Gerais rompeu com São Paulo na sucessão presidencial de 1929/1930, apoiando a candidatura de Getúlio Vargas.",
+          "exemplo": "A crise da sucessão presidencial de 1929, quando Washington Luís (SP) indicou Júlio Prestes em vez de um mineiro, foi estopim da ruptura política.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.53"
+        },
+        {
+          "titulo": "Mineração em Minas Gerais: minerais, barragens e impactos socioambientais",
+          "conteudoPrevisto": "História e economia da mineração (minerais metálicos e não metálicos); impactos ambientais; gestão de rejeitos; segurança de barragens; áreas de risco geológico.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões sobre a atividade minerária mineira e sua relação com desastres (rompimento de barragens), muitas vezes conectando com a matéria de Proteção e Defesa Civil.",
+          "pegadinhas": "Confundir barragens de contenção de rejeitos de mineração com barragens hidrelétricas quanto a finalidade e regulação.",
+          "errosFrequentes": "Tratar os desastres de Mariana e Brumadinho como eventos idênticos, ignorando diferenças na causa técnica e no volume de rejeitos envolvidos.",
+          "pontosAtencao": "Associar o tema à Política Nacional de Segurança de Barragens (Lei nº 12.334/2010, alterada pela Lei nº 14.066/2020) e ao papel da Agência Nacional de Mineração na fiscalização.",
+          "exemplo": "O rompimento da barragem de Fundão, em Mariana/MG (2015), e da barragem da Mina Córrego do Feijão, em Brumadinho/MG (2019), são os dois maiores desastres de barragens de mineração do país.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.53"
+        },
+        {
+          "titulo": "Geografia humana de Minas Gerais: mesorregiões e Região Metropolitana de Belo Horizonte",
+          "conteudoPrevisto": "Divisão em mesorregiões e microrregiões; regiões metropolitanas (RMBH); áreas conurbadas; crescimento populacional e urbanização; desigualdade regional de renda e infraestrutura.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Associação entre mesorregiões mineiras e suas características econômicas/produtivas predominantes (ex.: Sul de Minas — café; Triângulo Mineiro — agronegócio).",
+          "pegadinhas": "Tratar todas as mesorregiões como igualmente desenvolvidas, ignorando desigualdades socioeconômicas históricas entre Norte de Minas/Jequitinhonha e o eixo central/Sul do estado.",
+          "errosFrequentes": "Confundir os limites de mesorregião com os de microrregião ou com os de bacia hidrográfica.",
+          "pontosAtencao": "Focar na Região Metropolitana de Belo Horizonte (RMBH) como a mais relevante para o CBMMG, dada a concentração populacional e a maior incidência de ocorrências.",
+          "exemplo": "A RMBH concentra grande parte da população e das ocorrências atendidas pelo Corpo de Bombeiros no estado, o que é relevante também para a matéria de Proteção e Defesa Civil.",
+          "fonte": "Edital CBMMG nº 10/2026, Anexo II, p.53-54"
+        }
+      ]
+    },
+    {
+      "id": "protecao-defesa-civil",
+      "nome": "Proteção e Defesa Civil",
+      "questoes": 5,
+      "pontuacaoMaxima": 10.0,
+      "fonte": "Edital CBMMG nº 10/2026, Anexo II, que remete ao Caderno Técnico GIRD+10 (MDR/SEDEC, 2021)",
+      "pagina": "54 (edital) / conteúdo integral no Caderno GIRD+10",
+      "topicos": [
+        {
+          "titulo": "Conceitos de risco, ameaça, vulnerabilidade e os paradigmas dos desastres",
+          "conteudoPrevisto": "Definições de risco (R = Ameaça × Vulnerabilidade), ameaça, vulnerabilidade e resiliência; os quatro paradigmas históricos dos desastres (tecnocêntrico, comportamental, da vulnerabilidade, da complexidade).",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões conceituais pedindo a definição correta de risco/ameaça/vulnerabilidade ou associando um paradigma à sua característica central.",
+          "pegadinhas": "Tratar 'desastre natural' como sinônimo de fenômeno puramente da natureza — a literatura oficial (GIRD+10) enfatiza que os desastres são socialmente construídos, resultado da interação entre ameaça e vulnerabilidade.",
+          "errosFrequentes": "Confundir ameaça (fenômeno com potencial de causar dano) com risco (probabilidade de dano, que depende também da vulnerabilidade do meio exposto).",
+          "pontosAtencao": "Fixar a fórmula Risco = Ameaça × Vulnerabilidade e o conceito de resiliência como capacidade de resistir, absorver, adaptar-se e se recuperar.",
+          "exemplo": "Uma chuva intensa (ameaça) só se converte em desastre se atingir uma área com moradias precárias em encosta (vulnerabilidade) — daí a frase 'os desastres não são naturais'.",
+          "fonte": "Caderno GIRD+10 (MDR/SEDEC), Capítulo 1, p.10-19"
+        },
+        {
+          "titulo": "Política Nacional de Proteção e Defesa Civil (Lei nº 12.608/2012) e ações de PDC",
+          "conteudoPrevisto": "Diretrizes da PNPDEC (art. 4º); Sistema Nacional de Proteção e Defesa Civil (SINPDEC); Conselho Nacional de Proteção e Defesa Civil (CONPDEC); ações de prevenção, mitigação, preparação, resposta e recuperação (Decreto nº 10.593/2020).",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões pedindo a diretriz correta da PNPDEC ou a definição de cada tipo de ação (prevenção x mitigação x resposta x recuperação).",
+          "pegadinhas": "Confundir 'ações de mitigação' (reduzir/limitar o risco antes do desastre) com 'ações de resposta' (medidas emergenciais durante/após o desastre).",
+          "errosFrequentes": "Não diferenciar prevenção (evitar a instalação do risco) de mitigação (reduzir risco já instalado).",
+          "pontosAtencao": "Decorar a ordem lógica: prevenção → mitigação → preparação → resposta → recuperação/restabelecimento.",
+          "exemplo": "A elaboração de um Plano Municipal de Redução de Riscos é ação de prevenção/mitigação; o resgate de vítimas durante uma enchente é ação de resposta.",
+          "fonte": "Caderno GIRD+10 (MDR/SEDEC), Capítulo 1, p.32-33; Lei nº 12.608/2012"
+        },
+        {
+          "titulo": "Cenários de risco no Brasil: movimentos de massa, inundações e a Cobrade",
+          "conteudoPrevisto": "Classificação e Codificação Brasileira de Desastres (Cobrade); principais cenários de risco (movimentos de massa, inundações graduais e bruscas, erosão, secas, incêndios, rompimento de barragens); mudanças climáticas e seus efeitos sobre esses cenários.",
+          "nivelPrioridade": "alta",
+          "formaCobranca": "Questões pedindo a diferença entre enchente/inundação gradual, enxurrada/inundação brusca e alagamento, ou a classificação Cobrade de um evento descrito.",
+          "pegadinhas": "Tratar 'alagamento' como sinônimo de 'inundação' — tecnicamente o alagamento é acúmulo de água por problema de drenagem, sem relação direta obrigatória com o transbordamento de um rio.",
+          "errosFrequentes": "Confundir desastres 'naturais' com 'tecnológicos' na classificação da Cobrade (ex.: rompimento de barragem é desastre tecnológico, não natural).",
+          "pontosAtencao": "Memorizar a diferença entre os três fenômenos hidrológicos: inundação gradual (elevação lenta do nível de um rio), inundação brusca/enxurrada (escoamento rápido e concentrado) e alagamento (acúmulo pontual por drenagem deficiente).",
+          "exemplo": "O rompimento da barragem de rejeitos em Brumadinho/MG (2019) é classificado como desastre tecnológico (grupo 'obras civis'), não como desastre natural.",
+          "fonte": "Caderno GIRD+10 (MDR/SEDEC), Capítulo 2, p.52-77"
+        },
+        {
+          "titulo": "Mapeamento de riscos e Soluções baseadas na Natureza (SbN)",
+          "conteudoPrevisto": "Carta de Suscetibilidade, Carta Geotécnica de Aptidão à Urbanização e Carta de Risco (três escalas de mapeamento); conceito de Soluções baseadas na Natureza e infraestrutura verde como estratégia de redução de riscos.",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Associação entre cada tipo de carta (suscetibilidade, aptidão à urbanização, risco) e sua escala/finalidade correspondente.",
+          "pegadinhas": "Trocar a escala de detalhe: Carta de Suscetibilidade é a mais regional (≤1:25.000), Carta de Risco é a mais detalhada (≥1:2.000).",
+          "errosFrequentes": "Achar que os três tipos de carta são intercambiáveis, quando cada um tem finalidade de planejamento distinta (ordenamento territorial x plano diretor x plano de contingência).",
+          "pontosAtencao": "Ordem de detalhamento progressivo: Suscetibilidade (visão regional) → Aptidão à Urbanização (planejamento urbano) → Risco (ação local/emergencial).",
+          "exemplo": "Jardins de chuva e recuperação de matas ciliares são exemplos de Soluções baseadas na Natureza que reduzem risco de inundação urbana.",
+          "fonte": "Caderno GIRD+10 (MDR/SEDEC), Capítulo 3, p.90-119"
+        },
+        {
+          "titulo": "Governança, comunicação de risco e educação para a prevenção",
+          "conteudoPrevisto": "Participação social e governança na gestão de riscos; os quatro modelos de Comunicação de Risco de Desastre (intrainstitucional, interinstitucional, midiático, comunitário); Núcleos Comunitários de Proteção e Defesa Civil (Nupdec); educação para redução de riscos e desastres (ERRD).",
+          "nivelPrioridade": "media",
+          "formaCobranca": "Questões sobre a finalidade de cada modelo de comunicação de risco ou sobre o papel dos Nupdecs na gestão comunitária de riscos.",
+          "pegadinhas": "Confundir comunicação de risco (preventiva, anterior ao desastre) com comunicação de desastre (durante/após o evento) — o Caderno GIRD+10 enfatiza que são conceitos distintos.",
+          "errosFrequentes": "Achar que a comunicação de risco se resume à divulgação de informações pela imprensa, ignorando os modelos comunitário e interinstitucional.",
+          "pontosAtencao": "Fixar que os Nupdecs são formados por cidadãos da própria comunidade, que atuam de forma preventiva e como socorristas em situações de calamidade.",
+          "exemplo": "Um Núcleo Comunitário de Proteção e Defesa Civil (Nupdec) treinado para monitorar níveis de um córrego é exemplo do modelo de comunicação de risco comunitário.",
+          "fonte": "Caderno GIRD+10 (MDR/SEDEC), Capítulo 4, p.122-151"
+        }
+      ]
+    }
+  ]
+}

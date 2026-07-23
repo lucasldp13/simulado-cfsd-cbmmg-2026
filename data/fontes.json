@@ -1,0 +1,46 @@
+{
+  "fontesOficiais": [
+    {
+      "id": "edital-10-2026",
+      "tipo": "Edital de Concurso Público",
+      "titulo": "EDITAL CBMMG Nº 10, de 16 de março de 2026 — Concurso Público CFSd BM/2027",
+      "instituicao": "Academia de Bombeiros Militar (ABM) / CBMMG e IDECAN",
+      "data": "2026-03-16",
+      "enderecoOrigem": "https://bombeiros.mg.gov.br/storage/files/303/EDITAL%2010%20de%202026_CFSD__2027.pdf",
+      "espelhoUsado": "https://arquivos.qconcursos.com/regulamento/arquivo/97992/cbm-mg-2026-soldado-bombeiro-militar-edital-n-10-edital.pdf",
+      "dataConsulta": "2026-07-23",
+      "arquivoLocal": "fontes/EDITAL_10_2026_CFSD_2027.pdf",
+      "paginas": 64,
+      "observacao": "Documento principal e prioritário. Contém corpo do edital (itens 1 a 19), Anexo I (Cronograma), Anexo II (Conteúdo Programático), Anexo III (TCF), Anexo IV (Avaliação Clínica) e Anexo V (Isenção de taxa)."
+    },
+    {
+      "id": "gird10-mdr-sedec",
+      "tipo": "Caderno Técnico",
+      "titulo": "GIRD+10 — Caderno Técnico de Gestão Integrada de Riscos e Desastres",
+      "instituicao": "Ministério do Desenvolvimento Regional (MDR) / Secretaria Nacional de Proteção e Defesa Civil (SEDEC), com PNUD, Instituto SIADES, UFABC e UMESP",
+      "data": "2021",
+      "enderecoOrigem": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil/Caderno_GIRD10__.pdf",
+      "dataConsulta": "2026-07-23",
+      "arquivoLocal": "fontes/Caderno_GIRD10.pdf",
+      "paginas": 151,
+      "observacao": "Fonte explicitamente indicada no Anexo II do Edital nº 10/2026 para a matéria Proteção e Defesa Civil. Usado para a matéria homônima."
+    }
+  ],
+  "documentosNaoObtidos": [
+    {
+      "titulo": "Retificação I do Edital CBMMG nº 10/2026",
+      "motivo": "Site oficial bombeiros.mg.gov.br indisponível (falha de conexão/HTTP 503) durante toda a sessão de elaboração; nenhum espelho público foi localizado com o texto integral.",
+      "impacto": "Conteúdo de Noções de Direitos Humanos e Legislação pode estar desatualizado quanto a artigos legais pontualmente alterados pela retificação."
+    },
+    {
+      "titulo": "Retificação II do Edital CBMMG nº 10/2026 (prorrogação de inscrições)",
+      "motivo": "Mesma indisponibilidade de acesso.",
+      "impacto": "Nenhum, pois trata apenas de datas de inscrição, sem relação com conteúdo de prova."
+    },
+    {
+      "titulo": "Provas e gabaritos oficiais anteriores do CFSd CBMMG",
+      "motivo": "Não fornecidos pelo usuário e não localizados publicamente com fonte oficial verificável dentro do escopo desta sessão.",
+      "impacto": "Não é possível afirmar recorrência de temas com base em análise comparativa; o simulado foi construído apenas a partir do conteúdo programático oficial."
+    }
+  ]
+}
