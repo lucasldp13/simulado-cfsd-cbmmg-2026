@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - claude/cfsd-cbmmg-2026-app-efc707
   workflow_dispatch:
 
 permissions:
