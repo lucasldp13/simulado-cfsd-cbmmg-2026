@@ -123,6 +123,8 @@ O script verifica: total de 50 questões, distribuição por matéria conforme o
 
 Todo o progresso do simulado (respostas, acertos, erros, data de início/última atividade) é salvo **apenas no navegador do usuário**, via `localStorage` — nada é enviado a servidores externos. Para apagar o progresso, use o botão "Apagar progresso e reiniciar" disponível nas telas de Simulado/Desempenho (uma confirmação é exigida antes da exclusão).
 
+Além do progresso do simulado atual, cada simulado **concluído** é automaticamente adicionado a um **histórico de desempenho** (também salvo apenas no navegador, chave `cfsd_cbmmg_2026_historico`), permitindo comparar a evolução do percentual de acertos ao longo de várias tentativas. Esse histórico aparece na tela de Desempenho (tabela + gráfico de evolução) a partir do segundo simulado concluído, e pode ser apagado separadamente do progresso via o botão "Apagar histórico de simulados".
+
 ## Limitações conhecidas
 
 Ver `RELATORIO_FONTES.md`, seções "Documentos que não puderam ser obtidos" e "Divergências encontradas" — em resumo: o texto da(s) retificação(ões) do Edital não pôde ser verificado, e não há provas anteriores do CFSd CBMMG incorporadas a este material.

@@ -14,6 +14,19 @@
       "observacao": "Documento principal e prioritário. Contém corpo do edital (itens 1 a 19), Anexo I (Cronograma), Anexo II (Conteúdo Programático), Anexo III (TCF), Anexo IV (Avaliação Clínica) e Anexo V (Isenção de taxa)."
     },
     {
+      "id": "prova-cfsd-2021-fundep",
+      "tipo": "Prova aplicada (concurso anterior)",
+      "titulo": "CBMMG PARA O ANO DE 2022 — Edital CBMMG 2021 — Curso de Formação de Soldados (CFSd BM) — Prova C",
+      "instituicao": "Corpo de Bombeiros Militar de Minas Gerais (CBMMG), banca organizadora Fundep (Fundação de Desenvolvimento da Pesquisa)",
+      "data": "2021",
+      "enderecoOrigem": "https://www.bombeiros.mg.gov.br/storage/files/303/QUESTO%CC%83ES%20CFSd-PROVA%20A.pdf (acesso direto indisponível durante a sessão)",
+      "espelhoUsado": "https://s3-sa-east-1.amazonaws.com/anexoservice/a3445da6-a51b-4d6e-8285-0962768a92c2.pdf",
+      "dataConsulta": "2026-07-23",
+      "arquivoLocal": "fontes/PROVA_CFSD_2021_PROVA_C_FUNDEP.pdf",
+      "paginas": 18,
+      "observacao": "Prova real e completa (50 questões: 10 Língua Portuguesa, 10 Matemática, 5 Geografia, 5 História, 5 Direitos Humanos, 5 Química, 5 Biologia, 5 Física), aplicada pela Fundep para o concurso anterior do CFSd CBMMG (Edital CBMMG 2021, ingresso em 2022). Gabarito oficial com as respostas corretas NÃO foi localizado nesta sessão. Usada apenas como referência de ESTILO, estrutura, tipo de raciocínio e nível de dificuldade para adaptar questões do simulado — nenhum enunciado ou alternativa foi copiado literalmente, por respeito aos direitos autorais da banca Fundep sobre o conteúdo da prova. A estrutura de matérias dessa prova (2021) é diferente da do Edital CBMMG nº 10/2026 (não havia 'Proteção e Defesa Civil' nem 'Raciocínio Lógico e Matemático' como blocos distintos), por isso foi usada apenas para as matérias com conteúdo comparável."
+    },
+    {
       "id": "gird10-mdr-sedec",
       "tipo": "Caderno Técnico",
       "titulo": "GIRD+10 — Caderno Técnico de Gestão Integrada de Riscos e Desastres",
@@ -41,9 +54,14 @@
       "impacto": "Nenhum, pois trata apenas de datas de inscrição, sem relação com conteúdo de prova."
     },
     {
-      "titulo": "Provas e gabaritos oficiais anteriores do CFSd CBMMG",
+      "titulo": "Gabarito oficial da Prova C (CFSd CBMMG, Edital 2021/2022)",
+      "motivo": "A prova completa foi localizada e obtida (ver fontesOficiais, id 'prova-cfsd-2021-fundep'), mas o gabarito oficial com as respostas corretas não foi encontrado nesta sessão.",
+      "impacto": "Não é possível conferir se as respostas atribuídas nas questões adaptadas coincidem com o gabarito real — irrelevante para as questões adaptadas deste simulado, pois cada uma tem resposta correta definida e verificada de forma independente, sem depender do gabarito da prova original."
+    },
+    {
+      "titulo": "Outras provas e gabaritos oficiais anteriores do CFSd CBMMG (além da Prova C de 2021)",
       "motivo": "Não fornecidos pelo usuário e não localizados publicamente com fonte oficial verificável dentro do escopo desta sessão.",
-      "impacto": "Não é possível afirmar recorrência de temas com base em análise comparativa; o simulado foi construído apenas a partir do conteúdo programático oficial."
+      "impacto": "A análise de recorrência de temas está limitada à comparação com uma única prova anterior (2021); não é possível afirmar recorrência estatística robusta com múltiplas provas."
     }
   ]
 }

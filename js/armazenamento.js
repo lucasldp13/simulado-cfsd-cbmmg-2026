@@ -6,6 +6,7 @@
 
 const Armazenamento = (() => {
   const CHAVE = 'cfsd_cbmmg_2026_progresso';
+  const CHAVE_HISTORICO = 'cfsd_cbmmg_2026_historico';
   const VERSAO_ESQUEMA = 1;
 
   function estadoInicial() {
@@ -86,6 +87,37 @@ const Armazenamento = (() => {
     return estado;
   }
 
+  function carregarHistorico() {
+    try {
+      const bruto = localStorage.getItem(CHAVE_HISTORICO);
+      if (!bruto) return [];
+      const dados = JSON.parse(bruto);
+      return Array.isArray(dados) ? dados : [];
+    } catch (erro) {
+      console.error('Falha ao ler histórico de desempenho.', erro);
+      return [];
+    }
+  }
+
+  function registrarNoHistorico(registro) {
+    const historico = carregarHistorico();
+    const jaExiste = historico.some(r => r.dataInicio === registro.dataInicio && r.dataFim === registro.dataFim);
+    if (jaExiste) return historico;
+    historico.push(registro);
+    historico.sort((a, b) => new Date(a.dataFim) - new Date(b.dataFim));
+    try {
+      localStorage.setItem(CHAVE_HISTORICO, JSON.stringify(historico));
+    } catch (erro) {
+      console.error('Falha ao salvar histórico de desempenho.', erro);
+    }
+    return historico;
+  }
+
+  function limparHistorico() {
+    localStorage.removeItem(CHAVE_HISTORICO);
+    return [];
+  }
+
   function temProgressoSalvo() {
     const bruto = localStorage.getItem(CHAVE);
     if (!bruto) return false;
@@ -105,6 +137,9 @@ const Armazenamento = (() => {
     registrarResposta,
     avancarQuestao,
     finalizarSimulado,
-    temProgressoSalvo
+    temProgressoSalvo,
+    carregarHistorico,
+    registrarNoHistorico,
+    limparHistorico
   };
 })();
