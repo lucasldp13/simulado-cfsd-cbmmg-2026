@@ -18,7 +18,7 @@
       "D": "Incorreta: o texto não garante ausência de ocorrências, apenas indica redução do tempo de resposta."
     },
     "referenciaEdital": "Compreensão e interpretação de textos de gêneros variados",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, com estrutura de texto-base (notícia + questões de interpretação) inspirada no padrão de textos jornalísticos usados na Prova C do CBMMG (Edital 2021, banca Fundep), sem reprodução do texto original.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -71,23 +71,23 @@
   {
     "id": "q004",
     "materia": "Língua Portuguesa",
-    "assunto": "Emprego do sinal indicativo de crase",
-    "enunciado": "Assinale a alternativa em que o uso (ou a ausência) do acento indicativo de crase está CORRETO.",
+    "assunto": "Domínio da estrutura morfossintática do período (subordinação)",
+    "enunciado": "Assinale a alternativa em que a oração destacada expressa relação de CONDIÇÃO em relação à oração principal.",
     "alternativas": {
-      "A": "A guarnição foi encaminhada à um chamado de incêndio florestal.",
-      "B": "A guarnição chegou às 14 horas à ocorrência registrada na avenida principal.",
-      "C": "A viatura seguiu à toda velocidade rumo à central de operações.",
-      "D": "Os bombeiros retornaram à quartel após o atendimento."
+      "A": "\"Caso o alarme dispare, os brigadistas devem acionar imediatamente o Corpo de Bombeiros.\"",
+      "B": "\"Como o alarme disparou, os brigadistas acionaram imediatamente o Corpo de Bombeiros.\"",
+      "C": "\"Embora o alarme tenha disparado, os brigadistas não acionaram o Corpo de Bombeiros.\"",
+      "D": "\"Assim que o alarme dispara, os brigadistas acionam o Corpo de Bombeiros.\""
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Há crase corretamente empregada antes de locução de horário determinado ('às 14 horas') e antes de substantivo feminino que admite artigo ('à ocorrência' = a + a ocorrência).",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "'Caso' é conjunção condicional, introduzindo uma hipótese da qual depende a realização do fato expresso na oração principal — exatamente a relação de condição.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: não há crase antes de palavra masculina ('um chamado'); o correto seria apenas 'a um chamado'.",
-      "C": "Incorreta: a expressão correta é 'a toda velocidade', sem crase, pois 'toda' não admite o artigo definido nesse contexto idiomático.",
-      "D": "Incorreta: 'quartel' é substantivo masculino, não admitindo crase; o correto é 'ao quartel'."
+      "B": "Incorreta: 'como', no início do período, equivale a 'porque', introduzindo uma oração causal, não condicional.",
+      "C": "Incorreta: 'embora' introduz uma oração concessiva, admitindo um fato que poderia se opor à ideia principal, sem impedi-la.",
+      "D": "Incorreta: 'assim que' introduz uma oração temporal, indicando simultaneidade/imediatismo, não condição."
     },
-    "referenciaEdital": "Estrutura morfossintática do período: emprego do sinal indicativo de crase",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Relações de subordinação entre orações",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -202,7 +202,7 @@
       "D": "Incorreta: o texto menciona 'crescimento constante', mas isso não é o motivo da relativização apresentada; a questão pede a causa da relativização, não a descrição do crescimento."
     },
     "referenciaEdital": "Compreensão e interpretação de textos de gêneros variados",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, com estrutura de texto-base inspirada no padrão de textos usados na Prova C do CBMMG (Edital 2021, banca Fundep), sem reprodução do texto original.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -233,22 +233,22 @@
     "id": "q011",
     "materia": "Raciocínio Lógico e Matemático",
     "assunto": "Problemas aritméticos: razão inversamente proporcional",
-    "enunciado": "Uma equipe de 6 bombeiros, trabalhando no mesmo ritmo individual, consegue esvaziar um reservatório de água contaminada em 8 horas. Mantido o mesmo ritmo de trabalho por bombeiro, quanto tempo levariam apenas 4 bombeiros para esvaziar o mesmo reservatório?",
+    "enunciado": "Uma guarnição de 8 bombeiros, trabalhando no mesmo ritmo individual, consegue montar uma barreira de contenção de enchente em 6 horas. Mantido o mesmo ritmo de trabalho por bombeiro, quantas horas levariam apenas 3 bombeiros para montar a mesma barreira?",
     "alternativas": {
-      "A": "5 horas e 20 minutos",
-      "B": "6 horas",
-      "C": "12 horas",
-      "D": "10 horas e 40 minutos"
+      "A": "16 horas",
+      "B": "18 horas",
+      "C": "2 horas e 15 minutos",
+      "D": "24 horas"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "O número de bombeiros e o tempo são grandezas inversamente proporcionais: 6 bombeiros × 8 horas = 48 (trabalho total, em 'bombeiro-hora'). Com 4 bombeiros: 48 ÷ 4 = 12 horas.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "O número de bombeiros e o tempo são grandezas inversamente proporcionais: 8 bombeiros × 6 horas = 48 (trabalho total, em 'bombeiro-hora'). Com 3 bombeiros: 48 ÷ 3 = 16 horas.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: resulta de uma regra de três direta aplicada erroneamente (dividir 8 por 6 e multiplicar por 4).",
       "B": "Incorreta: não corresponde a nenhuma operação consistente com a proporcionalidade inversa correta.",
-      "D": "Incorreta: também decorre da aplicação equivocada de proporcionalidade direta em vez de inversa."
+      "C": "Incorreta: resulta da aplicação equivocada de uma regra de três DIRETA (6 ÷ 8 × 3 = 2,25 h), quando a relação entre bombeiros e tempo é inversa, não direta.",
+      "D": "Incorreta: resulta de multiplicar diretamente 8 × 3, sem considerar a relação inversa entre número de bombeiros e tempo."
     },
     "referenciaEdital": "Raciocínio lógico envolvendo problemas aritméticos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -256,22 +256,22 @@
     "id": "q012",
     "materia": "Raciocínio Lógico e Matemático",
     "assunto": "Operações com conjuntos",
-    "enunciado": "Em um curso preparatório, 50 candidatos realizaram a prova teórica, 35 realizaram a prova prática, e 20 candidatos realizaram as duas provas. Quantos candidatos participaram de pelo menos uma das duas provas?",
+    "enunciado": "Em uma corporação, 60 militares fizeram o curso de mergulho, 45 fizeram o curso de salvamento em altura, e 25 militares fizeram os dois cursos. Quantos militares fizeram pelo menos um dos dois cursos?",
     "alternativas": {
-      "A": "85",
-      "B": "65",
+      "A": "105",
+      "B": "80",
       "C": "70",
       "D": "55"
     },
     "respostaCorreta": "B",
-    "explicacaoCorreta": "Aplicando |A ∪ B| = |A| + |B| − |A ∩ B|: 50 + 35 − 20 = 65 candidatos participaram de pelo menos uma das provas.",
+    "explicacaoCorreta": "Aplicando |A ∪ B| = |A| + |B| − |A ∩ B|: 60 + 45 − 25 = 80 militares fizeram pelo menos um dos dois cursos.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: soma diretamente 50 e 35 sem subtrair a interseção, contando duas vezes os 20 candidatos que fizeram ambas.",
+      "A": "Incorreta: soma diretamente 60 e 45 sem subtrair a interseção, contando duas vezes os 25 militares que fizeram ambos os cursos.",
       "C": "Incorreta: não corresponde à aplicação correta da fórmula de união de conjuntos.",
       "D": "Incorreta: subtrai a interseção duas vezes, resultando em valor inferior ao correto."
     },
     "referenciaEdital": "Operações com conjuntos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -325,22 +325,22 @@
     "id": "q015",
     "materia": "Raciocínio Lógico e Matemático",
     "assunto": "Problemas geométricos aplicados",
-    "enunciado": "Um pátio retangular usado para treinamento físico tem 40 metros de comprimento por 15 metros de largura. Para isolar totalmente o perímetro do pátio com fita de sinalização, dando exatamente uma volta completa, quantos metros de fita serão necessários?",
+    "enunciado": "Um pátio retangular usado para treinamento físico tem 50 metros de comprimento por 20 metros de largura. Para isolar totalmente o perímetro do pátio com fita de sinalização, dando exatamente DUAS voltas completas, quantos metros de fita serão necessários?",
     "alternativas": {
-      "A": "55 metros",
-      "B": "600 metros",
-      "C": "110 metros",
-      "D": "150 metros"
+      "A": "140 metros",
+      "B": "280 metros",
+      "C": "1.000 metros",
+      "D": "70 metros"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "O perímetro de um retângulo é P = 2 × (comprimento + largura) = 2 × (40 + 15) = 2 × 55 = 110 metros.",
+    "respostaCorreta": "B",
+    "explicacaoCorreta": "O perímetro de um retângulo é P = 2 × (comprimento + largura) = 2 × (50 + 20) = 140 metros. Como são necessárias duas voltas completas, o total é 140 × 2 = 280 metros.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: corresponde apenas à soma dos dois lados diferentes (40+15), sem multiplicar por 2, calculando 'meio perímetro'.",
-      "B": "Incorreta: corresponde à área do pátio (40 × 15 = 600 m²), não ao perímetro.",
-      "D": "Incorreta: não corresponde a nenhum cálculo consistente com os dados fornecidos."
+      "A": "Incorreta: corresponde ao perímetro de apenas UMA volta, sem considerar que o enunciado pede duas voltas completas.",
+      "C": "Incorreta: corresponde à área do pátio (50 × 20 = 1.000 m²), não ao perímetro.",
+      "D": "Incorreta: corresponde apenas à soma dos dois lados diferentes (50+20), sem multiplicar por 2 nem considerar as duas voltas."
     },
     "referenciaEdital": "Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -485,25 +485,25 @@
   {
     "id": "q022",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "LINDB — direito adquirido, ato jurídico perfeito e coisa julgada",
-    "enunciado": "Conforme o art. 6º da Lei de Introdução às Normas do Direito Brasileiro, a lei em vigor terá efeito imediato e geral, respeitados três institutos que protegem situações jurídicas já consolidadas. Assinale a alternativa que apresenta corretamente esses três institutos.",
+    "assunto": "Declaração Universal dos Direitos Humanos",
+    "enunciado": "O artigo 2º da Declaração Universal dos Direitos Humanos estabelece que toda pessoa tem capacidade para gozar os direitos e liberdades nela estabelecidos, sem distinção de qualquer espécie. Assinale a alternativa que apresenta CORRETAMENTE critérios de não discriminação expressamente citados nesse artigo.",
     "alternativas": {
-      "A": "Ato jurídico perfeito, direito adquirido e coisa julgada",
-      "B": "Boa-fé objetiva, direito adquirido e devido processo legal",
-      "C": "Ato jurídico perfeito, presunção de inocência e coisa julgada",
-      "D": "Direito adquirido, coisa julgada e princípio da anterioridade"
+      "A": "Raça, cor, sexo, língua, religião, opinião política, origem nacional ou social",
+      "B": "Exclusivamente idade e estado civil",
+      "C": "Apenas nacionalidade e filiação partidária",
+      "D": "Somente escolaridade e situação econômica atual"
     },
     "respostaCorreta": "A",
-    "explicacaoCorreta": "O art. 6º da LINDB determina que a lei nova respeite o ato jurídico perfeito, o direito adquirido e a coisa julgada, protegendo situações jurídicas já consolidadas antes de sua entrada em vigor.",
+    "explicacaoCorreta": "O art. 2º da DUDH lista expressamente critérios como raça, cor, sexo, língua, religião, opinião política ou de outra natureza, origem nacional ou social, entre outros, como fundamentos que não podem justificar distinção no gozo dos direitos e liberdades.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: boa-fé objetiva e devido processo legal não são os institutos expressamente citados no art. 6º da LINDB.",
-      "C": "Incorreta: presunção de inocência é princípio penal constitucional, não um dos três institutos do art. 6º da LINDB.",
-      "D": "Incorreta: princípio da anterioridade é próprio do Direito Tributário, não consta do art. 6º da LINDB."
+      "B": "Incorreta: idade e estado civil não são os critérios expressamente listados no art. 2º da DUDH.",
+      "C": "Incorreta: 'filiação partidária' não é o termo utilizado no art. 2º; o mais próximo citado é 'opinião política', de forma mais ampla.",
+      "D": "Incorreta: escolaridade não é critério expressamente citado no art. 2º da DUDH."
     },
-    "referenciaEdital": "Lei de Introdução às Normas do Direito Brasileiro (arts. 1º ao 6º)",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Declaração Universal dos Direitos Humanos",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
-    "dificuldade": "difícil"
+    "dificuldade": "média"
   },
   {
     "id": "q023",
@@ -692,25 +692,25 @@
   {
     "id": "q031",
     "materia": "Ciências Naturais",
-    "assunto": "Biologia — sistema muscular e esquelético",
-    "enunciado": "Durante a prática de atividades físicas intensas e prolongadas, como as exigidas no Teste de Capacitação Física, o músculo esquelético pode recorrer à via anaeróbica de obtenção de energia quando o fornecimento de oxigênio é insuficiente. Esse processo resulta no acúmulo de qual substância nos músculos, associada à sensação de fadiga muscular?",
+    "assunto": "Biologia — tipagem sanguínea e fator Rh",
+    "enunciado": "Em uma campanha de doação de sangue realizada por um batalhão do Corpo de Bombeiros, 250 militares doaram sangue. Desse total, 56% eram do tipo sanguíneo A, 24% do tipo O, 12% do tipo AB e 8% do tipo B. Dos doadores dos tipos O e AB, 20% eram Rh negativo; dos tipos A e B, apenas 10% eram Rh negativo.\n\nSabendo que o doador universal é do tipo O negativo, quantos doadores universais participaram dessa campanha?",
     "alternativas": {
-      "A": "Glicogênio",
-      "B": "Ácido lático",
-      "C": "Adenosina trifosfato (ATP)",
-      "D": "Mioglobina"
+      "A": "12 doadores",
+      "B": "48 doadores",
+      "C": "60 doadores",
+      "D": "6 doadores"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Na via anaeróbica (glicólise anaeróbica), o piruvato é convertido em ácido lático na ausência de oxigênio suficiente, e seu acúmulo está associado à fadiga muscular.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "O número de doadores do tipo O é 24% de 250 = 60. Desses, 20% são Rh negativo (doadores universais): 20% de 60 = 12.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: glicogênio é a reserva de energia do músculo/fígado, consumida (não acumulada) durante o esforço.",
-      "C": "Incorreta: o ATP é a molécula de energia consumida pela contração muscular, não uma substância que se acumula causando fadiga.",
-      "D": "Incorreta: mioglobina é proteína de armazenamento de oxigênio no músculo, não um subproduto do metabolismo anaeróbico."
+      "B": "Incorreta: corresponde ao número de doadores do tipo O que são Rh POSITIVO (60 − 12 = 48), não aos Rh negativo (doadores universais).",
+      "C": "Incorreta: corresponde ao total de doadores do tipo O, sem considerar a divisão pelo fator Rh.",
+      "D": "Incorreta: resulta de aplicar 10% (percentual dos tipos A e B) em vez de 20% (percentual correto dos tipos O e AB) sobre os 60 doadores do tipo O."
     },
     "referenciaEdital": "Fisiologia Muscular, Metabolismo Energético",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
-    "pagina": "52",
-    "dificuldade": "média"
+    "fonte": "Questão adaptada de prova real do CBMMG (Edital CBMMG 2021, CFSd BM/2022, Prova C, Questão 41, aplicada pela banca Fundep) — contexto e valores numéricos reescritos; conteúdo baseado no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional na matéria, priorizada por indicar desempenho mais fraco do candidato.",
+    "pagina": "52 (edital) / Prova C, Fundep, p.12",
+    "dificuldade": "difícil"
   },
   {
     "id": "q032",
