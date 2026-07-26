@@ -3,22 +3,22 @@
     "id": "q001",
     "materia": "Língua Portuguesa",
     "assunto": "Compreensão e interpretação de textos",
-    "enunciado": "Leia o texto a seguir.\n\n\"Durante o período chuvoso, as equipes do Corpo de Bombeiros intensificam o monitoramento de encostas e cursos d'água nas regiões historicamente mais suscetíveis a deslizamentos. Essa vigilância antecipada não elimina o risco, mas reduz significativamente o tempo de resposta em caso de ocorrência, permitindo que a população seja alertada e, quando necessário, retirada da área antes que o cenário se agrave.\"\n\nDe acordo com o texto, a vigilância antecipada realizada pelos bombeiros tem como principal efeito:",
+    "enunciado": "Durante a estação seca, o número de incêndios florestais atendidos pelo Corpo de Bombeiros de Minas Gerais tende a aumentar significativamente. Embora as queimadas tenham causas diversas — que vão de descargas elétricas a ações humanas intencionais ou acidentais —, a maior parte dos focos registrados no estado tem origem antrópica, segundo dados históricos das corporações de combate a incêndios florestais. Por isso, campanhas de conscientização sobre o uso do fogo em áreas rurais são consideradas tão importantes quanto o preparo técnico das equipes de combate.\n\nDe acordo com o texto, a maior parte dos incêndios florestais registrados em Minas Gerais:",
     "alternativas": {
-      "A": "Eliminar totalmente o risco de deslizamentos nas regiões monitoradas.",
-      "B": "Reduzir o tempo de resposta e possibilitar alerta e retirada preventiva da população.",
-      "C": "Substituir a necessidade de mapeamento geotécnico das encostas.",
-      "D": "Garantir que nenhuma ocorrência de deslizamento seja registrada no período chuvoso."
+      "A": "tem origem natural, decorrente principalmente de descargas elétricas.",
+      "B": "tem origem humana, o que justifica a importância das campanhas de conscientização.",
+      "C": "não possui causa identificável até o momento.",
+      "D": "ocorre exclusivamente durante a estação chuvosa."
     },
     "respostaCorreta": "B",
-    "explicacaoCorreta": "O texto afirma expressamente que a vigilância 'não elimina o risco', mas 'reduz significativamente o tempo de resposta', permitindo alerta e retirada preventiva — exatamente o que a alternativa B descreve.",
+    "explicacaoCorreta": "O texto afirma expressamente que 'a maior parte dos focos... tem origem antrópica', ou seja, humana — o que justifica, na sequência do próprio texto, a importância das campanhas de conscientização.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: o texto nega explicitamente que o risco seja eliminado ('não elimina o risco').",
-      "C": "Incorreta: o texto não menciona substituição do mapeamento geotécnico; essa informação não consta do trecho.",
-      "D": "Incorreta: o texto não garante ausência de ocorrências, apenas indica redução do tempo de resposta."
+      "A": "Incorreta: o texto atribui a maior parte dos focos à origem antrópica (humana), não a causas naturais como descargas elétricas.",
+      "C": "Incorreta: o texto identifica claramente a causa predominante (origem antrópica), contrariando a ideia de que não haveria causa identificável.",
+      "D": "Incorreta: o texto afirma que os incêndios aumentam 'durante a estação seca', não na chuvosa."
     },
     "referenciaEdital": "Compreensão e interpretação de textos de gêneros variados",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, com estrutura de texto-base inspirada no padrão de textos jornalísticos usados na Prova C do CBMMG (Edital 2021, banca Fundep), sem reprodução do texto original.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -26,22 +26,22 @@
     "id": "q002",
     "materia": "Língua Portuguesa",
     "assunto": "Domínio da ortografia oficial (acentuação)",
-    "enunciado": "Assinale a alternativa em que todas as palavras estão corretamente grafadas segundo as regras vigentes de acentuação gráfica.",
+    "enunciado": "Assinale a alternativa em que todas as palavras estão corretamente acentuadas, segundo as regras vigentes de acentuação gráfica.",
     "alternativas": {
-      "A": "Idéia, heróico, jibóia",
-      "B": "Ideia, heroico, jiboia",
-      "C": "Ideía, heroíco, jibóia",
-      "D": "Idéia, heroico, jibóia"
+      "C": "Saúde, país, baú",
+      "A": "Saude, pais, bau",
+      "B": "Saúde, país, báu",
+      "D": "Saude, país, baú"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Desde o Acordo Ortográfico vigente, ditongos abertos 'ei' e 'oi' em palavras paroxítonas deixaram de ser acentuados. Por isso, a grafia correta é 'ideia', 'heroico' e 'jiboia', sem acento.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "As três palavras apresentam hiato tônico (vogal seguida de 'i' ou 'u' tônico sozinho na sílaba), o que exige acento gráfico: 'saúde', 'país' e 'baú'.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: mantém acentos que foram eliminados pelo Acordo Ortográfico em ditongos abertos de paroxítonas.",
-      "C": "Incorreta: além de manter acento indevido em 'jibóia', insere acentuação incorreta em 'ideía' (forma inexistente) e 'heroíco'.",
-      "D": "Incorreta: mantém acento indevido em 'idéia' e 'jibóia', embora acerte 'heroico'."
+      "A": "Incorreta: as três palavras têm hiato tônico e exigem acento, que foi omitido em todas elas.",
+      "B": "Incorreta: a grafia correta é 'baú' (acento no 'u'), e não 'báu', forma inexistente.",
+      "D": "Incorreta: falta o acento em 'saúde', grafada erroneamente como 'saude'."
     },
     "referenciaEdital": "Ortografia oficial: emprego das letras e acentuação gráfica",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, item 8.2.3",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, item 8.2.3.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -49,22 +49,22 @@
     "id": "q003",
     "materia": "Língua Portuguesa",
     "assunto": "Coesão textual: referenciação e conectores",
-    "enunciado": "\"Os bombeiros concluíram a vistoria no edifício comercial; entretanto, recomendaram a interdição parcial de um dos pavimentos.\"\n\nNo período acima, o conectivo 'entretanto' estabelece entre as orações uma relação de:",
+    "enunciado": "\"Os brigadistas concluíram o treinamento de combate a incêndios florestais na última semana. Eles serão distribuídos entre as bases regionais mais suscetíveis a focos de calor neste período do ano.\"\n\nNo trecho acima, o pronome 'Eles' retoma:",
     "alternativas": {
-      "A": "Adição, reforçando a ideia anterior",
-      "B": "Causa e consequência",
-      "C": "Oposição/contraste em relação à ideia anterior",
-      "D": "Conclusão do que foi afirmado antes"
+      "A": "'incêndios florestais'",
+      "B": "'os brigadistas'",
+      "C": "'a última semana'",
+      "D": "'as bases regionais'"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "'Entretanto' é conjunção adversativa, equivalente a 'mas' e 'porém', introduzindo uma ideia que contrasta com a anterior: mesmo com a vistoria concluída, houve recomendação de interdição.",
+    "respostaCorreta": "B",
+    "explicacaoCorreta": "'Eles' retoma 'os brigadistas', sujeito da primeira oração, com quem concorda em gênero (masculino) e número (plural), e a quem se refere semanticamente a ação de ser distribuído.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: conectivos aditivos são 'e', 'também', 'além disso' — não é o caso de 'entretanto'.",
-      "B": "Incorreta: relação causal seria marcada por 'porque', 'já que', 'portanto' (este último indicando consequência).",
-      "D": "Incorreta: conclusão seria marcada por 'logo', 'portanto', 'por isso', não por 'entretanto'."
+      "A": "Incorreta: 'incêndios florestais' não é elemento capaz de ser 'distribuído entre bases regionais' no sentido da frase.",
+      "C": "Incorreta: 'a última semana' é expressão feminina singular, incompatível com o pronome masculino plural 'eles'.",
+      "D": "Incorreta: 'as bases regionais' é o destino da distribuição, não o sujeito que é distribuído, além de ser feminino, incompatível com 'eles'."
     },
     "referenciaEdital": "Domínio dos mecanismos de coesão textual",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -72,22 +72,22 @@
     "id": "q004",
     "materia": "Língua Portuguesa",
     "assunto": "Emprego do sinal indicativo de crase",
-    "enunciado": "Assinale a alternativa em que o uso (ou a ausência) do acento indicativo de crase está CORRETO.",
+    "enunciado": "Assinale a alternativa em que o emprego (ou a ausência) do acento indicativo de crase está CORRETO.",
     "alternativas": {
-      "A": "A guarnição foi encaminhada à um chamado de incêndio florestal.",
-      "B": "A guarnição chegou às 14 horas à ocorrência registrada na avenida principal.",
-      "C": "A viatura seguiu à toda velocidade rumo à central de operações.",
-      "D": "Os bombeiros retornaram à quartel após o atendimento."
+      "C": "Os bombeiros se dirigiram à residência indicada no chamado.",
+      "A": "A vítima foi levada à um hospital da região.",
+      "B": "O comandante se referiu à ele durante a reunião.",
+      "D": "Chegamos à tempo de evitar o pior."
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Há crase corretamente empregada antes de locução de horário determinado ('às 14 horas') e antes de substantivo feminino que admite artigo ('à ocorrência' = a + a ocorrência).",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "Há crase corretamente empregada antes de substantivo feminino determinado que admite artigo: 'à residência' (a + a residência).",
     "explicacaoAlternativas": {
-      "A": "Incorreta: não há crase antes de palavra masculina ('um chamado'); o correto seria apenas 'a um chamado'.",
-      "C": "Incorreta: a expressão correta é 'a toda velocidade', sem crase, pois 'toda' não admite o artigo definido nesse contexto idiomático.",
-      "D": "Incorreta: 'quartel' é substantivo masculino, não admitindo crase; o correto é 'ao quartel'."
+      "A": "Incorreta: 'um hospital' é expressão indeterminada (artigo indefinido masculino), que não admite crase.",
+      "B": "Incorreta: 'ele' é pronome pessoal, que não admite artigo definido e, portanto, não recebe crase.",
+      "D": "Incorreta: a locução 'a tempo' (chegar a tempo) é usada sem artigo definido nesse sentido idiomático, não levando crase."
     },
     "referenciaEdital": "Estrutura morfossintática do período: emprego do sinal indicativo de crase",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -95,22 +95,22 @@
     "id": "q005",
     "materia": "Língua Portuguesa",
     "assunto": "Concordância verbal e nominal",
-    "enunciado": "Assinale a alternativa em que a concordância verbal e nominal está CORRETA.",
+    "enunciado": "Assinale a alternativa em que a concordância verbal está CORRETA.",
     "alternativas": {
-      "A": "Fazem dois anos que o novo regulamento de ingresso entrou em vigor.",
-      "B": "Seguem anexos ao processo os laudos técnicos solicitados pela comissão.",
-      "C": "É necessário cautela redobrada durante o teste de capacitação física.",
-      "D": "Um grupo de recrutas chegaram atrasados à formatura."
+      "D": "Existem, na sede do batalhão, diversos equipamentos de resgate.",
+      "A": "Existe, na sede do batalhão, diversos equipamentos de resgate.",
+      "B": "Devem haver, no depósito, vários coletes disponíveis.",
+      "C": "Deviam haver, no depósito, vários coletes disponíveis."
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "O particípio 'anexos' concorda corretamente em gênero e número com 'os laudos técnicos' (masculino plural), e o verbo 'seguem' também concorda com o sujeito posposto 'os laudos'.",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "'Existir' é verbo pessoal e concorda normalmente com o sujeito; como o sujeito 'diversos equipamentos' está no plural, o verbo deve flexionar-se no plural: 'Existem'.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: o verbo 'fazer' indicando tempo decorrido é impessoal e deve ficar no singular: 'Faz dois anos'.",
-      "C": "Incorreta: quando 'necessário' vem antes do sujeito sem artigo determinando-o, a concordância correta seria 'É necessária cautela', pois o sujeito 'cautela' é determinado e concorda com o adjetivo.",
-      "D": "Incorreta: 'um grupo' é sujeito no singular; o verbo deveria concordar com o núcleo 'grupo': 'chegou atrasado'."
+      "A": "Incorreta: o verbo 'existir' deve concordar com o sujeito plural 'diversos equipamentos'; o singular 'Existe' está errado.",
+      "B": "Incorreta: 'haver' no sentido de existir é impessoal e permanece sempre no singular, mesmo quando auxiliado por outro verbo; o correto seria 'Deve haver'.",
+      "C": "Incorreta: pelo mesmo motivo, o correto seria 'Devia haver', e não 'Deviam haver'."
     },
     "referenciaEdital": "Concordância verbal e nominal",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -118,22 +118,22 @@
     "id": "q006",
     "materia": "Língua Portuguesa",
     "assunto": "Colocação dos pronomes átonos",
-    "enunciado": "Assinale a alternativa em que a colocação pronominal está de acordo com a norma-padrão.",
+    "enunciado": "Assinale a alternativa em que a colocação do pronome átono está de acordo com a norma-padrão.",
     "alternativas": {
-      "A": "Não se recomenda a permanência na área até que a situação normalize-se.",
-      "B": "Informou-nos o comandante que a operação seria antecipada.",
-      "C": "Comunicaram-me que o exame médico foi remarcado.",
-      "D": "Me avisaram sobre a alteração no cronograma de provas."
+      "B": "O comandante que nos avisou sobre a alteração já deixou a base.",
+      "A": "O comandante que avisou-nos sobre a alteração já deixou a base.",
+      "C": "Ninguém nos-avisou sobre a alteração do horário.",
+      "D": "Sempre nos-avisaram com antecedência sobre as alterações."
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "Em início de período, sem palavra atrativa antes do verbo, a próclise é evitada; a ênclise ('Comunicaram-me') está correta, pois não há elemento que exija próclise.",
+    "respostaCorreta": "B",
+    "explicacaoCorreta": "'Que' é pronome relativo e palavra atrativa, exigindo próclise: 'que nos avisou' está de acordo com a norma-padrão.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: após a conjunção 'até que', que é palavra atrativa, o correto é a próclise: 'até que a situação se normalize'.",
-      "B": "Incorreta: apesar de aceitável em alguns contextos, o mais adequado após o advérbio de início de frase sem outra atração é observar que 'Informou-nos' inicia o período sem palavra atrativa antes, mas a estrutura fica confusa; a forma mais adequada e sem ambiguidade seria 'O comandante nos informou'.",
-      "D": "Incorreta: a norma-padrão evita iniciar período com pronome oblíquo átono; o correto seria 'Avisaram-me' ou 'Fui avisado'."
+      "A": "Incorreta: 'que' é palavra atrativa que exige próclise ('que nos avisou'), não ênclise ('avisou-nos').",
+      "C": "Incorreta: a próclise nunca é grafada com hífen; o correto seria 'Ninguém nos avisou', sem hífen entre pronome e verbo.",
+      "D": "Incorreta: pelo mesmo motivo, o correto seria 'Sempre nos avisaram', sem hífen."
     },
     "referenciaEdital": "Colocação dos pronomes átonos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -143,20 +143,20 @@
     "assunto": "Pontuação",
     "enunciado": "Assinale a alternativa em que a pontuação está CORRETA.",
     "alternativas": {
-      "A": "Os candidatos, que chegaram atrasados não puderam realizar a prova.",
-      "B": "Os candidatos que chegaram atrasados, não puderam realizar a prova.",
-      "C": "Os candidatos que chegaram atrasados não puderam realizar a prova.",
-      "D": "Os candidatos que, chegaram atrasados, não puderam realizar a prova."
+      "D": "O comandante geral do CBMMG, que assumiu o cargo em 2025, esteve presente na solenidade.",
+      "A": "O comandante geral do CBMMG que assumiu o cargo em 2025 esteve presente na solenidade.",
+      "B": "O comandante geral do CBMMG que assumiu o cargo em 2025, esteve presente na solenidade.",
+      "C": "O comandante geral do CBMMG, que assumiu o cargo em 2025 esteve presente na solenidade."
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "A oração 'que chegaram atrasados' é restritiva (define quais candidatos, não todos) e, por isso, não deve ser isolada por vírgulas.",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "Como só existe um comandante geral do CBMMG, a oração 'que assumiu o cargo em 2025' é explicativa (acrescenta informação sobre um referente único) e deve ser isolada por vírgulas dos dois lados.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: usa vírgula apenas de um lado da oração restritiva, separando indevidamente sujeito de predicado.",
-      "B": "Incorreta: insere vírgula separando a oração restritiva do restante da frase, quando ela não deveria ser isolada.",
-      "D": "Incorreta: isola indevidamente o pronome relativo 'que' do restante da oração restritiva com vírgulas."
+      "A": "Incorreta: omite as vírgulas que deveriam isolar a oração explicativa.",
+      "B": "Incorreta: usa vírgula apenas depois da oração explicativa, faltando a vírgula antes de 'que'.",
+      "C": "Incorreta: usa vírgula apenas antes da oração explicativa, faltando a vírgula depois de '2025'."
     },
     "referenciaEdital": "Emprego dos sinais de pontuação",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -164,45 +164,45 @@
     "id": "q008",
     "materia": "Língua Portuguesa",
     "assunto": "Reescritura de frases sem alteração de sentido",
-    "enunciado": "\"Somente serão aceitas as inscrições pagas até a data-limite estabelecida no edital.\"\n\nAssinale a alternativa que reescreve a frase acima MANTENDO o sentido original.",
+    "enunciado": "\"Caso as condições climáticas piorem, a operação de resgate será suspensa temporariamente.\"\n\nAssinale a alternativa que reescreve a frase acima MANTENDO o sentido original.",
     "alternativas": {
-      "A": "As inscrições pagas até a data-limite não serão aceitas.",
-      "B": "As inscrições, ainda que pagas após a data-limite, poderão ser aceitas.",
-      "C": "Nenhuma inscrição será aceita, mesmo que paga até a data-limite.",
-      "D": "Apenas as inscrições cujo pagamento ocorrer até a data-limite serão aceitas."
+      "D": "A operação de resgate será suspensa temporariamente, se as condições climáticas piorarem.",
+      "A": "Ainda que as condições climáticas piorem, a operação de resgate continuará normalmente.",
+      "B": "A operação de resgate já foi suspensa devido à piora das condições climáticas.",
+      "C": "As condições climáticas pioraram, mas a operação de resgate não será suspensa."
     },
     "respostaCorreta": "D",
-    "explicacaoCorreta": "A reescrita em D preserva o sentido restritivo original ('somente... até a data-limite'), apenas trocando 'somente' por 'apenas' e reorganizando a oração sem alterar a condição temporal.",
+    "explicacaoCorreta": "A reescrita em B preserva a relação condicional original ('caso... piorem' equivale a 'se... piorarem'), sem alterar o sentido nem a hipótese temporal.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: inverte completamente o sentido, negando a aceitação das inscrições pagas dentro do prazo.",
-      "B": "Incorreta: contraria o texto original ao admitir pagamento após a data-limite.",
-      "C": "Incorreta: nega a aceitação de qualquer inscrição, mesmo as pagas no prazo, o que contraria o texto original."
+      "A": "Incorreta: transforma a condição em concessão, afirmando que a operação continuaria normalmente mesmo com a piora — sentido oposto ao original.",
+      "B": "Incorreta: afirma um fato já consumado (suspensão já ocorrida), enquanto o original apresenta uma condição hipotética futura.",
+      "C": "Incorreta: afirma que as condições já pioraram e nega a suspensão, contrariando o sentido condicional original."
     },
     "referenciaEdital": "Reescritura de frases e parágrafos do texto",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "média"
   },
   {
     "id": "q009",
     "materia": "Língua Portuguesa",
-    "assunto": "Compreensão e interpretação de textos (gráfico/dado)",
-    "enunciado": "\"Nos últimos dez anos, o número de ocorrências de resgate em altura atendidas pelo Corpo de Bombeiros cresceu de forma constante, acompanhando a verticalização das cidades. Esse crescimento não significa, necessariamente, que as edificações estejam mais inseguras; pode refletir também o aumento do número de construções altas e a maior notificação das ocorrências pela população.\"\n\nO texto relativiza a conclusão de que o aumento das ocorrências de resgate em altura indica maior insegurança das edificações porque:",
+    "assunto": "Compreensão e interpretação de textos (dados numéricos)",
+    "enunciado": "Um levantamento do Corpo de Bombeiros indica que, nos últimos cinco anos, o tempo médio de resposta a chamados de emergência na Região Metropolitana de Belo Horizonte caiu de 12 para 8 minutos. A redução é atribuída, entre outros fatores, à ampliação do número de viaturas e à reorganização das bases operacionais, e não a uma diminuição no número de ocorrências, que se manteve estável no período.\n\nDe acordo com o texto, a redução do tempo médio de resposta:",
     "alternativas": {
-      "A": "Afirma que as edificações estão, de fato, mais seguras do que há dez anos.",
-      "B": "Aponta outras causas possíveis para o aumento dos números, como a verticalização e a maior notificação.",
-      "C": "Nega que exista qualquer relação entre verticalização e ocorrências de resgate.",
-      "D": "Demonstra, com dados numéricos, que o crescimento das ocorrências é constante e linear."
+      "A": "decorre principalmente da diminuição do número de ocorrências atendidas.",
+      "B": "está relacionada a mudanças operacionais, e não à queda no número de chamados.",
+      "C": "não teve nenhuma causa identificada pelo levantamento.",
+      "D": "ocorreu apesar do aumento constante no número de viaturas disponíveis."
     },
     "respostaCorreta": "B",
-    "explicacaoCorreta": "O texto sugere explicitamente duas causas alternativas — 'aumento do número de construções altas' e 'maior notificação das ocorrências' — sem afirmar diretamente que as edificações estão mais inseguras.",
+    "explicacaoCorreta": "O texto atribui a redução à ampliação de viaturas e à reorganização das bases, afirmando expressamente que não decorreu de queda no número de ocorrências, que 'se manteve estável'.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: o texto não afirma que as edificações estão mais seguras; apenas relativiza a conclusão sobre insegurança.",
-      "C": "Incorreta: o texto reconhece relação com a verticalização, não a nega.",
-      "D": "Incorreta: o texto menciona 'crescimento constante', mas isso não é o motivo da relativização apresentada; a questão pede a causa da relativização, não a descrição do crescimento."
+      "A": "Incorreta: o texto nega explicitamente essa causa ('e não a uma diminuição no número de ocorrências').",
+      "C": "Incorreta: o texto atribui a redução a causas específicas e identificadas (mais viaturas, reorganização das bases).",
+      "D": "Incorreta: o texto não trata o aumento de viaturas como algo que ocorre 'apesar' da melhoria, mas como uma das causas dela."
     },
     "referenciaEdital": "Compreensão e interpretação de textos de gêneros variados",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, com estrutura de texto-base inspirada no padrão de textos usados na Prova C do CBMMG (Edital 2021, banca Fundep), sem reprodução do texto original.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -210,22 +210,22 @@
     "id": "q010",
     "materia": "Língua Portuguesa",
     "assunto": "Domínio da estrutura morfossintática do período (subordinação)",
-    "enunciado": "\"Ainda que o teste de aptidão física seja exigente, a maioria dos candidatos consegue concluí-lo dentro do tempo previsto.\"\n\nA oração introduzida por 'ainda que' expressa, em relação à oração principal, uma ideia de:",
+    "enunciado": "\"A fumaça era tão densa que os bombeiros precisaram usar equipamento respiratório autônomo.\"\n\nA oração destacada expressa, em relação à primeira oração, uma relação de:",
     "alternativas": {
-      "A": "Causa",
-      "B": "Concessão",
+      "A": "Consequência",
+      "B": "Causa",
       "C": "Condição",
       "D": "Finalidade"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "'Ainda que' é conjunção concessiva, introduzindo um fato que poderia se opor à ideia principal, mas não a impede de se realizar — por isso a maioria consegue concluir o teste apesar de sua exigência.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "A correlação 'tão... que' é clássica estrutura consecutiva, indicando o efeito (consequência) decorrente da intensidade expressa na oração principal.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: oração causal seria introduzida por 'porque', 'já que', 'visto que'.",
+      "B": "Incorreta: oração causal seria introduzida por 'porque', 'já que', 'visto que'.",
       "C": "Incorreta: oração condicional seria introduzida por 'se', 'caso', 'contanto que'.",
       "D": "Incorreta: oração final seria introduzida por 'para que', 'a fim de que'."
     },
     "referenciaEdital": "Relações de subordinação entre orações",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -233,22 +233,22 @@
     "id": "q011",
     "materia": "Raciocínio Lógico e Matemático",
     "assunto": "Problemas aritméticos: razão inversamente proporcional",
-    "enunciado": "Uma equipe de 6 bombeiros, trabalhando no mesmo ritmo individual, consegue esvaziar um reservatório de água contaminada em 8 horas. Mantido o mesmo ritmo de trabalho por bombeiro, quanto tempo levariam apenas 4 bombeiros para esvaziar o mesmo reservatório?",
+    "enunciado": "Uma turma de 12 recrutas, todos trabalhando no mesmo ritmo, monta um acampamento de campanha em 4 horas. Mantido o mesmo ritmo por recruta, quantas horas levariam apenas 8 recrutas para montar o mesmo acampamento?",
     "alternativas": {
-      "A": "5 horas e 20 minutos",
-      "B": "6 horas",
-      "C": "12 horas",
-      "D": "10 horas e 40 minutos"
+      "A": "6 horas",
+      "B": "2 horas e 40 minutos",
+      "C": "5 horas e 20 minutos",
+      "D": "3 horas"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "O número de bombeiros e o tempo são grandezas inversamente proporcionais: 6 bombeiros × 8 horas = 48 (trabalho total, em 'bombeiro-hora'). Com 4 bombeiros: 48 ÷ 4 = 12 horas.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "O número de recrutas e o tempo são grandezas inversamente proporcionais: 12 × 4 = 48 (trabalho total, em 'recruta-hora'). Com 8 recrutas: 48 ÷ 8 = 6 horas.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: resulta de uma regra de três direta aplicada erroneamente (dividir 8 por 6 e multiplicar por 4).",
-      "B": "Incorreta: não corresponde a nenhuma operação consistente com a proporcionalidade inversa correta.",
-      "D": "Incorreta: também decorre da aplicação equivocada de proporcionalidade direta em vez de inversa."
+      "B": "Incorreta: resulta da aplicação equivocada de uma regra de três direta (4 ÷ 12 × 8), quando a relação é inversa.",
+      "C": "Incorreta: não corresponde a nenhuma operação consistente com a proporcionalidade inversa correta.",
+      "D": "Incorreta: não corresponde a nenhuma operação consistente com os dados fornecidos."
     },
     "referenciaEdital": "Raciocínio lógico envolvendo problemas aritméticos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -256,22 +256,22 @@
     "id": "q012",
     "materia": "Raciocínio Lógico e Matemático",
     "assunto": "Operações com conjuntos",
-    "enunciado": "Em um curso preparatório, 50 candidatos realizaram a prova teórica, 35 realizaram a prova prática, e 20 candidatos realizaram as duas provas. Quantos candidatos participaram de pelo menos uma das duas provas?",
+    "enunciado": "Em um pelotão, 40 militares completaram o curso de primeiros socorros, 30 completaram o curso de combate a incêndio estrutural, e 18 completaram ambos os cursos. Quantos militares completaram pelo menos um dos dois cursos?",
     "alternativas": {
-      "A": "85",
-      "B": "65",
-      "C": "70",
-      "D": "55"
+      "D": "52",
+      "A": "70",
+      "B": "58",
+      "C": "22"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Aplicando |A ∪ B| = |A| + |B| − |A ∩ B|: 50 + 35 − 20 = 65 candidatos participaram de pelo menos uma das provas.",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "Aplicando |A ∪ B| = |A| + |B| − |A ∩ B|: 40 + 30 − 18 = 52 militares completaram pelo menos um dos dois cursos.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: soma diretamente 50 e 35 sem subtrair a interseção, contando duas vezes os 20 candidatos que fizeram ambas.",
-      "C": "Incorreta: não corresponde à aplicação correta da fórmula de união de conjuntos.",
-      "D": "Incorreta: subtrai a interseção duas vezes, resultando em valor inferior ao correto."
+      "A": "Incorreta: soma diretamente 40 e 30 sem subtrair a interseção, contando duas vezes os 18 militares que fizeram ambos.",
+      "B": "Incorreta: não corresponde à aplicação correta da fórmula de união de conjuntos.",
+      "C": "Incorreta: corresponde apenas aos militares que fizeram exclusivamente o curso de primeiros socorros (40 − 18), ignorando os demais grupos."
     },
     "referenciaEdital": "Operações com conjuntos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -279,22 +279,22 @@
     "id": "q013",
     "materia": "Raciocínio Lógico e Matemático",
     "assunto": "Raciocínio sequencial",
-    "enunciado": "Observe a sequência numérica: 3, 7, 15, 31, 63, ...\n\nQual é o próximo número da sequência?",
+    "enunciado": "Observe a sequência numérica: 2, 6, 12, 20, 30, ...\n\nQual é o próximo número da sequência?",
     "alternativas": {
-      "A": "95",
-      "B": "111",
-      "C": "125",
-      "D": "127"
+      "B": "42",
+      "A": "36",
+      "C": "40",
+      "D": "44"
     },
-    "respostaCorreta": "D",
-    "explicacaoCorreta": "Cada termo é obtido multiplicando o anterior por 2 e somando 1: 3×2+1=7; 7×2+1=15; 15×2+1=31; 31×2+1=63; 63×2+1=127.",
+    "respostaCorreta": "B",
+    "explicacaoCorreta": "Cada termo corresponde a n × (n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: não segue o padrão 'dobro mais um' identificado na sequência.",
-      "B": "Incorreta: valor obtido por soma incorreta de diferenças, sem seguir o padrão multiplicativo real da sequência.",
-      "C": "Incorreta: aproxima-se do valor correto, mas não resulta da aplicação exata da regra 'dobro mais um'."
+      "A": "Incorreta: não corresponde ao padrão n × (n+1) identificado na sequência.",
+      "C": "Incorreta: não corresponde ao padrão identificado na sequência.",
+      "D": "Incorreta: não corresponde ao padrão identificado na sequência."
     },
     "referenciaEdital": "Raciocínio sequencial",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -302,22 +302,22 @@
     "id": "q014",
     "materia": "Raciocínio Lógico e Matemático",
     "assunto": "Estrutura lógica de relações e dedução",
-    "enunciado": "Quatro recrutas — Ana, Bruno, Carla e Diego — concluíram o treinamento em quatro cidades diferentes: Uberaba, Varginha, Ipatinga e Montes Claros, não necessariamente nessa ordem. Sabe-se que:\n\nI. Ana não treinou em Uberaba nem em Ipatinga.\nII. Bruno treinou em Varginha.\nIII. Carla não treinou em Montes Claros.\nIV. Diego treinou em Uberaba.\n\nEm que cidade Carla concluiu o treinamento?",
+    "enunciado": "Quatro recrutas — Marina, Pedro, Júlia e Rafael — realizaram estágio em quatro batalhões diferentes: 1º BBM, 3º BBM, 7º BBM e 12º BBM, não necessariamente nessa ordem. Sabe-se que:\n\nI. Marina não estagiou no 1º BBM nem no 7º BBM.\nII. Pedro estagiou no 3º BBM.\nIII. Júlia não estagiou no 12º BBM.\nIV. Rafael estagiou no 1º BBM.\n\nEm qual batalhão Júlia estagiou?",
     "alternativas": {
-      "A": "Uberaba",
-      "B": "Varginha",
-      "C": "Ipatinga",
-      "D": "Montes Claros"
+      "A": "7º BBM",
+      "B": "1º BBM",
+      "C": "3º BBM",
+      "D": "12º BBM"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "Diego está em Uberaba (IV) e Bruno em Varginha (II). Restam Ipatinga e Montes Claros para Ana e Carla. Como Ana não pode estar em Ipatinga (I), Ana fica com Montes Claros; como Carla não pode estar em Montes Claros (III), Carla fica com Ipatinga.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "Rafael está no 1º BBM (IV) e Pedro no 3º BBM (II). Restam 7º e 12º BBM para Marina e Júlia. Como Marina não pode estar no 7º BBM (I), Marina fica com o 12º BBM; como Júlia não pode estar no 12º BBM (III), Júlia fica com o 7º BBM.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: Uberaba já está ocupada por Diego, conforme a pista IV.",
-      "B": "Incorreta: Varginha já está ocupada por Bruno, conforme a pista II.",
-      "D": "Incorreta: a pista III exclui exatamente essa possibilidade para Carla."
+      "B": "Incorreta: o 1º BBM já está ocupado por Rafael, conforme a pista IV.",
+      "C": "Incorreta: o 3º BBM já está ocupado por Pedro, conforme a pista II.",
+      "D": "Incorreta: a pista III exclui exatamente essa possibilidade para Júlia; o 12º BBM coube a Marina, por eliminação."
     },
     "referenciaEdital": "Estrutura lógica de relações arbitrárias e dedução de novas informações",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
@@ -325,22 +325,22 @@
     "id": "q015",
     "materia": "Raciocínio Lógico e Matemático",
     "assunto": "Problemas geométricos aplicados",
-    "enunciado": "Um pátio retangular usado para treinamento físico tem 40 metros de comprimento por 15 metros de largura. Para isolar totalmente o perímetro do pátio com fita de sinalização, dando exatamente uma volta completa, quantos metros de fita serão necessários?",
+    "enunciado": "Uma piscina de treinamento de salvamento aquático tem formato de paralelepípedo retangular, com 25 metros de comprimento, 10 metros de largura e 2 metros de profundidade. Sabendo que cada bombeiro em treinamento desloca, em média, 0,5 m³ de água ao realizar um exercício de mergulho, qual é o número de exercícios de mergulho necessários para que o volume total de água deslocada se iguale ao volume total da piscina?",
     "alternativas": {
-      "A": "55 metros",
-      "B": "600 metros",
-      "C": "110 metros",
-      "D": "150 metros"
+      "A": "500",
+      "B": "1.000",
+      "C": "250",
+      "D": "2.000"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "O perímetro de um retângulo é P = 2 × (comprimento + largura) = 2 × (40 + 15) = 2 × 55 = 110 metros.",
+    "respostaCorreta": "B",
+    "explicacaoCorreta": "O volume da piscina é V = 25 × 10 × 2 = 500 m³. Dividindo pelo deslocamento de 0,5 m³ por exercício: 500 ÷ 0,5 = 1.000 exercícios.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: corresponde apenas à soma dos dois lados diferentes (40+15), sem multiplicar por 2, calculando 'meio perímetro'.",
-      "B": "Incorreta: corresponde à área do pátio (40 × 15 = 600 m²), não ao perímetro.",
-      "D": "Incorreta: não corresponde a nenhum cálculo consistente com os dados fornecidos."
+      "A": "Incorreta: corresponde apenas ao volume da piscina (500 m³), sem dividir pelo volume deslocado por exercício.",
+      "C": "Incorreta: corresponde à metade do valor correto.",
+      "D": "Incorreta: corresponde ao dobro do valor correto."
     },
     "referenciaEdital": "Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "média"
   },
@@ -348,298 +348,298 @@
     "id": "q016",
     "materia": "Noções de Direitos Humanos e Legislação",
     "assunto": "Declaração Universal dos Direitos Humanos",
-    "enunciado": "A Declaração Universal dos Direitos Humanos foi adotada pela Assembleia Geral da Organização das Nações Unidas em um contexto histórico específico. Assinale a alternativa que indica corretamente a data de sua adoção e o contexto em que ocorreu.",
+    "enunciado": "O artigo 1º da Declaração Universal dos Direitos Humanos, adotada pela Assembleia Geral da ONU em 1948, estabelece um fundamento sobre a condição de todos os seres humanos. Assinale a alternativa que traduz corretamente esse fundamento.",
     "alternativas": {
-      "A": "10 de dezembro de 1948, no período posterior à Segunda Guerra Mundial",
-      "B": "26 de junho de 1945, no momento da assinatura da Carta das Nações Unidas",
-      "C": "22 de novembro de 1969, na Conferência de San José da Costa Rica",
-      "D": "10 de dezembro de 1966, junto com os Pactos Internacionais de Direitos"
+      "A": "Todos os seres humanos nascem livres e iguais em dignidade e direitos.",
+      "B": "Todos os seres humanos devem obediência às leis de seu país de nascimento.",
+      "C": "Todo ser humano tem direito a escolher livremente sua religião, sem exceções.",
+      "D": "Todos os seres humanos têm direito à educação gratuita e obrigatória."
     },
     "respostaCorreta": "A",
-    "explicacaoCorreta": "A Declaração Universal dos Direitos Humanos foi adotada pela Assembleia Geral da ONU em 10 de dezembro de 1948, no contexto de reconstrução da ordem internacional após as atrocidades da Segunda Guerra Mundial.",
+    "explicacaoCorreta": "O art. 1º da DUDH estabelece expressamente que 'todos os seres humanos nascem livres e iguais em dignidade e direitos', fundamento sobre o qual se apoia toda a Declaração.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: 26 de junho de 1945 é a data de assinatura da Carta das Nações Unidas, documento distinto da Declaração Universal.",
-      "C": "Incorreta: 22 de novembro de 1969 é a data de assinatura da Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica), não da Declaração Universal.",
-      "D": "Incorreta: os Pactos Internacionais (PIDCP e PIDESC) foram adotados em 1966, dezoito anos após a Declaração Universal."
+      "B": "Incorreta: essa afirmação não corresponde a nenhum artigo da DUDH e contraria o espírito de liberdade proclamado no art. 1º.",
+      "C": "Incorreta: essa é uma descrição relacionada ao art. 18 (liberdade de pensamento, consciência e religião), não ao art. 1º.",
+      "D": "Incorreta: essa é a descrição do art. 26 (direito à educação), não do art. 1º."
     },
     "referenciaEdital": "Declaração Universal dos Direitos Humanos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "média"
   },
   {
     "id": "q017",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "PIDCP e PIDESC",
-    "enunciado": "Os Pactos Internacionais de 1966 — Pacto Internacional dos Direitos Civis e Políticos (PIDCP) e Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC) — dividem os direitos humanos, para fins de tratado internacional, em dois grandes grupos. O direito a condições justas e favoráveis de trabalho está previsto, especificamente, em qual desses instrumentos?",
+    "assunto": "Declaração Universal dos Direitos Humanos",
+    "enunciado": "O artigo 3º da Declaração Universal dos Direitos Humanos assegura a todo ser humano três direitos fundamentais e interligados. Assinale a alternativa que os apresenta corretamente.",
     "alternativas": {
-      "A": "Exclusivamente no PIDCP",
-      "B": "Exclusivamente no PIDESC",
-      "C": "Em nenhum dos dois pactos, apenas na Declaração Universal",
-      "D": "Apenas na Convenção Americana sobre Direitos Humanos"
+      "B": "Direito à vida, à liberdade e à segurança pessoal",
+      "A": "Direito ao trabalho, ao lazer e à previdência social",
+      "C": "Direito à propriedade, à herança e ao patrimônio",
+      "D": "Direito à nacionalidade, à cidadania e ao voto"
     },
     "respostaCorreta": "B",
-    "explicacaoCorreta": "O PIDESC trata dos direitos econômicos, sociais e culturais, entre os quais o direito a condições justas e favoráveis de trabalho, diferentemente do PIDCP, voltado a liberdades civis e direitos de participação política.",
+    "explicacaoCorreta": "O art. 3º da DUDH estabelece que 'todo ser humano tem direito à vida, à liberdade e à segurança pessoal'.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: o PIDCP trata de direitos civis e políticos, como liberdade de expressão e direito ao voto, não de condições de trabalho.",
-      "C": "Incorreta: embora a Declaração Universal também mencione esse direito de forma geral, o instrumento específico que o detalha como obrigação de tratado é o PIDESC.",
-      "D": "Incorreta: a Convenção Americana é instrumento regional focado majoritariamente em direitos civis e políticos, e não é o instrumento específico para esse direito."
+      "A": "Incorreta: trabalho, lazer e previdência social são tratados nos arts. 23 a 25 da DUDH, não no art. 3º.",
+      "C": "Incorreta: o direito à propriedade é tratado isoladamente no art. 17; herança e patrimônio não compõem o art. 3º.",
+      "D": "Incorreta: nacionalidade e cidadania são tratadas em outros artigos da DUDH, não no art. 3º."
     },
-    "referenciaEdital": "Pacto Internacional dos Direitos Civis e Políticos (PIDCP) e Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC)",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
-    "pagina": "51",
-    "dificuldade": "difícil"
-  },
-  {
-    "id": "q018",
-    "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "Convenção Americana sobre Direitos Humanos",
-    "enunciado": "A Convenção Americana sobre Direitos Humanos, também conhecida como Pacto de San José da Costa Rica, foi assinada em 22 de novembro de 1969 no âmbito de qual organização internacional?",
-    "alternativas": {
-      "A": "Organização das Nações Unidas (ONU)",
-      "B": "Organização dos Estados Americanos (OEA)",
-      "C": "Mercado Comum do Sul (Mercosul)",
-      "D": "Organização Mundial da Saúde (OMS)"
-    },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "A Convenção Americana sobre Direitos Humanos foi assinada na Conferência Especializada Interamericana sobre Direitos Humanos, promovida no âmbito da Organização dos Estados Americanos (OEA), sistema regional distinto da ONU.",
-    "explicacaoAlternativas": {
-      "A": "Incorreta: a ONU é responsável pelo sistema global de direitos humanos (Declaração Universal, PIDCP, PIDESC), não pelo sistema regional americano.",
-      "C": "Incorreta: o Mercosul é bloco econômico regional, sem relação direta com a criação da Convenção Americana de Direitos Humanos.",
-      "D": "Incorreta: a OMS é agência especializada da ONU voltada à saúde, sem relação com a Convenção Americana."
-    },
-    "referenciaEdital": "Convenção Americana sobre Direitos Humanos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Declaração Universal dos Direitos Humanos",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
     "dificuldade": "média"
   },
   {
+    "id": "q018",
+    "materia": "Noções de Direitos Humanos e Legislação",
+    "assunto": "PIDCP e PIDESC",
+    "enunciado": "O direito à liberdade de expressão e o direito de participar do governo do próprio país, diretamente ou por meio de representantes livremente escolhidos, estão previstos, como obrigação de tratado internacional da ONU, especificamente em qual dos Pactos Internacionais de 1966?",
+    "alternativas": {
+      "D": "Exclusivamente no PIDCP",
+      "A": "Exclusivamente no PIDESC",
+      "B": "Em nenhum dos dois pactos",
+      "C": "Apenas na Convenção Americana sobre Direitos Humanos"
+    },
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "O PIDCP (Pacto Internacional dos Direitos Civis e Políticos) trata das liberdades civis e dos direitos de participação política, incluindo liberdade de expressão e participação no governo.",
+    "explicacaoAlternativas": {
+      "A": "Incorreta: o PIDESC trata de direitos econômicos, sociais e culturais, não de liberdade de expressão ou participação política.",
+      "B": "Incorreta: esses direitos estão expressamente previstos no PIDCP.",
+      "C": "Incorreta: a Convenção Americana também prevê esses direitos regionalmente, mas o instrumento global de 1966 referido na questão é o PIDCP."
+    },
+    "referenciaEdital": "Pacto Internacional dos Direitos Civis e Políticos (PIDCP) e Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC)",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
+    "pagina": "51",
+    "dificuldade": "difícil"
+  },
+  {
     "id": "q019",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "Constituição Federal — Segurança Pública (art. 144)",
-    "enunciado": "Conforme o art. 144 da Constituição da República Federativa do Brasil de 1988, a segurança pública é dever do Estado e direito e responsabilidade de todos, sendo exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, por meio de determinados órgãos. Assinale a alternativa que apresenta um órgão expressamente listado no caput do art. 144 da Constituição Federal.",
+    "assunto": "Convenção Americana sobre Direitos Humanos",
+    "enunciado": "Assinale a alternativa que indica corretamente o ano de assinatura da Convenção Americana sobre Direitos Humanos e o nome pelo qual também é conhecida.",
     "alternativas": {
-      "A": "Guarda Nacional",
-      "B": "Corpos de Bombeiros Militares",
-      "C": "Ministério Público Militar",
-      "D": "Defensoria Pública da União"
+      "A": "1969 — Pacto de San José da Costa Rica",
+      "B": "1948 — Carta da OEA",
+      "C": "1988 — Pacto de Bogotá",
+      "D": "1966 — Pacto de Washington"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "O art. 144 da CF/88 lista, entre os órgãos de segurança pública, a Polícia Federal, a Polícia Rodoviária Federal, a Polícia Ferroviária Federal, as Polícias Civis, as Polícias Militares e Corpos de Bombeiros Militares, e a Polícia Penal.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "A Convenção Americana sobre Direitos Humanos foi assinada em 22 de novembro de 1969, na Conferência de San José, Costa Rica, sendo por isso também chamada de Pacto de San José da Costa Rica.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: 'Guarda Nacional' não existe como órgão constitucional de segurança pública no Brasil; o que existe são as guardas municipais, também não citadas no caput do art. 144.",
-      "C": "Incorreta: o Ministério Público Militar é órgão do sistema de Justiça, não um órgão de segurança pública elencado no art. 144.",
-      "D": "Incorreta: a Defensoria Pública é instituição essencial à Justiça, prevista em outro dispositivo constitucional, não no rol do art. 144."
+      "B": "Incorreta: 1948 é o ano da Carta da OEA, documento que funda a própria organização, distinto da Convenção Americana.",
+      "C": "Incorreta: 1988 é o ano da Constituição Federal brasileira; 'Pacto de Bogotá' é outro instrumento interamericano, sobre solução pacífica de controvérsias.",
+      "D": "Incorreta: 1966 é o ano dos Pactos Internacionais da ONU (PIDCP/PIDESC); não existe 'Pacto de Washington' como nome da Convenção Americana."
     },
-    "referenciaEdital": "Constituição Federal de 1988 — Segurança pública",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Convenção Americana sobre Direitos Humanos",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "média"
   },
   {
     "id": "q020",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "Constituição Federal — princípios da administração pública",
-    "enunciado": "O art. 37, caput, da Constituição Federal de 1988 estabelece princípios que devem reger a administração pública direta e indireta. Assinale a alternativa que apresenta, corretamente, os cinco princípios expressos nesse dispositivo.",
+    "assunto": "Convenção Americana sobre Direitos Humanos",
+    "enunciado": "Assinale a alternativa que indica corretamente a sede da Corte Interamericana de Direitos Humanos, órgão jurisdicional criado pela Convenção Americana sobre Direitos Humanos.",
     "alternativas": {
-      "A": "Legalidade, impessoalidade, moralidade, publicidade e eficiência",
-      "B": "Legalidade, hierarquia, disciplina, publicidade e razoabilidade",
-      "C": "Impessoalidade, proporcionalidade, moralidade, eficiência e economicidade",
-      "D": "Legalidade, moralidade, publicidade, eficiência e supremacia do interesse público"
+      "C": "San José, Costa Rica",
+      "A": "Washington, Estados Unidos",
+      "B": "Genebra, Suíça",
+      "D": "Haia, Países Baixos"
     },
-    "respostaCorreta": "A",
-    "explicacaoCorreta": "O art. 37, caput, da CF/88 elenca expressamente os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência (mnemônico LIMPE) como norteadores da administração pública.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "A Corte Interamericana de Direitos Humanos tem sede em San José, Costa Rica, mesma cidade onde a Convenção Americana foi assinada.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: hierarquia, disciplina e razoabilidade não constam do rol expresso do caput do art. 37.",
-      "C": "Incorreta: proporcionalidade e economicidade não são os princípios expressamente listados no caput do art. 37.",
-      "D": "Incorreta: substitui 'impessoalidade' por 'supremacia do interesse público', que não é um dos cinco princípios expressos no caput do art. 37."
+      "A": "Incorreta: Washington é a sede da Comissão Interamericana de Direitos Humanos, órgão distinto da Corte.",
+      "B": "Incorreta: Genebra sedia órgãos do sistema global da ONU, como o Conselho de Direitos Humanos, não o sistema interamericano.",
+      "D": "Incorreta: Haia sedia a Corte Internacional de Justiça e o Tribunal Penal Internacional, órgãos distintos do sistema interamericano."
     },
-    "referenciaEdital": "Constituição Federal de 1988 — Administração pública",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Convenção Americana sobre Direitos Humanos",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
-    "dificuldade": "média"
+    "dificuldade": "difícil"
   },
   {
     "id": "q021",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "LINDB — vigência das normas",
-    "enunciado": "Segundo o art. 1º da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942), salvo disposição contrária constante da própria lei, esta começa a vigorar em todo o país, em regra, após quanto tempo de sua publicação oficial?",
+    "assunto": "Constituição Federal — Segurança Pública (art. 144)",
+    "enunciado": "Conforme o caput do art. 144 da Constituição Federal de 1988, assinale a alternativa que apresenta, corretamente, um órgão de segurança pública nele expressamente listado.",
     "alternativas": {
-      "A": "Imediatamente na data de publicação",
-      "B": "15 dias",
-      "C": "45 dias",
-      "D": "90 dias"
+      "D": "Polícia Rodoviária Federal",
+      "A": "Guarda Municipal",
+      "B": "Ministério Público Estadual",
+      "C": "Defensoria Pública Estadual"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "O art. 1º da LINDB estabelece que, salvo disposição em contrário, a lei brasileira começa a vigorar 45 dias depois de oficialmente publicada (o chamado prazo de vacatio legis).",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "O caput do art. 144 da CF/88 lista, entre os órgãos de segurança pública, a Polícia Federal, a Polícia Rodoviária Federal, a Polícia Ferroviária Federal, as Polícias Civis, as Polícias Militares e Corpos de Bombeiros Militares, e a Polícia Penal.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: vigência imediata só ocorre quando a própria lei assim dispuser expressamente, não sendo a regra geral.",
-      "B": "Incorreta: 15 dias não corresponde ao prazo estabelecido pela LINDB como regra geral.",
-      "D": "Incorreta: 90 dias não é o prazo da regra geral brasileira (esse prazo se aproxima do previsto para vigência nos Estados estrangeiros, que é de três meses)."
+      "A": "Incorreta: as guardas municipais são tratadas em parágrafo distinto do art. 144, destinadas à proteção de bens, serviços e instalações municipais, não constando do rol do caput.",
+      "B": "Incorreta: o Ministério Público é instituição do sistema de Justiça, não um órgão de segurança pública elencado no art. 144.",
+      "C": "Incorreta: a Defensoria Pública também não consta do rol de órgãos de segurança pública do caput do art. 144."
     },
-    "referenciaEdital": "Lei de Introdução às Normas do Direito Brasileiro (arts. 1º ao 6º)",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Constituição Federal de 1988 — Segurança pública",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "média"
   },
   {
     "id": "q022",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "LINDB — direito adquirido, ato jurídico perfeito e coisa julgada",
-    "enunciado": "Conforme o art. 6º da Lei de Introdução às Normas do Direito Brasileiro, a lei em vigor terá efeito imediato e geral, respeitados três institutos que protegem situações jurídicas já consolidadas. Assinale a alternativa que apresenta corretamente esses três institutos.",
+    "assunto": "Constituição Federal — Segurança Pública (art. 144)",
+    "enunciado": "Conforme o § 6º do art. 144 da Constituição Federal, as polícias militares e corpos de bombeiros militares são considerados forças auxiliares e reserva de qual instituição?",
     "alternativas": {
-      "A": "Ato jurídico perfeito, direito adquirido e coisa julgada",
-      "B": "Boa-fé objetiva, direito adquirido e devido processo legal",
-      "C": "Ato jurídico perfeito, presunção de inocência e coisa julgada",
-      "D": "Direito adquirido, coisa julgada e princípio da anterioridade"
+      "A": "Exército Brasileiro",
+      "B": "Marinha do Brasil",
+      "C": "Força Aérea Brasileira",
+      "D": "Guarda Nacional"
     },
     "respostaCorreta": "A",
-    "explicacaoCorreta": "O art. 6º da LINDB determina que a lei nova respeite o ato jurídico perfeito, o direito adquirido e a coisa julgada, protegendo situações jurídicas já consolidadas antes de sua entrada em vigor.",
+    "explicacaoCorreta": "O § 6º do art. 144 da CF/88 estabelece expressamente que as polícias militares e corpos de bombeiros militares são forças auxiliares e reserva do Exército.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: boa-fé objetiva e devido processo legal não são os institutos expressamente citados no art. 6º da LINDB.",
-      "C": "Incorreta: presunção de inocência é princípio penal constitucional, não um dos três institutos do art. 6º da LINDB.",
-      "D": "Incorreta: princípio da anterioridade é próprio do Direito Tributário, não consta do art. 6º da LINDB."
+      "B": "Incorreta: o texto constitucional menciona expressamente o Exército, não a Marinha.",
+      "C": "Incorreta: o texto constitucional menciona expressamente o Exército, não a Força Aérea.",
+      "D": "Incorreta: não existe 'Guarda Nacional' como instituição federal brasileira mencionada nesse dispositivo."
     },
-    "referenciaEdital": "Lei de Introdução às Normas do Direito Brasileiro (arts. 1º ao 6º)",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Constituição Federal de 1988 — Segurança pública",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026. Reforço adicional no assunto, priorizado por indicar maior índice de erro do candidato.",
     "pagina": "51",
-    "dificuldade": "difícil"
+    "dificuldade": "média"
   },
   {
     "id": "q023",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "Estatuto dos Militares do Estado de Minas Gerais",
-    "enunciado": "O Estatuto dos Militares do Estado de Minas Gerais, expressamente indicado no conteúdo programático do concurso CFSd BM/2027, foi instituído por qual diploma legal?",
+    "assunto": "Constituição Federal — princípios da administração pública",
+    "enunciado": "Um servidor público, ao conceder um benefício administrativo, favorece deliberadamente um conhecido pessoal em detrimento de outros candidatos igualmente habilitados, sem qualquer critério objetivo. Essa conduta viola diretamente qual princípio expresso no caput do art. 37 da Constituição Federal?",
     "alternativas": {
-      "A": "Lei Estadual nº 5.301, de 16 de outubro de 1969",
-      "B": "Lei Federal nº 14.751, de 12 de dezembro de 2023",
-      "C": "Lei Complementar nº 54, de 13 de dezembro de 1999",
-      "D": "Lei Estadual nº 22.415, de 16 de dezembro de 2016"
+      "D": "Impessoalidade",
+      "A": "Legalidade",
+      "B": "Eficiência",
+      "C": "Publicidade"
     },
-    "respostaCorreta": "A",
-    "explicacaoCorreta": "O Estatuto dos Militares do Estado de Minas Gerais é a Lei Estadual nº 5.301, de 16 de outubro de 1969, expressamente citada tanto no preâmbulo quanto no Anexo II do Edital CBMMG nº 10/2026.",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "O princípio da impessoalidade veda o tratamento pessoal e o favorecimento de indivíduos específicos nos atos da administração pública, exigindo critérios objetivos e isonômicos.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: a Lei Federal nº 14.751/2023 institui a Lei Orgânica Nacional das Polícias Militares e dos Corpos de Bombeiros Militares dos Estados, documento distinto do Estatuto estadual.",
-      "C": "Incorreta: a Lei Complementar nº 54/1999 dispõe sobre a organização básica do CBMMG, não sobre o Estatuto dos Militares.",
-      "D": "Incorreta: a Lei Estadual nº 22.415/2016 fixa o efetivo do CBMMG, não é o Estatuto dos Militares."
+      "A": "Incorreta: legalidade refere-se à exigência de a conduta estar prevista/autorizada em lei, não diretamente ao favorecimento pessoal.",
+      "B": "Incorreta: eficiência refere-se ao desempenho técnico e à qualidade do serviço prestado, não ao critério de escolha do beneficiário.",
+      "C": "Incorreta: publicidade refere-se à transparência dos atos administrativos, não ao critério pessoal usado na decisão."
     },
-    "referenciaEdital": "Lei Estadual nº 5.301, de 16 de outubro de 1969 — Estatuto dos Militares do Estado de Minas Gerais",
-    "fonte": "Edital CBMMG nº 10/2026, preâmbulo e Anexo II",
-    "pagina": "4 e 51",
-    "dificuldade": "média"
+    "referenciaEdital": "Constituição Federal de 1988 — Administração pública",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
+    "pagina": "51",
+    "dificuldade": "difícil"
   },
   {
     "id": "q024",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "Direitos humanos — gerações de direitos",
-    "enunciado": "A doutrina de direitos humanos costuma classificar os direitos em 'gerações' (ou 'dimensões'), que não se substituem, mas se acumulam ao longo do tempo. Assinale a alternativa que associa corretamente a geração de direitos ao seu valor histórico fundamental.",
+    "assunto": "LINDB — vigência das normas",
+    "enunciado": "Uma lei estadual foi publicada em 1º de março, sem cláusula expressa sobre a data de início de sua vigência. Aplicando a regra geral do art. 1º da Lei de Introdução às Normas do Direito Brasileiro, em que data essa lei entrará em vigor?",
     "alternativas": {
-      "A": "Direitos de primeira geração — valor de liberdade (direitos civis e políticos)",
-      "B": "Direitos de segunda geração — valor de fraternidade (direitos difusos)",
-      "C": "Direitos de terceira geração — valor de igualdade (direitos sociais)",
-      "D": "Direitos de primeira geração — valor de solidariedade (meio ambiente)"
+      "D": "15 de abril (45 dias após a publicação)",
+      "A": "1º de março (mesma data da publicação)",
+      "B": "16 de março (15 dias após a publicação)",
+      "C": "30 de maio (90 dias após a publicação)"
     },
-    "respostaCorreta": "A",
-    "explicacaoCorreta": "Os direitos de primeira geração, ligados à liberdade, correspondem aos direitos civis e políticos (liberdade de expressão, direito ao voto), historicamente os primeiros a serem reconhecidos como limitação ao poder do Estado.",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "Pela regra geral do art. 1º da LINDB, a lei entra em vigor 45 dias após a publicação. Contando a partir de 1º de março: restam 30 dias em março (2 a 31) e mais 15 dias em abril, totalizando 45 dias — ou seja, 15 de abril.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: direitos de segunda geração correspondem ao valor de igualdade (direitos sociais, econômicos e culturais), não de fraternidade.",
-      "C": "Incorreta: direitos de terceira geração correspondem ao valor de fraternidade/solidariedade (direitos difusos e coletivos, como meio ambiente), não de igualdade.",
-      "D": "Incorreta: direitos ao meio ambiente equilibrado são classificados como de terceira geração, não de primeira."
+      "A": "Incorreta: vigência imediata só ocorre quando a própria lei assim dispuser expressamente, o que não é o caso aqui.",
+      "B": "Incorreta: 15 dias não corresponde ao prazo estabelecido pela LINDB como regra geral.",
+      "C": "Incorreta: 90 dias corresponde ao prazo previsto para vigência da lei brasileira nos Estados estrangeiros, não à regra geral no território nacional."
     },
-    "referenciaEdital": "Definição e conceito de direitos humanos. História dos direitos humanos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Lei de Introdução às Normas do Direito Brasileiro (arts. 1º ao 6º)",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51",
     "dificuldade": "difícil"
   },
   {
     "id": "q025",
     "materia": "Noções de Direitos Humanos e Legislação",
-    "assunto": "Constituição Federal — direitos e deveres individuais e coletivos",
-    "enunciado": "O art. 5º, caput, da Constituição Federal de 1988 assegura a todos, brasileiros e estrangeiros residentes no País, a inviolabilidade de determinados direitos fundamentais. Assinale a alternativa que apresenta corretamente quatro direitos expressamente mencionados no caput desse artigo.",
+    "assunto": "Estatuto dos Militares do Estado de Minas Gerais",
+    "enunciado": "O Estatuto dos Militares do Estado de Minas Gerais (Lei Estadual nº 5.301/1969) trata a hierarquia e a disciplina como:",
     "alternativas": {
-      "A": "Vida, liberdade, igualdade, segurança e propriedade",
-      "B": "Vida, saúde, educação e moradia",
-      "C": "Liberdade, trabalho, lazer e previdência social",
-      "D": "Vida, nacionalidade, cidadania e soberania"
+      "C": "Pilares institucionais basilares das corporações militares estaduais",
+      "A": "Valores facultativos, aplicáveis apenas em situações de combate",
+      "B": "Conceitos exclusivos das Forças Armadas, sem aplicação aos militares estaduais",
+      "D": "Aplicáveis apenas aos oficiais, não se estendendo às praças"
     },
-    "respostaCorreta": "A",
-    "explicacaoCorreta": "O caput do art. 5º da CF/88 garante a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos ali estabelecidos.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "Hierarquia e disciplina são princípios basilares e permanentes das instituições militares estaduais, aplicando-se a todos os seus integrantes, conforme consolidado na doutrina e legislação militar.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: saúde, educação e moradia são direitos sociais previstos no art. 6º da CF/88, não no caput do art. 5º.",
-      "C": "Incorreta: trabalho, lazer e previdência social também são direitos sociais do art. 6º, não do caput do art. 5º.",
-      "D": "Incorreta: nacionalidade, cidadania e soberania são tratados em outros dispositivos constitucionais (arts. 1º e 12), não no caput do art. 5º."
+      "A": "Incorreta: não são valores facultativos nem restritos a situações de combate; regem permanentemente a vida militar.",
+      "B": "Incorreta: hierarquia e disciplina também regem expressamente os militares estaduais (Polícias Militares e Corpos de Bombeiros Militares), não sendo exclusivas das Forças Armadas.",
+      "D": "Incorreta: hierarquia e disciplina se aplicam a todos os militares, tanto oficiais quanto praças."
     },
-    "referenciaEdital": "Constituição Federal de 1988 — Direitos Fundamentais. Direitos e deveres individuais e coletivos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
-    "pagina": "51",
+    "referenciaEdital": "Lei Estadual nº 5.301, de 16 de outubro de 1969 — Estatuto dos Militares do Estado de Minas Gerais",
+    "fonte": "Edital CBMMG nº 10/2026, preâmbulo e Anexo II; conceito de hierarquia e disciplina amplamente consolidado na doutrina e legislação militar.",
+    "pagina": "4 e 51",
     "dificuldade": "média"
   },
   {
     "id": "q026",
     "materia": "Ciências Naturais",
     "assunto": "Química — estequiometria",
-    "enunciado": "Considere a reação balanceada de combustão completa do metano:\n\nCH4 + 2 O2 → CO2 + 2 H2O\n\nSe forem consumidos 3 mols de gás metano nessa combustão completa, quantos mols de gás oxigênio (O2) serão necessários?",
+    "enunciado": "Considere a reação balanceada de combustão completa do etanol:\n\nC2H6O + 3 O2 → 2 CO2 + 3 H2O\n\nSe forem consumidos 4 mols de etanol nessa combustão completa, quantos mols de gás carbônico (CO2) serão produzidos?",
     "alternativas": {
-      "A": "3 mols",
-      "B": "6 mols",
-      "C": "9 mols",
-      "D": "12 mols"
+      "A": "4 mols",
+      "B": "8 mols",
+      "C": "12 mols",
+      "D": "16 mols"
     },
     "respostaCorreta": "B",
-    "explicacaoCorreta": "Pela proporção estequiométrica da equação balanceada, cada 1 mol de CH4 consome 2 mols de O2. Logo, 3 mols de CH4 consomem 3 × 2 = 6 mols de O2.",
+    "explicacaoCorreta": "Pela proporção estequiométrica da equação balanceada, cada 1 mol de etanol produz 2 mols de CO2. Logo, 4 mols de etanol produzem 4 × 2 = 8 mols de CO2.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: corresponde a uma proporção de 1:1, ignorando o coeficiente 2 do O2 na equação balanceada.",
-      "C": "Incorreta: não corresponde à proporção estequiométrica correta de 1:2 entre CH4 e O2.",
-      "D": "Incorreta: resultaria de uma proporção de 1:4, que não corresponde à equação balanceada fornecida."
+      "A": "Incorreta: corresponde a uma proporção de 1:1, ignorando o coeficiente 2 do CO2 na equação balanceada.",
+      "C": "Incorreta: não corresponde à proporção estequiométrica correta de 1:2.",
+      "D": "Incorreta: corresponde ao dobro do valor correto, resultante de uma proporção de 1:4."
     },
     "referenciaEdital": "Estequiometria: cálculos com fórmulas e equações químicas",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51-52",
     "dificuldade": "média"
   },
   {
     "id": "q027",
     "materia": "Ciências Naturais",
-    "assunto": "Química — ligações químicas",
-    "enunciado": "Sobre os tipos de ligação química, assinale a alternativa CORRETA.",
+    "assunto": "Química — leis dos gases",
+    "enunciado": "Um recipiente fechado contém um gás a uma pressão de 2 atm, ocupando um volume de 6 litros, a temperatura constante. Se o volume for reduzido para 3 litros, mantendo a temperatura constante, qual será a nova pressão do gás, segundo a Lei de Boyle (P1 × V1 = P2 × V2)?",
     "alternativas": {
-      "A": "Na ligação iônica, ocorre compartilhamento igualitário de elétrons entre dois átomos de mesma eletronegatividade.",
-      "B": "Na ligação covalente, ocorre transferência definitiva de elétrons de um átomo para outro, formando íons.",
-      "C": "A ligação iônica típica ocorre entre um metal, que tende a doar elétrons, e um ametal, que tende a recebê-los.",
-      "D": "Ligações covalentes só ocorrem entre átomos idênticos do mesmo elemento."
+      "A": "4 atm",
+      "B": "1 atm",
+      "C": "2 atm",
+      "D": "6 atm"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "A ligação iônica se forma tipicamente pela transferência de elétrons de um metal (que tende a perder elétrons, formando cátion) para um ametal (que tende a ganhar elétrons, formando ânion), gerando atração eletrostática entre os íons.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "Pela Lei de Boyle: P1×V1 = P2×V2 → 2×6 = P2×3 → P2 = 12÷3 = 4 atm.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: a descrição corresponde à ligação covalente apolar (compartilhamento de elétrons), não à ligação iônica.",
-      "B": "Incorreta: a transferência definitiva de elétrons caracteriza a ligação iônica, não a covalente, que se baseia em compartilhamento.",
-      "D": "Incorreta: ligações covalentes ocorrem tanto entre átomos idênticos (ex.: O2) quanto entre átomos de elementos diferentes (ex.: H2O)."
+      "B": "Incorreta: não corresponde à aplicação da Lei de Boyle aos dados fornecidos.",
+      "C": "Incorreta: repete o valor da pressão inicial, sem calcular a nova pressão após a redução do volume.",
+      "D": "Incorreta: não corresponde a nenhuma operação consistente com a Lei de Boyle."
     },
-    "referenciaEdital": "Ligações químicas, símbolos de Lewis e a regra do octeto",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
-    "pagina": "51",
-    "dificuldade": "média"
+    "referenciaEdital": "Gases: Características dos gases; Pressão; As leis dos gases",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
+    "pagina": "52",
+    "dificuldade": "difícil"
   },
   {
     "id": "q028",
     "materia": "Ciências Naturais",
-    "assunto": "Física — eletricidade (Lei de Ohm)",
-    "enunciado": "Um circuito elétrico simples possui um resistor submetido a uma tensão de 24 volts, pelo qual circula uma corrente elétrica de 4 amperes. Qual é a resistência elétrica desse resistor, segundo a Lei de Ohm (V = R × I)?",
+    "assunto": "Física — eletricidade (potência elétrica)",
+    "enunciado": "Um motor elétrico utilizado em uma bomba de incêndio opera sob tensão de 220 V e é percorrido por uma corrente de 5 A. Qual é a potência elétrica desse motor, em watts (P = V × I)?",
     "alternativas": {
-      "A": "3 ohms",
-      "B": "6 ohms",
-      "C": "24 ohms",
-      "D": "96 ohms"
+      "B": "1.100 W",
+      "A": "44 W",
+      "C": "225 W",
+      "D": "1.320 W"
     },
     "respostaCorreta": "B",
-    "explicacaoCorreta": "Pela Lei de Ohm, V = R × I, logo R = V ÷ I = 24 ÷ 4 = 6 ohms.",
+    "explicacaoCorreta": "Pela fórmula da potência elétrica, P = V × I = 220 × 5 = 1.100 W.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: não corresponde ao resultado da divisão correta entre tensão e corrente.",
-      "C": "Incorreta: repete o valor da tensão, ignorando a divisão pela corrente.",
-      "D": "Incorreta: corresponde à multiplicação de V por I (24 × 4), que calcularia a potência, não a resistência."
+      "A": "Incorreta: corresponde à divisão de V por I (220 ÷ 5), calculando uma resistência, não a potência.",
+      "C": "Incorreta: corresponde à soma de V e I, operação sem sentido físico para o cálculo de potência.",
+      "D": "Incorreta: não corresponde a nenhuma operação consistente com a fórmula da potência elétrica."
     },
     "referenciaEdital": "Leis básicas em eletricidade; Resistência elétrica; Lei de Ohm, potência e energia elétrica",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "51-52",
     "dificuldade": "média"
   },
@@ -647,183 +647,183 @@
     "id": "q029",
     "materia": "Ciências Naturais",
     "assunto": "Física — hidrostática (Princípio de Arquimedes)",
-    "enunciado": "Um objeto totalmente submerso em água desloca um volume de líquido igual ao seu próprio volume, sofrendo uma força vertical para cima. Essa força é denominada:",
+    "enunciado": "Um bloco de resgate flutuante, com volume total de 0,02 m³, está totalmente submerso em água doce (densidade = 1.000 kg/m³). Considerando g = 10 m/s², qual é a intensidade do empuxo exercido pela água sobre o bloco, em newtons (E = densidade × volume × g)?",
     "alternativas": {
-      "A": "Força de atrito",
-      "B": "Força peso",
-      "C": "Empuxo",
-      "D": "Força normal"
+      "D": "200 N",
+      "A": "20 N",
+      "B": "2.000 N",
+      "C": "0,2 N"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "O empuxo é a força vertical para cima exercida por um fluido sobre um corpo nele imerso, de intensidade igual ao peso do volume de líquido deslocado, conforme o Princípio de Arquimedes.",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "E = 1.000 × 0,02 × 10 = 200 N.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: força de atrito se opõe ao movimento relativo entre superfícies em contato, sem relação direta com a imersão em fluido.",
-      "B": "Incorreta: força peso é a força gravitacional que atua sobre a massa do corpo, e atua para baixo, não para cima.",
-      "D": "Incorreta: força normal é a reação de uma superfície de apoio sobre um corpo, perpendicular a essa superfície, conceito distinto de empuxo em fluidos."
+      "A": "Incorreta: resulta de dividir o valor correto por 10, erro de cálculo.",
+      "B": "Incorreta: resulta de multiplicar o valor correto por 10, erro de casas decimais.",
+      "C": "Incorreta: resulta de dividir o valor correto por 1.000, erro de casas decimais."
     },
     "referenciaEdital": "Princípios básicos: hidrostática, pressões e empuxos",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "52",
-    "dificuldade": "média"
+    "dificuldade": "difícil"
   },
   {
     "id": "q030",
     "materia": "Ciências Naturais",
     "assunto": "Biologia — sistema respiratório e regulação do pH",
-    "enunciado": "Durante um esforço físico intenso, o aumento da frequência respiratória (hiperventilação) provoca redução na concentração de gás carbônico (CO2) dissolvido no sangue. Esse processo tende a causar qual efeito imediato no pH sanguíneo?",
+    "enunciado": "Diferentemente da hiperventilação, a hipoventilação (redução da frequência respiratória) provoca acúmulo de gás carbônico (CO2) no sangue. Esse acúmulo tende a causar qual efeito imediato no pH sanguíneo?",
     "alternativas": {
-      "A": "Redução do pH sanguíneo (acidose)",
-      "B": "Elevação do pH sanguíneo (alcalose)",
-      "C": "Nenhuma alteração, pois o CO2 não influencia o pH sanguíneo",
-      "D": "O pH sanguíneo passa a depender exclusivamente da temperatura corporal"
+      "C": "Redução do pH sanguíneo (acidose respiratória)",
+      "A": "Elevação do pH sanguíneo (alcalose respiratória)",
+      "B": "Nenhuma alteração, pois o CO2 não influencia o pH sanguíneo",
+      "D": "O pH permanece inalterado, pois o corpo compensa instantaneamente qualquer variação"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "A redução do CO2 dissolvido diminui a formação de ácido carbônico no sangue, reduzindo a concentração de íons H+ e elevando o pH sanguíneo — quadro conhecido como alcalose respiratória.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "O acúmulo de CO2 aumenta a formação de ácido carbônico no sangue, elevando a concentração de íons H+ e reduzindo o pH — quadro conhecido como acidose respiratória.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: a redução (não o aumento) de CO2 tende a elevar o pH, não a reduzi-lo; acidose ocorreria com acúmulo de CO2, não com sua eliminação excessiva.",
-      "C": "Incorreta: o CO2 tem papel central na regulação do pH sanguíneo via equilíbrio do ácido carbônico/bicarbonato.",
-      "D": "Incorreta: embora a temperatura influencie processos fisiológicos, o pH sanguíneo depende primariamente do equilíbrio ácido-base, não exclusivamente da temperatura."
+      "A": "Incorreta: o acúmulo (não a redução) de CO2 tende a reduzir o pH; a alcalose ocorreria com eliminação excessiva de CO2, como na hiperventilação.",
+      "B": "Incorreta: o CO2 tem papel central na regulação do pH sanguíneo via equilíbrio do ácido carbônico/bicarbonato.",
+      "D": "Incorreta: a compensação do pH pelo organismo não é instantânea; envolve mecanismos respiratórios e renais que atuam em diferentes escalas de tempo."
     },
     "referenciaEdital": "Homeostase Corporal, Regulação do pH Sanguíneo",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "52",
     "dificuldade": "difícil"
   },
   {
     "id": "q031",
     "materia": "Ciências Naturais",
-    "assunto": "Biologia — sistema muscular e esquelético",
-    "enunciado": "Durante a prática de atividades físicas intensas e prolongadas, como as exigidas no Teste de Capacitação Física, o músculo esquelético pode recorrer à via anaeróbica de obtenção de energia quando o fornecimento de oxigênio é insuficiente. Esse processo resulta no acúmulo de qual substância nos músculos, associada à sensação de fadiga muscular?",
+    "assunto": "Biologia — tipagem sanguínea e fator Rh",
+    "enunciado": "Em uma campanha de doação de sangue realizada por um pelotão do Corpo de Bombeiros, 300 militares doaram sangue. Desse total, 45% eram do tipo A, 40% do tipo O, 10% do tipo B e 5% do tipo AB. Dos doadores do tipo O, 25% eram Rh negativo.\n\nSabendo que o doador universal é do tipo O negativo, quantos doadores universais participaram dessa campanha?",
     "alternativas": {
-      "A": "Glicogênio",
-      "B": "Ácido lático",
-      "C": "Adenosina trifosfato (ATP)",
-      "D": "Mioglobina"
+      "C": "30 doadores",
+      "A": "90 doadores",
+      "B": "120 doadores",
+      "D": "15 doadores"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Na via anaeróbica (glicólise anaeróbica), o piruvato é convertido em ácido lático na ausência de oxigênio suficiente, e seu acúmulo está associado à fadiga muscular.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "O número de doadores do tipo O é 40% de 300 = 120. Desses, 25% são Rh negativo (doadores universais): 25% de 120 = 30.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: glicogênio é a reserva de energia do músculo/fígado, consumida (não acumulada) durante o esforço.",
-      "C": "Incorreta: o ATP é a molécula de energia consumida pela contração muscular, não uma substância que se acumula causando fadiga.",
-      "D": "Incorreta: mioglobina é proteína de armazenamento de oxigênio no músculo, não um subproduto do metabolismo anaeróbico."
+      "A": "Incorreta: corresponde ao número de doadores do tipo O que são Rh POSITIVO (120 − 30 = 90), não aos Rh negativo.",
+      "B": "Incorreta: corresponde ao total de doadores do tipo O, sem considerar a divisão pelo fator Rh.",
+      "D": "Incorreta: corresponde à metade do valor correto, resultado de aplicar 12,5% em vez de 25% sobre os 120 doadores do tipo O."
     },
-    "referenciaEdital": "Fisiologia Muscular, Metabolismo Energético",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
-    "pagina": "52",
-    "dificuldade": "média"
+    "referenciaEdital": "Fisiologia — Sistema Circulatório",
+    "fonte": "Questão adaptada de prova real do CBMMG (Edital CBMMG 2021, CFSd BM/2022, Prova C, Questão 41, aplicada pela banca Fundep) — contexto e valores numéricos reescritos; conteúdo baseado no Anexo II do Edital CBMMG nº 10/2026.",
+    "pagina": "52 (edital) / Prova C, Fundep, p.12",
+    "dificuldade": "difícil"
   },
   {
     "id": "q032",
     "materia": "Ciências Naturais",
-    "assunto": "Geografia física de Minas Gerais — relevo",
-    "enunciado": "Formações geológicas cársticas, caracterizadas pela dissolução de rochas calcárias e pela ocorrência de cavernas, dolinas e lapiás, são especialmente encontradas em determinadas regiões de Minas Gerais. Assinale a alternativa que indica corretamente uma serra mineira reconhecida por esse tipo de formação.",
+    "assunto": "Geografia física de Minas Gerais — relevo e hidrografia",
+    "enunciado": "A Serra da Canastra, localizada no sudoeste de Minas Gerais, é reconhecida por abrigar a nascente de um importante rio brasileiro. Assinale a alternativa que identifica corretamente esse rio.",
     "alternativas": {
-      "A": "Serra da Mantiqueira",
-      "B": "Serra do Espinhaço",
-      "C": "Serra do Mar",
-      "D": "Serra Geral"
+      "C": "Rio São Francisco",
+      "A": "Rio Doce",
+      "B": "Rio Paraná",
+      "D": "Rio Grande"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "A Serra do Espinhaço é reconhecida por importantes formações cársticas em Minas Gerais, associadas à presença de cavernas e à origem de nascentes de rios que alimentam bacias hidrográficas do estado.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "A Serra da Canastra abriga a nascente do Rio São Francisco, um dos principais rios do Brasil e uma das mais importantes bacias hidrográficas de Minas Gerais.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: a Serra da Mantiqueira, embora relevante para o relevo do sul/sudeste mineiro, não é a formação mais associada à geomorfologia cárstica no conteúdo do edital.",
-      "C": "Incorreta: a Serra do Mar está localizada principalmente entre os estados de São Paulo e Rio de Janeiro, não sendo uma formação mineira típica desse contexto.",
-      "D": "Incorreta: 'Serra Geral' é formação associada principalmente à região Sul do Brasil (basalto), não ao contexto cárstico mineiro descrito."
+      "A": "Incorreta: a nascente do Rio Doce está localizada em outra região de Minas Gerais, não na Serra da Canastra.",
+      "B": "Incorreta: o Rio Paraná é formado pela confluência de outros rios fora da Serra da Canastra, na divisa com São Paulo.",
+      "D": "Incorreta: o Rio Grande tem suas nascentes na Serra da Mantiqueira, não na Serra da Canastra."
     },
-    "referenciaEdital": "Geomorfologia cárstica: formações cársticas, como dolinas, lapiás e cavernas, presentes em regiões calcárias de Minas Gerais",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Geomorfologia e Bacias Hidrográficas de Minas Gerais",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "52",
-    "dificuldade": "difícil"
+    "dificuldade": "média"
   },
   {
     "id": "q033",
     "materia": "Ciências Naturais",
     "assunto": "Geografia física de Minas Gerais — hidrografia",
-    "enunciado": "Assinale a alternativa que apresenta corretamente uma das principais bacias hidrográficas que drenam o território de Minas Gerais, conforme indicado no conteúdo programático oficial.",
+    "enunciado": "Assinale a alternativa que apresenta corretamente a bacia hidrográfica que drena a região Leste de Minas Gerais e deságua no litoral do Espírito Santo.",
     "alternativas": {
+      "D": "Bacia do Rio Doce",
       "A": "Bacia do Rio São Francisco",
-      "B": "Bacia do Rio Amazonas",
-      "C": "Bacia do Rio Uruguai",
-      "D": "Bacia do Rio Tocantins"
+      "B": "Bacia do Rio Paranaíba",
+      "C": "Bacia do Rio Jequitinhonha"
     },
-    "respostaCorreta": "A",
-    "explicacaoCorreta": "A Bacia do Rio São Francisco é uma das principais bacias hidrográficas de Minas Gerais, ao lado das bacias do Rio Doce e do Rio Paraná, expressamente citadas no conteúdo programático do edital.",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "A Bacia do Rio Doce drena a região Leste de Minas Gerais e deságua no litoral do Espírito Santo, na região de Linhares.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: a Bacia Amazônica não abrange o território de Minas Gerais.",
-      "C": "Incorreta: a Bacia do Rio Uruguai está localizada na região Sul do Brasil, sem relação com o território mineiro.",
-      "D": "Incorreta: a Bacia do Tocantins está situada principalmente nas regiões Norte e Centro-Oeste, não em Minas Gerais."
+      "A": "Incorreta: o Rio São Francisco deságua na divisa entre Alagoas e Sergipe, não no Espírito Santo.",
+      "B": "Incorreta: o Rio Paranaíba integra a bacia do Rio Paraná, drenando o Triângulo Mineiro, sem relação com a foz no Espírito Santo.",
+      "C": "Incorreta: o Rio Jequitinhonha deságua no litoral da Bahia, não do Espírito Santo."
     },
     "referenciaEdital": "Bacias Hidrográficas: Principais bacias hidrográficas de Minas Gerais",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "52-53",
-    "dificuldade": "média"
+    "dificuldade": "difícil"
   },
   {
     "id": "q034",
     "materia": "Ciências Naturais",
-    "assunto": "Química — gases e pressão",
-    "enunciado": "Sobre o comportamento dos gases, assinale a alternativa CORRETA.",
+    "assunto": "Geografia física de Minas Gerais — vegetação",
+    "enunciado": "A Mata Atlântica, um dos biomas presentes no território de Minas Gerais, está entre os mais ameaçados do Brasil. Assinale a alternativa que indica corretamente a situação desse bioma no estado.",
     "alternativas": {
-      "A": "Em um recipiente fechado de volume constante, o aumento da temperatura de um gás tende a reduzir sua pressão.",
-      "B": "Em um recipiente fechado de volume constante, o aumento da temperatura de um gás tende a aumentar sua pressão.",
-      "C": "A pressão de um gás independe da temperatura, dependendo apenas do volume do recipiente.",
-      "D": "Gases não exercem pressão sobre as paredes do recipiente que os contém."
+      "A": "Apresenta remanescentes florestais reduzidos, resultado de séculos de ocupação e exploração econômica.",
+      "B": "Encontra-se totalmente preservado, sem histórico de desmatamento.",
+      "C": "Foi integralmente substituído por Cerrado ao longo do século XX.",
+      "D": "Não possui qualquer unidade de conservação instituída em Minas Gerais."
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Mantendo o volume constante, o aumento de temperatura aumenta a energia cinética das moléculas do gás, intensificando as colisões contra as paredes do recipiente e, portanto, aumentando a pressão (Lei de Gay-Lussac).",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "A Mata Atlântica é um dos biomas mais devastados do Brasil, incluindo em Minas Gerais, restando remanescentes florestais reduzidos após séculos de ocupação e exploração econômica.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: descreve o comportamento oposto ao que ocorre segundo a Lei de Gay-Lussac.",
-      "C": "Incorreta: a pressão de um gás depende tanto do volume quanto da temperatura e da quantidade de matéria (equação geral dos gases).",
-      "D": "Incorreta: a pressão de um gás é justamente definida pela força exercida pelas moléculas em colisão contra as paredes do recipiente."
+      "B": "Incorreta: a Mata Atlântica mineira tem extenso histórico de desmatamento, não estando totalmente preservada.",
+      "C": "Incorreta: não houve substituição integral por Cerrado; os dois biomas coexistem em áreas de transição, com remanescentes de ambos.",
+      "D": "Incorreta: existem unidades de conservação de Mata Atlântica instituídas em Minas Gerais."
     },
-    "referenciaEdital": "Gases: Características dos gases; Pressão; As leis dos gases",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "referenciaEdital": "Biomas de Minas Gerais: Análise da diversidade vegetal, incluindo a transição entre o Cerrado e a Mata Atlântica",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "52",
     "dificuldade": "média"
   },
   {
     "id": "q035",
     "materia": "Ciências Naturais",
-    "assunto": "Geografia física de Minas Gerais — vegetação",
-    "enunciado": "O território de Minas Gerais é marcado pela transição entre dois grandes biomas brasileiros, o que resulta em rica diversidade de formações vegetais, incluindo áreas de Campo Rupestre em regiões de altitude. Assinale a alternativa que identifica corretamente esses dois biomas em transição no estado.",
+    "assunto": "Química — ligações químicas",
+    "enunciado": "Sobre as ligações químicas, assinale a alternativa CORRETA.",
     "alternativas": {
-      "A": "Cerrado e Mata Atlântica",
-      "B": "Amazônia e Caatinga",
-      "C": "Pampa e Pantanal",
-      "D": "Caatinga e Mata Atlântica"
+      "A": "A regra do octeto estabelece que os átomos tendem a se estabilizar completando oito elétrons na camada de valência.",
+      "B": "Moléculas apolares tendem a apresentar diferença de eletronegatividade elevada entre os átomos ligados.",
+      "C": "Ligações metálicas ocorrem exclusivamente entre um metal e um ametal.",
+      "D": "Ligações covalentes sempre resultam na formação de íons positivos e negativos."
     },
     "respostaCorreta": "A",
-    "explicacaoCorreta": "O conteúdo programático oficial destaca expressamente a transição entre o Cerrado e a Mata Atlântica como característica marcante da diversidade vegetal de Minas Gerais.",
+    "explicacaoCorreta": "A regra do octeto estabelece que os átomos tendem a ganhar, perder ou compartilhar elétrons até atingir oito elétrons na camada de valência, alcançando maior estabilidade.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: a Amazônia não é bioma predominante em Minas Gerais; a Caatinga tem presença apenas pontual no extremo norte do estado.",
-      "C": "Incorreta: Pampa e Pantanal são biomas típicos das regiões Sul e Centro-Oeste, respectivamente, não de Minas Gerais.",
-      "D": "Incorreta: embora a Caatinga tenha presença marginal no norte de Minas, a transição destacada expressamente no edital é entre Cerrado e Mata Atlântica."
+      "B": "Incorreta: moléculas apolares tendem a apresentar BAIXA (não elevada) diferença de eletronegatividade entre os átomos ligados.",
+      "C": "Incorreta: ligações metálicas ocorrem entre átomos de metais entre si; a ligação entre metal e ametal caracteriza, tipicamente, a ligação iônica.",
+      "D": "Incorreta: ligações covalentes envolvem compartilhamento de elétrons, não formação de íons; a formação de íons caracteriza as ligações iônicas."
     },
-    "referenciaEdital": "Biomas de Minas Gerais: Análise da diversidade vegetal, incluindo a transição entre o Cerrado e a Mata Atlântica",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
-    "pagina": "52",
+    "referenciaEdital": "Ligações químicas, símbolos de Lewis e a regra do octeto",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
+    "pagina": "51",
     "dificuldade": "média"
   },
   {
     "id": "q036",
     "materia": "Ciências Humanas",
     "assunto": "História de Minas Gerais — Inconfidência Mineira",
-    "enunciado": "A Inconfidência Mineira, ocorrida em 1789, foi um movimento de contestação ao domínio colonial português em Minas Gerais. Assinale a alternativa que indica corretamente a principal motivação econômica imediata desse movimento.",
+    "enunciado": "Após a descoberta da conspiração da Inconfidência Mineira, em 1789, a Coroa portuguesa aplicou penas severas aos envolvidos. Assinale a alternativa que descreve corretamente o desfecho do principal líder do movimento, Joaquim José da Silva Xavier, o Tiradentes.",
     "alternativas": {
-      "A": "A criação de novos impostos sobre a produção cafeeira",
-      "B": "A cobrança da 'derrama', mecanismo de cobrança forçada de dívidas de impostos sobre o ouro",
-      "C": "A proibição da extração de diamantes na região Norte de Minas",
-      "D": "A instalação de fábricas têxteis inglesas na capitania"
+      "A": "Foi perdoado e nomeado governador da capitania.",
+      "B": "Foi condenado à forca e teve seu corpo esquartejado, em pena exemplar.",
+      "C": "Exilou-se em Portugal, onde viveu até sua morte natural.",
+      "D": "Foi absolvido por falta de provas e retornou à vida civil."
     },
     "respostaCorreta": "B",
-    "explicacaoCorreta": "A Inconfidência Mineira teve como estopim imediato o anúncio da cobrança da 'derrama', mecanismo pelo qual a Coroa portuguesa forçava a arrecadação de impostos atrasados sobre a extração de ouro na capitania.",
+    "explicacaoCorreta": "Tiradentes foi o único condenado à morte entre os inconfidentes, sendo enforcado e esquartejado em 1792, em pena exemplar destinada a desestimular novos movimentos separatistas.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: a economia cafeeira se consolidou em Minas Gerais apenas em período posterior, já no século XIX, após o declínio do ouro.",
-      "C": "Incorreta: a motivação central do movimento estava ligada ao ouro e à derrama, não a uma proibição específica de diamantes.",
-      "D": "Incorreta: não há relação histórica entre a Inconfidência Mineira e a instalação de fábricas têxteis inglesas na capitania."
+      "A": "Incorreta: Tiradentes não foi perdoado; foi condenado à morte pela Coroa portuguesa.",
+      "C": "Incorreta: Tiradentes não se exilou; foi preso, julgado e executado no Brasil.",
+      "D": "Incorreta: Tiradentes foi condenado, não absolvido; assumiu a responsabilidade principal perante os julgadores."
     },
     "referenciaEdital": "Inconfidência Mineira: Movimento separatista ocorrido em 1789",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "53",
     "dificuldade": "média"
   },
@@ -831,45 +831,45 @@
     "id": "q037",
     "materia": "Ciências Humanas",
     "assunto": "História de Minas Gerais — Política do Café com Leite",
-    "enunciado": "Durante a chamada República Velha (1889-1930), consolidou-se um arranjo político conhecido como 'Política do Café com Leite'. Assinale a alternativa que descreve corretamente esse arranjo.",
+    "enunciado": "A 'Política do Café com Leite' foi interrompida em 1930, quando o presidente paulista Washington Luís rompeu o revezamento tradicional ao indicar um sucessor também paulista. Esse episódio contribuiu diretamente para:",
     "alternativas": {
-      "A": "Alternância informal de poder político entre as elites de Minas Gerais e São Paulo na presidência da República",
-      "B": "Acordo comercial entre produtores de café e produtores de laticínios para fixação de preços",
-      "C": "Aliança militar entre Minas Gerais e Rio Grande do Sul contra o governo federal",
-      "D": "Política de incentivo à imigração europeia para as fazendas de café mineiras"
+      "A": "O fortalecimento definitivo da aliança entre São Paulo e Minas Gerais",
+      "B": "A eclosão da Revolução de 1930, que levou Getúlio Vargas ao poder",
+      "C": "A imediata proclamação da República no Brasil",
+      "D": "A criação da Política do Café com Leite"
     },
-    "respostaCorreta": "A",
-    "explicacaoCorreta": "A 'Política do Café com Leite' descreve o revezamento informal de poder político entre as oligarquias de São Paulo (associado ao café) e de Minas Gerais (associado, na metáfora, ao leite/pecuária) na presidência da República durante a República Velha.",
+    "respostaCorreta": "B",
+    "explicacaoCorreta": "A ruptura do revezamento entre São Paulo e Minas Gerais, com a indicação de outro paulista à sucessão presidencial, gerou forte reação política mineira e contribuiu para a Aliança Liberal e a Revolução de 1930, que levou Vargas ao poder.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: não se trata de acordo comercial sobre preços, mas de arranjo político de poder entre estados.",
-      "C": "Incorreta: não descreve uma aliança militar, mas sim uma aliança política e eleitoral entre elites estaduais.",
-      "D": "Incorreta: não há relação entre essa expressão histórica e política de imigração europeia."
+      "A": "Incorreta: o episódio gerou ruptura, não fortalecimento, da aliança política entre Minas Gerais e São Paulo.",
+      "C": "Incorreta: a Proclamação da República ocorreu em 1889, décadas antes desse episódio.",
+      "D": "Incorreta: inverte a cronologia; a Política do Café com Leite já existia desde a República Velha, não foi criada nesse momento."
     },
     "referenciaEdital": "Política do Café com Leite: A influência política de Minas Gerais, em conjunto com São Paulo, no cenário nacional durante a República Velha",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "53",
-    "dificuldade": "média"
+    "dificuldade": "difícil"
   },
   {
     "id": "q038",
     "materia": "Ciências Humanas",
     "assunto": "Mineração e barragens em Minas Gerais",
-    "enunciado": "O rompimento de barragens de rejeitos de mineração em Minas Gerais, como os desastres de Mariana (2015) e Brumadinho (2019), levou à alteração da legislação federal sobre segurança de barragens. Assinale a alternativa que identifica corretamente a lei que instituiu originalmente a Política Nacional de Segurança de Barragens, posteriormente alterada em 2020.",
+    "enunciado": "Após o rompimento da barragem de Brumadinho, em 2019, a legislação brasileira sobre segurança de barragens foi alterada pela Lei nº 14.066/2020. Entre as mudanças introduzidas, destaca-se:",
     "alternativas": {
-      "A": "Lei nº 12.334, de 2010",
-      "B": "Lei nº 12.608, de 2012",
-      "C": "Lei nº 13.089, de 2015",
-      "D": "Lei nº 10.257, de 2001"
+      "C": "O fortalecimento das exigências de fiscalização e das penalidades para o descumprimento das normas de segurança",
+      "A": "A extinção da exigência de Plano de Ação de Emergência para barragens de mineração",
+      "B": "A transferência da responsabilidade pela segurança de barragens exclusivamente para os municípios",
+      "D": "A permissão irrestrita de construção de novas barragens de rejeitos pelo método a montante"
     },
-    "respostaCorreta": "A",
-    "explicacaoCorreta": "A Lei nº 12.334/2010 instituiu a Política Nacional de Segurança de Barragens (PNSB), posteriormente alterada pela Lei nº 14.066/2020 após os desastres de Mariana e Brumadinho, ambos em Minas Gerais.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "A Lei nº 14.066/2020 fortaleceu as exigências de fiscalização e as penalidades relacionadas à segurança de barragens, além de restringir métodos construtivos associados aos desastres de Mariana e Brumadinho.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: a Lei nº 12.608/2012 institui a Política Nacional de Proteção e Defesa Civil (PNPDEC), tema distinto, embora relacionado.",
-      "C": "Incorreta: a Lei nº 13.089/2015 institui o Estatuto da Metrópole, sem relação direta com segurança de barragens.",
-      "D": "Incorreta: a Lei nº 10.257/2001 é o Estatuto da Cidade, também sem relação direta com segurança de barragens."
+      "A": "Incorreta: a lei manteve e reforçou exigências como o Plano de Ação de Emergência (PAE), não as extinguiu.",
+      "B": "Incorreta: a responsabilidade pela segurança de barragens permanece compartilhada entre órgãos federais, estaduais e o empreendedor, não é exclusiva dos municípios.",
+      "D": "Incorreta: a Lei nº 14.066/2020 restringiu o método de alteamento a montante, relacionado aos desastres de Mariana e Brumadinho, não o permitiu irrestritamente."
     },
     "referenciaEdital": "Barragens em Minas Gerais: Inventário das barragens existentes... Segurança de Barragens",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, em conexão com o Caderno GIRD+10 (MDR/SEDEC)",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026, em conexão com o Caderno GIRD+10 (MDR/SEDEC).",
     "pagina": "53 (edital) / Caderno GIRD+10, Cap.2, p.74-77",
     "dificuldade": "difícil"
   },
@@ -877,22 +877,22 @@
     "id": "q039",
     "materia": "Ciências Humanas",
     "assunto": "Geografia humana de Minas Gerais — Região Metropolitana de Belo Horizonte",
-    "enunciado": "A Região Metropolitana de Belo Horizonte (RMBH) concentra a maior densidade populacional e urbana de Minas Gerais. Do ponto de vista da gestão de riscos e desastres, essa concentração populacional em áreas urbanas densamente ocupadas tende a:",
+    "enunciado": "A expansão urbana da Região Metropolitana de Belo Horizonte (RMBH) ao longo das últimas décadas ocorreu, em parte, sobre áreas ambientalmente sensíveis. Do ponto de vista da Gestão de Riscos e Desastres, esse padrão de expansão tende a:",
     "alternativas": {
-      "A": "Reduzir automaticamente os riscos de desastres, por conta da maior presença de infraestrutura",
-      "B": "Aumentar a exposição de pessoas e bens a riscos, especialmente em áreas de ocupação irregular e encostas",
-      "C": "Eliminar a necessidade de mapeamento de risco, já que áreas urbanas centrais não sofrem deslizamentos",
-      "D": "Ter relevância apenas para riscos tecnológicos, e não para riscos geológicos ou hidrológicos"
+      "D": "Ampliar a pressão sobre áreas de mananciais e encostas, aumentando a vulnerabilidade da população",
+      "A": "Reduzir a necessidade de planejamento territorial, já que a RMBH possui relevo predominantemente plano",
+      "B": "Eliminar completamente os riscos de deslizamento, devido à infraestrutura consolidada da região",
+      "C": "Restringir-se apenas às áreas centrais dos municípios, sem afetar bairros periféricos"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "A alta densidade populacional e a ocupação irregular de encostas e margens de córregos em regiões metropolitanas, como a RMBH, aumentam a exposição de pessoas e bens a riscos geológicos e hidrológicos, tema central da Gestão de Riscos e Desastres.",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "A ocupação de áreas de mananciais e encostas na RMBH, historicamente marcada por relevo acidentado, amplia a pressão sobre essas áreas sensíveis e aumenta a vulnerabilidade da população exposta a riscos geológicos e hidrológicos.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: a concentração populacional, especialmente em áreas de ocupação precária, tende a aumentar — não reduzir — a exposição a riscos.",
-      "C": "Incorreta: áreas urbanas centrais e periféricas de regiões metropolitanas brasileiras registram, historicamente, deslizamentos e inundações significativos.",
-      "D": "Incorreta: a concentração populacional é relevante tanto para riscos tecnológicos quanto para riscos geológicos e hidrológicos, como deslizamentos e inundações."
+      "A": "Incorreta: a RMBH tem relevo predominantemente acidentado, não plano, o que reforça, e não reduz, a necessidade de planejamento territorial.",
+      "B": "Incorreta: a infraestrutura consolidada não elimina riscos de deslizamento, especialmente em áreas de ocupação irregular em encostas.",
+      "C": "Incorreta: a expansão urbana afeta tanto áreas centrais quanto periféricas, muitas vezes com maior intensidade nestas últimas."
     },
     "referenciaEdital": "Regiões metropolitanas de Minas Gerais, como a Região Metropolitana de Belo Horizonte (RMBH)",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "53-54",
     "dificuldade": "média"
   },
@@ -900,22 +900,22 @@
     "id": "q040",
     "materia": "Ciências Humanas",
     "assunto": "História de Minas Gerais — cidades históricas",
-    "enunciado": "Diversas cidades mineiras preservam importante patrimônio histórico e arquitetônico originado no período do ciclo do ouro. Assinale a alternativa que reúne EXCLUSIVAMENTE cidades históricas mineiras associadas a esse período, expressamente citadas no conteúdo programático oficial.",
+    "enunciado": "Entre as cidades históricas mineiras associadas ao ciclo do ouro, uma delas foi a primeira localidade brasileira a receber o título de Patrimônio Cultural da Humanidade pela UNESCO, em 1980. Assinale a alternativa que a identifica corretamente.",
     "alternativas": {
-      "A": "Ouro Preto, Mariana, Tiradentes e Diamantina",
-      "B": "Belo Horizonte, Uberlândia, Contagem e Betim",
-      "C": "Juiz de Fora, Poços de Caldas, Varginha e Uberaba",
-      "D": "Governador Valadares, Ipatinga, Montes Claros e Araçuaí"
+      "A": "Ouro Preto",
+      "B": "Tiradentes",
+      "C": "Diamantina",
+      "D": "Mariana"
     },
     "respostaCorreta": "A",
-    "explicacaoCorreta": "Ouro Preto, Mariana, Tiradentes e Diamantina são expressamente citadas no conteúdo programático oficial como cidades históricas de Minas Gerais associadas ao período colonial do ouro, com relevante patrimônio cultural e arquitetônico.",
+    "explicacaoCorreta": "Ouro Preto foi a primeira cidade brasileira a receber, em 1980, o título de Patrimônio Cultural da Humanidade concedido pela UNESCO, em reconhecimento ao seu conjunto arquitetônico colonial.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: Belo Horizonte é cidade planejada do início do século XX, e as demais são polos industriais/urbanos modernos, sem relação direta com o ciclo do ouro colonial.",
-      "C": "Incorreta: essas cidades, embora relevantes para outras matérias do edital, não são as citadas no trecho sobre cidades históricas do ciclo do ouro.",
-      "D": "Incorreta: são cidades do interior mineiro relevantes para outros contextos (como locais de aplicação de prova), mas não as citadas como cidades históricas do ciclo do ouro."
+      "B": "Incorreta: Tiradentes é cidade histórica relevante do período colonial, mas não foi a primeira a receber o título da UNESCO.",
+      "C": "Incorreta: Diamantina recebeu posteriormente o título de Patrimônio da Humanidade, mas não foi a primeira cidade brasileira a recebê-lo.",
+      "D": "Incorreta: Mariana é cidade histórica importante do ciclo do ouro, mas não foi a primeira a receber o título da UNESCO."
     },
     "referenciaEdital": "Cidades históricas: Estudo das cidades históricas de Minas Gerais, como Ouro Preto, Mariana, Tiradentes e Diamantina",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "53",
     "dificuldade": "média"
   },
@@ -923,22 +923,22 @@
     "id": "q041",
     "materia": "Ciências Humanas",
     "assunto": "Geografia humana de Minas Gerais — mesorregiões",
-    "enunciado": "A divisão do território mineiro em mesorregiões evidencia grande diversidade econômica e social entre as diferentes áreas do estado. Assinale a alternativa CORRETA sobre essa divisão territorial.",
+    "enunciado": "A mesorregião do Triângulo Mineiro/Alto Paranaíba destaca-se, em relação a outras mesorregiões de Minas Gerais, por sua economia fortemente baseada em:",
     "alternativas": {
-      "A": "Todas as mesorregiões de Minas Gerais apresentam níveis semelhantes de desenvolvimento socioeconômico.",
-      "B": "As mesorregiões mineiras não guardam relação com as diferentes atividades produtivas predominantes no estado.",
-      "C": "Existem desigualdades regionais significativas entre mesorregiões, refletidas em indicadores de renda e infraestrutura.",
-      "D": "A divisão em mesorregiões é idêntica à divisão em bacias hidrográficas do estado."
+      "A": "Agronegócio, com destaque para a produção de grãos e a pecuária",
+      "B": "Extração mineral de ferro em larga escala, como no Quadrilátero Ferrífero",
+      "C": "Turismo histórico ligado ao ciclo do ouro colonial",
+      "D": "Indústria naval e portuária"
     },
-    "respostaCorreta": "C",
-    "explicacaoCorreta": "O conteúdo programático oficial destaca expressamente a investigação da distribuição de renda e desigualdade social entre mesorregiões, reconhecendo diferenças significativas de desenvolvimento e infraestrutura no território mineiro.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "O Triângulo Mineiro/Alto Paranaíba é reconhecido como importante polo agropecuário de Minas Gerais, com destaque para a produção de grãos e a pecuária, diferentemente de outras mesorregiões.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: há reconhecida desigualdade de desenvolvimento entre mesorregiões mineiras, contrariando a ideia de uniformidade.",
-      "B": "Incorreta: o próprio conteúdo programático menciona a análise de 'peculiaridades da economia em cada mesorregião' e 'principais setores produtivos'.",
-      "D": "Incorreta: mesorregiões são divisões político-administrativas (IBGE), distintas do recorte hidrográfico usado para bacias e sub-bacias."
+      "B": "Incorreta: a extração de ferro em larga escala é característica marcante da região central de Minas Gerais (Quadrilátero Ferrífero), não do Triângulo Mineiro.",
+      "C": "Incorreta: o turismo histórico ligado ao ciclo do ouro é mais associado a cidades como Ouro Preto e Mariana, na região central do estado.",
+      "D": "Incorreta: Minas Gerais é estado sem litoral, não possuindo indústria naval e portuária própria."
     },
     "referenciaEdital": "Investigação da distribuição de renda e desigualdade social. Peculiaridades da economia em cada mesorregião",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "53-54",
     "dificuldade": "média"
   },
@@ -946,45 +946,45 @@
     "id": "q042",
     "materia": "Ciências Humanas",
     "assunto": "História de Minas Gerais — escravidão e economia mineira",
-    "enunciado": "Durante o período colonial e imperial, a mão de obra escravizada teve papel central na economia de Minas Gerais. Assinale a alternativa que descreve corretamente essa relação, conforme o conteúdo programático oficial.",
+    "enunciado": "A Lei do Ventre Livre (1871) determinou que os filhos de mulheres escravizadas, nascidos a partir de sua vigência, seriam considerados livres. Essa lei é caracterizada como de caráter conservador porque:",
     "alternativas": {
-      "A": "A escravidão em Minas Gerais restringiu-se exclusivamente à mineração, não afetando outras atividades econômicas.",
-      "B": "A mão de obra escravizada teve papel relevante desde a mineração até o período final da escravidão no Brasil, em 1888.",
-      "C": "Minas Gerais foi a primeira província brasileira a abolir a escravidão, antes da Lei Áurea.",
-      "D": "A escravidão em Minas Gerais encerrou-se definitivamente com a Inconfidência Mineira, em 1789."
+      "A": "Garantia ao senhor a opção de manter a criança sob sua tutela até os 21 anos ou entregá-la ao Estado, mediante indenização",
+      "B": "Libertava imediatamente todos os escravizados adultos em Minas Gerais",
+      "C": "Proibia definitivamente qualquer forma de trabalho escravo no país a partir de sua promulgação",
+      "D": "Foi aprovada por iniciativa dos próprios movimentos abolicionistas mineiros, sem participação do governo imperial"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "O conteúdo programático oficial menciona expressamente 'o papel dos escravos na economia e na sociedade de Minas Gerais, desde a mineração até o fim da escravidão em 1888', reconhecendo continuidade da mão de obra escravizada além do ciclo do ouro.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "A Lei do Ventre Livre garantia ao senhor a opção de manter a criança sob sua tutela até os 21 anos ou entregá-la ao Estado mediante indenização, o que manteve, na prática, um longo período de sujeição da criança ao antigo proprietário — daí seu caráter conservador.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: o texto oficial indica papel da mão de obra escravizada 'na economia e na sociedade', não restrito apenas à mineração.",
-      "C": "Incorreta: não há indicação, no conteúdo oficial, de que Minas Gerais tenha sido pioneira na abolição; a abolição nacional ocorreu com a Lei Áurea, em 1888.",
-      "D": "Incorreta: a Inconfidência Mineira (1789) foi movimento político-fiscal, sem relação com o fim da escravidão, que ocorreu quase um século depois."
+      "B": "Incorreta: a lei não libertava adultos já escravizados, apenas os filhos nascidos a partir de sua vigência.",
+      "C": "Incorreta: a escravidão de adultos já existentes permaneceu legal até a Lei Áurea, em 1888.",
+      "D": "Incorreta: a lei foi uma iniciativa do governo imperial, promulgada em contexto de pressão internacional e interna, não dos movimentos abolicionistas."
     },
     "referenciaEdital": "Escravidão: O papel dos escravos na economia e na sociedade de Minas Gerais, desde a mineração até o fim da escravidão em 1888",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "53",
-    "dificuldade": "média"
+    "dificuldade": "difícil"
   },
   {
     "id": "q043",
     "materia": "Ciências Humanas",
     "assunto": "Áreas de risco geológico em Minas Gerais",
-    "enunciado": "O mapeamento de áreas de risco geológico (como deslizamentos e movimentos de massa) é uma ferramenta de gestão territorial relevante para municípios mineiros situados em relevo acidentado. Segundo o conteúdo programático oficial, esse mapeamento tem como uma de suas principais finalidades:",
+    "enunciado": "A elaboração de mapas de risco geológico em municípios mineiros situados em áreas de relevo acidentado é, em regra, uma responsabilidade compartilhada entre diferentes níveis de governo. Assinale a alternativa que descreve corretamente essa relação.",
     "alternativas": {
-      "A": "Substituir integralmente a necessidade de ações de defesa civil nos municípios mapeados",
-      "B": "Orientar o ordenamento territorial e reduzir riscos por meio da identificação de áreas vulneráveis",
-      "C": "Autorizar automaticamente a remoção de todas as famílias residentes em encostas",
-      "D": "Aplicar-se exclusivamente a áreas rurais, sem relevância para o espaço urbano"
+      "A": "Envolve a atuação conjunta de órgãos federais (como o Serviço Geológico do Brasil), estaduais e municipais de defesa civil",
+      "B": "É de responsabilidade exclusiva da União, sem qualquer participação estadual ou municipal",
+      "C": "É de responsabilidade exclusiva dos municípios, sem qualquer apoio técnico federal ou estadual",
+      "D": "Não é uma atividade prevista na legislação brasileira de proteção e defesa civil"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "O mapeamento de riscos, citado no conteúdo programático como 'Identificação e mapeamento de áreas de risco geológico', tem finalidade de orientar o ordenamento territorial e subsidiar ações de prevenção e mitigação, reduzindo riscos.",
+    "respostaCorreta": "A",
+    "explicacaoCorreta": "O mapeamento de risco geológico envolve cooperação federativa, com órgãos técnicos federais (como o Serviço Geológico do Brasil) atuando em conjunto com órgãos estaduais e municipais de defesa civil.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: o mapeamento é instrumento de apoio à defesa civil, não substituto de suas ações de prevenção, resposta e recuperação.",
-      "C": "Incorreta: a remoção de famílias é medida excepcional, prevista apenas quando não há alternativa técnica viável, não uma consequência automática do mapeamento.",
-      "D": "Incorreta: o mapeamento de riscos geológicos é especialmente relevante em áreas urbanas densamente ocupadas em encostas, não se restringindo ao meio rural."
+      "B": "Incorreta: a responsabilidade não é exclusiva da União; estados e municípios também participam ativamente.",
+      "C": "Incorreta: os municípios contam com apoio técnico de órgãos federais e estaduais, não atuando isoladamente.",
+      "D": "Incorreta: o mapeamento de áreas de risco é atividade expressamente prevista na Política Nacional de Proteção e Defesa Civil."
     },
     "referenciaEdital": "Riscos: Identificação e mapeamento de áreas de risco geológico, como deslizamentos, inundações e movimentos de massa",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "54",
     "dificuldade": "média"
   },
@@ -992,22 +992,22 @@
     "id": "q044",
     "materia": "Ciências Humanas",
     "assunto": "Turismo geológico em Minas Gerais — cachoeiras, grutas e cavernas",
-    "enunciado": "O ecoturismo em áreas de cachoeiras, grutas e cavernas em Minas Gerais apresenta potencialidades econômicas, mas também exige atenção a determinados desafios de gestão. Assinale a alternativa que apresenta corretamente um desafio associado a essa atividade, conforme o conteúdo programático oficial.",
+    "enunciado": "O Parque Nacional Cavernas do Peruaçu, localizado no norte de Minas Gerais, é reconhecido por abrigar importante patrimônio espeleológico e arqueológico, incluindo pinturas rupestres. Esse tipo de área exige, na gestão do ecoturismo, atenção especial a:",
     "alternativas": {
-      "A": "A inexistência de qualquer risco ambiental em áreas de exploração turística de cavernas",
-      "B": "A necessidade de conservação e manejo sustentável dessas áreas, equilibrando uso turístico e preservação",
-      "C": "A proibição legal de qualquer atividade de pesquisa científica nessas áreas",
-      "D": "A ausência de relação entre essas áreas e o patrimônio natural do estado"
+      "A": "Apenas ao fluxo financeiro gerado pelo turismo, sem preocupação com a integridade das formações",
+      "B": "Estratégias de conservação que equilibrem visitação turística e preservação do patrimônio natural e arqueológico",
+      "C": "Nenhuma restrição de acesso, já que se trata de patrimônio público de uso irrestrito",
+      "D": "Exclusivamente à exploração mineral da região, sem relação com o turismo"
     },
     "respostaCorreta": "B",
-    "explicacaoCorreta": "O conteúdo programático oficial destaca expressamente 'estratégias de conservação e manejo sustentável das áreas de cachoeiras, grutas e cavernas em Minas Gerais', reconhecendo a necessidade de equilíbrio entre uso turístico e preservação ambiental.",
+    "explicacaoCorreta": "Áreas espeleológicas e arqueológicas como o Parque Nacional Cavernas do Peruaçu exigem estratégias de conservação que equilibrem a visitação turística com a preservação do patrimônio natural e cultural.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: áreas cársticas apresentam riscos ambientais específicos (desmoronamentos, alterações hidrológicas), que exigem gestão cuidadosa.",
-      "C": "Incorreta: o conteúdo oficial destaca justamente a 'importância das pesquisas científicas e estudos geológicos' nessas áreas, não sua proibição.",
-      "D": "Incorreta: o conteúdo oficial trata essas áreas como parte relevante do 'patrimônio natural de Minas Gerais'."
+      "A": "Incorreta: a preocupação exclusivamente financeira, sem cuidado com a integridade das formações, é incompatível com a gestão sustentável dessas áreas.",
+      "C": "Incorreta: parques nacionais e áreas de patrimônio espeleológico possuem restrições e normas de visitação, não uso irrestrito.",
+      "D": "Incorreta: a atividade principal dessas áreas protegidas é a conservação e o turismo controlado, não a exploração mineral."
     },
     "referenciaEdital": "Conservação e Manejo: Estratégias de conservação e manejo sustentável das áreas de cachoeiras, grutas e cavernas em Minas Gerais",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "54",
     "dificuldade": "média"
   },
@@ -1015,22 +1015,22 @@
     "id": "q045",
     "materia": "Ciências Humanas",
     "assunto": "História de Minas Gerais — Estado Novo e industrialização",
-    "enunciado": "Durante o Estado Novo (1937-1945), sob a liderança de Getúlio Vargas, Minas Gerais foi impactada por políticas de industrialização nacional. Assinale a alternativa que indica corretamente uma consequência associada a esse período, conforme o conteúdo programático oficial.",
+    "enunciado": "A criação da Companhia Siderúrgica Nacional (CSN), na década de 1940, ainda que instalada em Volta Redonda (RJ), esteve diretamente relacionada à exploração de minério de ferro extraído de Minas Gerais. Esse episódio ilustra, no período do Estado Novo, a:",
     "alternativas": {
-      "A": "O fim completo da produção de minério de ferro no estado",
-      "B": "A implantação de políticas de industrialização, com destaque para avanços tecnológicos como a exploração de minério de ferro",
-      "C": "A transferência da capital mineira de Belo Horizonte para Ouro Preto",
-      "D": "A completa desvinculação da economia mineira em relação à mineração"
+      "C": "Integração da economia mineira, baseada na extração de minério, ao projeto de industrialização nacional promovido pelo governo Vargas",
+      "A": "Total independência econômica de Minas Gerais em relação à indústria siderúrgica nacional",
+      "B": "Substituição definitiva da mineração pela indústria têxtil como principal atividade econômica de Minas Gerais",
+      "D": "Ausência de qualquer política federal de incentivo à indústria de base durante o Estado Novo"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "O conteúdo programático oficial associa o Estado Novo à 'implementação de políticas de industrialização' em Minas Gerais, mencionando ainda, em outro trecho, 'avanços tecnológicos e industriais... como a implantação da Companhia Vale do Rio Doce e a exploração de minério de ferro'.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "A exploração do minério de ferro mineiro para abastecer a CSN ilustra a integração da economia de Minas Gerais ao projeto nacional de industrialização promovido pelo governo Vargas durante o Estado Novo.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: o período foi marcado justamente pelo fortalecimento, não pelo fim, da exploração de minério de ferro em Minas Gerais.",
-      "C": "Incorreta: a transferência da capital mineira de Ouro Preto para Belo Horizonte ocorreu em 1897, antes do Estado Novo, e não houve transferência em sentido inverso.",
-      "D": "Incorreta: a economia mineira permaneceu fortemente vinculada à mineração ao longo do século XX, inclusive com investimentos na área nesse período."
+      "A": "Incorreta: o episódio demonstra justamente a integração, e não a independência, da economia mineira ao projeto industrial nacional.",
+      "B": "Incorreta: a mineração permaneceu como atividade econômica central em Minas Gerais, não foi substituída pela indústria têxtil.",
+      "D": "Incorreta: o Estado Novo foi marcado justamente por políticas federais de incentivo à indústria de base, como a própria criação da CSN."
     },
     "referenciaEdital": "Estado Novo: O período autoritário de Getúlio Vargas (1937-1945) e seu impacto em Minas Gerais, incluindo a implementação de políticas de industrialização",
-    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026",
+    "fonte": "Questão original, elaborada com base no Anexo II do Edital CBMMG nº 10/2026.",
     "pagina": "53",
     "dificuldade": "difícil"
   },
@@ -1038,45 +1038,45 @@
     "id": "q046",
     "materia": "Proteção e Defesa Civil",
     "assunto": "Conceito de risco, ameaça e vulnerabilidade",
-    "enunciado": "Segundo a fórmula clássica adotada na Gestão de Riscos e Desastres, o risco de desastre resulta da interação entre dois elementos principais. Assinale a alternativa que apresenta corretamente essa relação.",
+    "enunciado": "Uma indústria química está localizada próxima a uma escola, em uma região sem plano de evacuação estabelecido e sem sistema de alarme comunitário. De acordo com a fórmula Risco = Ameaça × Vulnerabilidade, a ausência de plano de evacuação e de sistema de alarme representa, nesse cenário, o elemento:",
     "alternativas": {
-      "A": "Risco = Ameaça × Vulnerabilidade",
-      "B": "Risco = Resiliência × Capacidade de resposta",
-      "C": "Risco = Ameaça ÷ Resiliência da população",
-      "D": "Risco = Vulnerabilidade − Capacidade institucional"
+      "C": "Vulnerabilidade",
+      "A": "Ameaça",
+      "B": "Mitigação",
+      "D": "Resposta"
     },
-    "respostaCorreta": "A",
-    "explicacaoCorreta": "O Caderno GIRD+10 apresenta expressamente a expressão consolidada Risco = Ameaça × Vulnerabilidade, entendendo o risco de desastre como resultado da interação entre a possibilidade de ocorrência de um processo físico danoso (ameaça) e a fragilidade das pessoas ou bens expostos (vulnerabilidade).",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "A ausência de plano de evacuação e de sistema de alarme representa a fragilidade e o despreparo da comunidade diante de um evento potencialmente danoso — ou seja, a vulnerabilidade. A indústria química, nesse cenário, representaria a ameaça.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: resiliência e capacidade de resposta são elementos que reduzem o risco, mas não compõem a fórmula clássica de definição do risco em si.",
-      "C": "Incorreta: a relação matemática entre ameaça e vulnerabilidade apresentada na literatura oficial é de multiplicação, não de divisão por resiliência.",
-      "D": "Incorreta: a fórmula não envolve subtração de capacidade institucional; a vulnerabilidade é multiplicada pela ameaça, não subtraída de outro fator."
+      "A": "Incorreta: a ameaça corresponde ao fenômeno potencialmente danoso em si (a indústria química), não à falta de preparo da comunidade.",
+      "B": "Incorreta: mitigação é uma ação de redução de risco, não um elemento da fórmula risco = ameaça × vulnerabilidade.",
+      "D": "Incorreta: resposta é a atuação durante ou após o evento, não um elemento estrutural da fórmula do risco."
     },
     "referenciaEdital": "Proteção e Defesa Civil (conteúdo remetido ao Caderno GIRD+10)",
-    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 1",
+    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 1.",
     "pagina": "11",
-    "dificuldade": "média"
+    "dificuldade": "difícil"
   },
   {
     "id": "q047",
     "materia": "Proteção e Defesa Civil",
     "assunto": "Política Nacional de Proteção e Defesa Civil — ações",
-    "enunciado": "A Política Nacional de Proteção e Defesa Civil (Lei nº 12.608/2012) organiza as ações de defesa civil em diferentes etapas. Assinale a alternativa que descreve corretamente as 'ações de mitigação', conforme a legislação e a literatura oficiais.",
+    "enunciado": "Imediatamente após a ocorrência de um deslizamento de terra que soterrou parte de uma via, equipes de resgate atuam no salvamento de vítimas e na desobstrução emergencial da via. Essas ações são classificadas, na Gestão de Riscos e Desastres, como ações de:",
     "alternativas": {
-      "A": "Medidas de caráter emergencial executadas durante ou após o desastre, para socorrer a população atingida",
-      "B": "Medidas destinadas a reduzir, limitar ou evitar o risco de desastre já instalado",
-      "C": "Medidas desenvolvidas após o desastre, destinadas à reconstrução de infraestrutura",
-      "D": "Medidas destinadas a otimizar as ações de resposta, minimizando danos futuros"
+      "A": "Prevenção",
+      "B": "Mitigação",
+      "C": "Resposta",
+      "D": "Reconstrução"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Conforme o Decreto nº 10.593/2020, citado no Caderno GIRD+10, as ações de mitigação são medidas destinadas a reduzir, limitar ou evitar o risco de desastre, atuando sobre um risco já existente no território.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "Ações de resposta são aquelas executadas durante ou imediatamente após a ocorrência do desastre, voltadas ao socorro da população e à desobstrução emergencial, como no cenário descrito.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: essa descrição corresponde às 'ações de resposta', não às de mitigação.",
-      "C": "Incorreta: essa descrição corresponde às 'ações de recuperação', que ocorrem após a ocorrência do desastre.",
-      "D": "Incorreta: essa descrição corresponde às 'ações de preparação', voltadas à otimização da resposta futura, não à redução direta do risco instalado."
+      "A": "Incorreta: prevenção corresponde a ações anteriores ao evento, destinadas a evitar a instalação do risco.",
+      "B": "Incorreta: mitigação também é ação anterior ao evento, destinada a reduzir um risco já instalado, não uma ação emergencial durante o desastre.",
+      "D": "Incorreta: reconstrução ocorre em fase posterior, voltada à recuperação de infraestrutura, não ao socorro imediato às vítimas."
     },
     "referenciaEdital": "Proteção e Defesa Civil (conteúdo remetido ao Caderno GIRD+10)",
-    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 1",
+    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 1.",
     "pagina": "33",
     "dificuldade": "difícil"
   },
@@ -1084,22 +1084,22 @@
     "id": "q048",
     "materia": "Proteção e Defesa Civil",
     "assunto": "Classificação e Codificação Brasileira de Desastres (Cobrade)",
-    "enunciado": "A Classificação e Codificação Brasileira de Desastres (Cobrade) organiza os desastres em duas grandes categorias. Assinale a alternativa que apresenta corretamente essas categorias.",
+    "enunciado": "Dentro da categoria de desastres naturais da Classificação e Codificação Brasileira de Desastres (Cobrade), um deslizamento de terra é classificado em qual grupo?",
     "alternativas": {
-      "A": "Desastres naturais e desastres tecnológicos",
-      "B": "Desastres previsíveis e desastres imprevisíveis",
-      "C": "Desastres urbanos e desastres rurais",
-      "D": "Desastres de pequeno porte e desastres de grande porte"
+      "D": "Grupo geológico",
+      "A": "Grupo hidrológico",
+      "B": "Grupo meteorológico",
+      "C": "Grupo biológico"
     },
-    "respostaCorreta": "A",
-    "explicacaoCorreta": "A Cobrade organiza os desastres em duas categorias — desastres naturais (geológicos, hidrológicos, meteorológicos, climatológicos e biológicos) e desastres tecnológicos (substâncias radioativas, produtos perigosos, incêndios urbanos, obras civis e transporte) —, cada uma subdividida em cinco grupos.",
+    "respostaCorreta": "D",
+    "explicacaoCorreta": "Deslizamentos de terra são classificados, na Cobrade, no grupo geológico dos desastres naturais, junto com processos como terremotos e erosões.",
     "explicacaoAlternativas": {
-      "B": "Incorreta: previsibilidade não é o critério estrutural de classificação adotado pela Cobrade.",
-      "C": "Incorreta: a distinção urbano/rural não corresponde à estrutura oficial de categorias da Cobrade.",
-      "D": "Incorreta: porte do desastre não é o critério de classificação em categorias da Cobrade, embora seja considerado em outros instrumentos, como os decretos de situação de emergência."
+      "A": "Incorreta: o grupo hidrológico da Cobrade inclui inundações e enxurradas, não deslizamentos.",
+      "B": "Incorreta: o grupo meteorológico inclui tempestades e geadas, não deslizamentos.",
+      "C": "Incorreta: o grupo biológico inclui epidemias e infestações, sem relação com processos geológicos."
     },
     "referenciaEdital": "Proteção e Defesa Civil (conteúdo remetido ao Caderno GIRD+10)",
-    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 2",
+    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 2.",
     "pagina": "52",
     "dificuldade": "média"
   },
@@ -1107,22 +1107,22 @@
     "id": "q049",
     "materia": "Proteção e Defesa Civil",
     "assunto": "Mapeamento de riscos — escalas de detalhamento",
-    "enunciado": "O detalhamento progressivo dos mapeamentos geotécnicos aplicados à Gestão de Riscos e Desastres segue uma ordem de escalas cada vez mais detalhadas, conforme a finalidade do instrumento. Assinale a alternativa que ordena corretamente esses instrumentos, da escala mais regional para a mais local/detalhada.",
+    "enunciado": "Entre os instrumentos técnicos de mapeamento utilizados na Gestão de Riscos e Desastres, a Carta de Suscetibilidade tem como finalidade principal:",
     "alternativas": {
-      "A": "Carta de Risco → Carta de Suscetibilidade → Carta Geotécnica de Aptidão à Urbanização",
-      "B": "Carta de Suscetibilidade → Carta Geotécnica de Aptidão à Urbanização → Carta de Risco",
-      "C": "Carta Geotécnica de Aptidão à Urbanização → Carta de Risco → Carta de Suscetibilidade",
-      "D": "As três cartas são elaboradas sempre na mesma escala, sem diferença de detalhamento"
+      "A": "Orientar decisões emergenciais imediatas durante a ocorrência de um desastre já instalado",
+      "B": "Fornecer uma visão regional preliminar das áreas naturalmente propensas a determinados processos geológicos ou hidrológicos",
+      "C": "Substituir integralmente a necessidade de Cartas de Risco em qualquer escala",
+      "D": "Aplicar-se exclusivamente a áreas urbanas já consolidadas"
     },
     "respostaCorreta": "B",
-    "explicacaoCorreta": "O detalhamento progressivo segue a ordem: Carta de Suscetibilidade (escala ≤1:25.000, visão regional) → Carta Geotécnica de Aptidão à Urbanização (escala 1:10.000, planejamento urbano) → Carta de Risco (escala ≥1:2.000, ação local/emergencial).",
+    "explicacaoCorreta": "A Carta de Suscetibilidade oferece uma visão regional preliminar, em escala mais ampla, das áreas naturalmente propensas a processos geológicos ou hidrológicos, servindo de base para estudos mais detalhados.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: inverte a ordem correta, começando pelo instrumento mais detalhado (Carta de Risco) em vez do mais regional.",
-      "C": "Incorreta: não corresponde à sequência de detalhamento progressivo estabelecida na literatura técnica oficial.",
-      "D": "Incorreta: os três instrumentos têm escalas de detalhamento diferentes e finalidades distintas, conforme expressamente descrito no Caderno GIRD+10."
+      "A": "Incorreta: orientar decisões emergenciais imediatas é função da Carta de Risco, elaborada em escala local e mais detalhada.",
+      "C": "Incorreta: os instrumentos de mapeamento são complementares entre si, não substitutos.",
+      "D": "Incorreta: a Carta de Suscetibilidade tem escala regional, podendo abranger tanto áreas rurais quanto urbanas."
     },
     "referenciaEdital": "Proteção e Defesa Civil (conteúdo remetido ao Caderno GIRD+10)",
-    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 3",
+    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 3.",
     "pagina": "92",
     "dificuldade": "difícil"
   },
@@ -1130,22 +1130,22 @@
     "id": "q050",
     "materia": "Proteção e Defesa Civil",
     "assunto": "Núcleos Comunitários de Proteção e Defesa Civil (Nupdec)",
-    "enunciado": "Os Núcleos Comunitários de Proteção e Defesa Civil (Nupdec) desempenham papel relevante na Gestão de Riscos e Desastres em nível local. Assinale a alternativa que descreve corretamente sua composição e função, segundo a literatura oficial.",
+    "enunciado": "Os Núcleos Comunitários de Proteção e Defesa Civil (Nupdec) são estruturas de participação social relevantes na Gestão de Riscos e Desastres. Assinale a alternativa que descreve corretamente uma de suas principais atribuições.",
     "alternativas": {
-      "A": "São formados exclusivamente por servidores públicos concursados da Defesa Civil municipal",
-      "B": "São formados por cidadãos da própria comunidade, que contribuem com ações preventivas e atuam como socorristas em emergências",
-      "C": "São órgãos federais vinculados diretamente ao Ministério da Defesa",
-      "D": "Têm atuação restrita a áreas rurais, sem qualquer participação em contextos urbanos"
+      "C": "Atuar na identificação de sinais de risco na comunidade e no apoio a ações preventivas e emergenciais locais",
+      "A": "Substituir integralmente as equipes técnicas de defesa civil municipal em qualquer situação",
+      "B": "Deliberar, com poder de decisão final, sobre a interdição de áreas de risco",
+      "D": "Restringir-se à arrecadação de doações após a ocorrência de desastres"
     },
-    "respostaCorreta": "B",
-    "explicacaoCorreta": "Conforme o Caderno GIRD+10, os Nupdecs 'são formados por cidadãos de cada comunidade que contribuem com ações preventivas nas áreas de risco e socorristas em situações de calamidade e emergência', constituindo estrutura de participação social na gestão de riscos.",
+    "respostaCorreta": "C",
+    "explicacaoCorreta": "Os Nupdecs são formados por cidadãos da própria comunidade que atuam na identificação de sinais de risco e no apoio a ações preventivas e emergenciais, complementando o trabalho da defesa civil local.",
     "explicacaoAlternativas": {
-      "A": "Incorreta: os Nupdecs são formados por voluntários da comunidade, não exclusivamente por servidores públicos concursados.",
-      "C": "Incorreta: os Nupdecs são estruturas comunitárias locais, vinculadas à Proteção e Defesa Civil municipal/estadual, não órgãos federais do Ministério da Defesa.",
-      "D": "Incorreta: os exemplos de Nupdec citados na literatura oficial incluem experiências em contextos urbanos, como Santos, São Bernardo e Belo Horizonte."
+      "A": "Incorreta: os Nupdecs complementam, mas não substituem, as equipes técnicas de defesa civil municipal.",
+      "B": "Incorreta: a decisão sobre interdição de áreas de risco é atribuição da autoridade municipal de defesa civil, não do Nupdec.",
+      "D": "Incorreta: a atuação dos Nupdecs vai além da arrecadação de doações, incluindo ações preventivas antes da ocorrência de desastres."
     },
     "referenciaEdital": "Proteção e Defesa Civil (conteúdo remetido ao Caderno GIRD+10)",
-    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 1",
+    "fonte": "Caderno GIRD+10 (MDR/SEDEC, 2021), Capítulo 1.",
     "pagina": "30",
     "dificuldade": "média"
   }
